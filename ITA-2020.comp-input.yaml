@@ -1,0 +1,2234 @@
+comp:
+  compName: Italian Open 2020
+  discipline: pg
+  earthMath: FS-Andoyer
+  location: Santa Elisabetta
+  from: 2020-08-01
+  to: 2020-08-08
+  civilId: ''
+  utcOffset:
+    timeZoneMinutes: 120
+  scoreBack: 300.000 s
+  give:
+    giveFraction: 1.0e-3
+    giveDistance: null
+  earth:
+    ellipsoid:
+      equatorialR: 6378137.0 m
+      recipF: 298.257223563
+nominal:
+  launch: 0.96
+  goal: 0.3
+  distance: 45.0 km
+  free: 5.000 km
+  time: 1.500000 h
+compTweak:
+  arrivalRank: false
+  arrivalTime: false
+  leadingAreaDistanceSquared: true
+  leadingWeightScaling: null
+tasks:
+- taskName: Task 1
+  zones:
+    raw:
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 400.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
+      alt: 962.000 m
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 1000.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
+      alt: 962.000 m
+    - zoneName: B49
+      lat: 45.5278
+      lng: 7.87488
+      radius: 5000.0 m
+      giveIn: 4995.0 m
+      giveOut: 5005.0 m
+      alt: 830.000 m
+    - zoneName: D02
+      lat: 45.3385
+      lng: 7.54278
+      radius: 8000.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
+      alt: 1349.000 m
+    - zoneName: B31
+      lat: 45.407
+      lng: 7.77435
+      radius: 3000.0 m
+      giveIn: 2997.0 m
+      giveOut: 3003.0 m
+      alt: 406.000 m
+    - zoneName: A11
+      lat: 45.3877
+      lng: 7.66294
+      radius: 1000.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
+      alt: 370.000 m
+    - zoneName: A11
+      lat: 45.3877
+      lng: 7.66294
+      radius: 200.0 m
+      giveIn: 199.8 m
+      giveOut: 200.2 m
+      alt: 370.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 45.52780000 deg
+          - 7.87488000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 45.33850000 deg
+          - 7.54278000 deg
+          radius: 8000.0 m
+      - cylinder:
+          center:
+          - 45.40700000 deg
+          - 7.77435000 deg
+          radius: 3000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 45.38770000 deg
+          - 7.66294000 deg
+          radius: 1000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 45.38770000 deg
+          - 7.66294000 deg
+          radius: 200.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2020-08-02T09:30:00Z
+    close: 2020-08-02T10:45:00Z
+  - open: 2020-08-02T10:45:00Z
+    close: 2020-08-02T12:45:00Z
+  - open: 2020-08-02T10:45:00Z
+    close: 2020-08-02T15:30:00Z
+  - open: 2020-08-02T10:45:00Z
+    close: 2020-08-02T15:30:00Z
+  - open: 2020-08-02T10:45:00Z
+    close: 2020-08-02T15:30:00Z
+  - open: 2020-08-02T10:45:00Z
+    close: 2020-08-02T15:30:00Z
+  - open: 2020-08-02T10:45:00Z
+    close: 2020-08-02T15:30:00Z
+  startGates:
+  - 2020-08-02T10:45:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: Task 2
+  zones:
+    raw:
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 400.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
+      alt: 962.000 m
+    - zoneName: D05
+      lat: 45.4389
+      lng: 7.64675
+      radius: 1500.0 m
+      giveIn: 1498.5 m
+      giveOut: 1501.5 m
+      alt: 1408.000 m
+    - zoneName: D01
+      lat: 45.1618
+      lng: 7.46353
+      radius: 6000.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
+      alt: 990.000 m
+    - zoneName: D09
+      lat: 45.5071
+      lng: 7.80987
+      radius: 7000.0 m
+      giveIn: 6993.0 m
+      giveOut: 7007.0 m
+      alt: 919.000 m
+    - zoneName: B22
+      lat: 45.3853
+      lng: 7.71222
+      radius: 1000.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
+      alt: 388.000 m
+    - zoneName: A04
+      lat: 45.4028
+      lng: 7.6346
+      radius: 3500.0 m
+      giveIn: 3496.5 m
+      giveOut: 3503.5 m
+      alt: 403.000 m
+    - zoneName: A04
+      lat: 45.4028
+      lng: 7.6346
+      radius: 200.0 m
+      giveIn: 199.8 m
+      giveOut: 200.2 m
+      alt: 403.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 45.43890000 deg
+          - 7.64675000 deg
+          radius: 1500.0 m
+      - cylinder:
+          center:
+          - 45.16180000 deg
+          - 7.46353000 deg
+          radius: 6000.0 m
+      - cylinder:
+          center:
+          - 45.50710000 deg
+          - 7.80987000 deg
+          radius: 7000.0 m
+      - cylinder:
+          center:
+          - 45.38530000 deg
+          - 7.71222000 deg
+          radius: 1000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 45.40280000 deg
+          - 7.63460000 deg
+          radius: 3500.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 45.40280000 deg
+          - 7.63460000 deg
+          radius: 200.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2020-08-04T11:00:00Z
+    close: 2020-08-04T11:45:00Z
+  - open: 2020-08-04T11:45:00Z
+    close: 2020-08-04T13:45:00Z
+  - open: 2020-08-04T11:45:00Z
+    close: 2020-08-04T17:30:00Z
+  - open: 2020-08-04T11:45:00Z
+    close: 2020-08-04T17:30:00Z
+  - open: 2020-08-04T11:45:00Z
+    close: 2020-08-04T17:30:00Z
+  - open: 2020-08-04T11:45:00Z
+    close: 2020-08-04T17:30:00Z
+  - open: 2020-08-04T11:45:00Z
+    close: 2020-08-04T17:30:00Z
+  startGates:
+  - 2020-08-04T11:45:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: Task 3
+  zones:
+    raw:
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 400.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
+      alt: 962.000 m
+    - zoneName: D05
+      lat: 45.4389
+      lng: 7.64675
+      radius: 2000.0 m
+      giveIn: 1998.0 m
+      giveOut: 2002.0 m
+      alt: 1408.000 m
+    - zoneName: D11
+      lat: 45.5918
+      lng: 7.97226
+      radius: 5000.0 m
+      giveIn: 4995.0 m
+      giveOut: 5005.0 m
+      alt: 1200.000 m
+    - zoneName: B54
+      lat: 45.4258
+      lng: 8.05064
+      radius: 2000.0 m
+      giveIn: 1998.0 m
+      giveOut: 2002.0 m
+      alt: 289.000 m
+    - zoneName: B35
+      lat: 45.3341
+      lng: 7.83703
+      radius: 6000.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
+      alt: 322.000 m
+    - zoneName: D05
+      lat: 45.4389
+      lng: 7.64675
+      radius: 3000.0 m
+      giveIn: 2997.0 m
+      giveOut: 3003.0 m
+      alt: 1408.000 m
+    - zoneName: A04
+      lat: 45.4028
+      lng: 7.6346
+      radius: 200.0 m
+      giveIn: 199.8 m
+      giveOut: 200.2 m
+      alt: 403.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 45.43890000 deg
+          - 7.64675000 deg
+          radius: 2000.0 m
+      - cylinder:
+          center:
+          - 45.59180000 deg
+          - 7.97226000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 45.42580000 deg
+          - 8.05064000 deg
+          radius: 2000.0 m
+      - cylinder:
+          center:
+          - 45.33410000 deg
+          - 7.83703000 deg
+          radius: 6000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 45.43890000 deg
+          - 7.64675000 deg
+          radius: 3000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 45.40280000 deg
+          - 7.63460000 deg
+          radius: 200.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2020-08-05T10:00:00Z
+    close: 2020-08-05T11:30:00Z
+  - open: 2020-08-05T11:30:00Z
+    close: 2020-08-05T12:30:00Z
+  - open: 2020-08-05T11:30:00Z
+    close: 2020-08-05T17:30:00Z
+  - open: 2020-08-05T11:30:00Z
+    close: 2020-08-05T17:30:00Z
+  - open: 2020-08-05T11:30:00Z
+    close: 2020-08-05T17:30:00Z
+  - open: 2020-08-05T11:30:00Z
+    close: 2020-08-05T17:30:00Z
+  - open: 2020-08-05T11:30:00Z
+    close: 2020-08-05T17:30:00Z
+  startGates:
+  - 2020-08-05T11:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: Task 4
+  zones:
+    raw:
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 400.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
+      alt: 962.000 m
+    - zoneName: D05
+      lat: 45.4389
+      lng: 7.64675
+      radius: 3000.0 m
+      giveIn: 2997.0 m
+      giveOut: 3003.0 m
+      alt: 1408.000 m
+    - zoneName: D12
+      lat: 45.6602
+      lng: 8.07476
+      radius: 6500.0 m
+      giveIn: 6493.5 m
+      giveOut: 6506.5 m
+      alt: 1446.000 m
+    - zoneName: B12
+      lat: 45.2908
+      lng: 7.52333
+      radius: 5500.0 m
+      giveIn: 5494.5 m
+      giveOut: 5505.5 m
+      alt: 840.000 m
+    - zoneName: B26
+      lat: 45.386
+      lng: 7.75506
+      radius: 2000.0 m
+      giveIn: 1998.0 m
+      giveOut: 2002.0 m
+      alt: 370.000 m
+    - zoneName: D05
+      lat: 45.4389
+      lng: 7.64675
+      radius: 3000.0 m
+      giveIn: 2997.0 m
+      giveOut: 3003.0 m
+      alt: 1408.000 m
+    - zoneName: A04
+      lat: 45.4028
+      lng: 7.6346
+      radius: 200.0 m
+      giveIn: 199.8 m
+      giveOut: 200.2 m
+      alt: 403.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 45.43890000 deg
+          - 7.64675000 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 45.66020000 deg
+          - 8.07476000 deg
+          radius: 6500.0 m
+      - cylinder:
+          center:
+          - 45.29080000 deg
+          - 7.52333000 deg
+          radius: 5500.0 m
+      - cylinder:
+          center:
+          - 45.38600000 deg
+          - 7.75506000 deg
+          radius: 2000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 45.43890000 deg
+          - 7.64675000 deg
+          radius: 3000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 45.40280000 deg
+          - 7.63460000 deg
+          radius: 200.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2020-08-06T10:00:00Z
+    close: 2020-08-06T12:00:00Z
+  - open: 2020-08-06T11:30:00Z
+    close: 2020-08-06T13:00:00Z
+  - open: 2020-08-06T11:30:00Z
+    close: 2020-08-06T17:30:00Z
+  - open: 2020-08-06T11:30:00Z
+    close: 2020-08-06T17:30:00Z
+  - open: 2020-08-06T11:30:00Z
+    close: 2020-08-06T17:30:00Z
+  - open: 2020-08-06T11:30:00Z
+    close: 2020-08-06T17:30:00Z
+  - open: 2020-08-06T11:30:00Z
+    close: 2020-08-06T17:30:00Z
+  startGates:
+  - 2020-08-06T11:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: Task 5
+  zones:
+    raw:
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 400.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
+      alt: 962.000 m
+    - zoneName: B06
+      lat: 45.2348
+      lng: 7.46731
+      radius: 26000.0 m
+      giveIn: 25974.0 m
+      giveOut: 26026.0 m
+      alt: 1318.000 m
+    - zoneName: B06
+      lat: 45.2348
+      lng: 7.46731
+      radius: 7000.0 m
+      giveIn: 6993.0 m
+      giveOut: 7007.0 m
+      alt: 1318.000 m
+    - zoneName: B65
+      lat: 45.5208
+      lng: 8.00857
+      radius: 6000.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
+      alt: 325.000 m
+    - zoneName: B18
+      lat: 45.3561
+      lng: 7.69231
+      radius: 1000.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
+      alt: 347.000 m
+    - zoneName: A11
+      lat: 45.3877
+      lng: 7.66294
+      radius: 2500.0 m
+      giveIn: 2497.5 m
+      giveOut: 2502.5 m
+      alt: 370.000 m
+    - zoneName: A11
+      lat: 45.3877
+      lng: 7.66294
+      radius: 200.0 m
+      giveIn: 199.8 m
+      giveOut: 200.2 m
+      alt: 370.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 45.23480000 deg
+          - 7.46731000 deg
+          radius: 26000.0 m
+      - cylinder:
+          center:
+          - 45.23480000 deg
+          - 7.46731000 deg
+          radius: 7000.0 m
+      - cylinder:
+          center:
+          - 45.52080000 deg
+          - 8.00857000 deg
+          radius: 6000.0 m
+      - cylinder:
+          center:
+          - 45.35610000 deg
+          - 7.69231000 deg
+          radius: 1000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 45.38770000 deg
+          - 7.66294000 deg
+          radius: 2500.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 45.38770000 deg
+          - 7.66294000 deg
+          radius: 200.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2020-08-07T10:00:00Z
+    close: 2020-08-07T11:15:00Z
+  - open: 2020-08-07T11:15:00Z
+    close: 2020-08-07T12:15:00Z
+  - open: 2020-08-07T11:15:00Z
+    close: 2020-08-07T17:30:00Z
+  - open: 2020-08-07T11:15:00Z
+    close: 2020-08-07T17:30:00Z
+  - open: 2020-08-07T11:15:00Z
+    close: 2020-08-07T17:30:00Z
+  - open: 2020-08-07T11:15:00Z
+    close: 2020-08-07T17:30:00Z
+  - open: 2020-08-07T11:15:00Z
+    close: 2020-08-07T17:30:00Z
+  startGates:
+  - 2020-08-07T11:15:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+- taskName: Task 6
+  zones:
+    raw:
+    - zoneName: D04
+      lat: 45.4184
+      lng: 7.64178
+      radius: 400.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
+      alt: 962.000 m
+    - zoneName: B39
+      lat: 45.2813
+      lng: 8.08051
+      radius: 35000.0 m
+      giveIn: 34965.0 m
+      giveOut: 35035.0 m
+      alt: 188.000 m
+    - zoneName: B34
+      lat: 45.3589
+      lng: 7.81609
+      radius: 1000.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
+      alt: 366.000 m
+    - zoneName: D10
+      lat: 45.546
+      lng: 7.87519
+      radius: 6000.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
+      alt: 1254.000 m
+    - zoneName: B27
+      lat: 45.3626
+      lng: 7.7676
+      radius: 2000.0 m
+      giveIn: 1998.0 m
+      giveOut: 2002.0 m
+      alt: 329.000 m
+    - zoneName: B43
+      lat: 45.4778
+      lng: 7.83098
+      radius: 5000.0 m
+      giveIn: 4995.0 m
+      giveOut: 5005.0 m
+      alt: 251.000 m
+    - zoneName: A11
+      lat: 45.3877
+      lng: 7.66294
+      radius: 2000.0 m
+      giveIn: 1998.0 m
+      giveOut: 2002.0 m
+      alt: 370.000 m
+    - zoneName: A04
+      lat: 45.4028
+      lng: 7.6346
+      radius: 200.0 m
+      giveIn: 199.8 m
+      giveOut: 200.2 m
+      alt: 403.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 45.41840000 deg
+          - 7.64178000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 45.28130000 deg
+          - 8.08051000 deg
+          radius: 35000.0 m
+      - cylinder:
+          center:
+          - 45.35890000 deg
+          - 7.81609000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 45.54600000 deg
+          - 7.87519000 deg
+          radius: 6000.0 m
+      - cylinder:
+          center:
+          - 45.36260000 deg
+          - 7.76760000 deg
+          radius: 2000.0 m
+      - cylinder:
+          center:
+          - 45.47780000 deg
+          - 7.83098000 deg
+          radius: 5000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 45.38770000 deg
+          - 7.66294000 deg
+          radius: 2000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 45.40280000 deg
+          - 7.63460000 deg
+          radius: 200.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2020-08-08T10:00:00Z
+    close: 2020-08-08T11:45:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T13:45:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T16:30:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T16:30:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T16:30:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T16:30:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T16:30:00Z
+  - open: 2020-08-08T11:45:00Z
+    close: 2020-08-08T16:30:00Z
+  startGates:
+  - 2020-08-08T11:45:00Z
+  stopped: null
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolders:
+- - t1_20200802
+- - t2_20200804
+- - t3_20200805
+- - t4_20200806
+- - t5_20200807
+- - t6_20200808
+pilots:
+- - - - '115'
+      - Alberto Castagna
+    - alberto_castagna_2020-08-02_01.igc
+  - - - '141'
+      - Albino Malli
+    - albino_malli_2020-08-02_01.igc
+  - - - '126'
+      - Alessandro Fuzzi
+    - alessandro_fuzzi_2020-08-02_01.igc
+  - - - '139'
+      - Alessandro Madaluni
+    - alessandro_madaluni_2020-08-02_01.igc
+  - - - '149'
+      - Alessandro Palma
+    - alessandro_palma_2020-08-02_01.igc
+  - - - '152'
+      - Alessandro Pompei
+    - alessandro_pompei_2020-08-02_01.igc
+  - - - '169'
+      - Alessandro Vallero
+    - alessandro_vallero_2020-08-02_01.igc
+  - - - '133'
+      - Alessio Guidi
+    - alessio_guidi_2020-08-02_01.igc
+  - - - '172'
+      - Alessio Voltan
+    - alessio_voltan_2020-08-02_01.igc
+  - - - '155'
+      - Alfio Ragaglia
+    - alfio_ragaglia_2020-08-02_01.igc
+  - - - '164'
+      - Anca Tabara
+    - anca_tabara_2020-08-02_01.igc
+  - - - '130'
+      - Andrea Garolla
+    - andrea_garolla_2020-08-02_01.igc
+  - - - '165'
+      - Andrea Terenziani
+    - andrea_terenziani_2020-08-02_01.igc
+  - - - '122'
+      - Angelo Dell’Aira
+    - angelo_dell’aira_2020-08-02_01.igc
+  - - - '158'
+      - Antonio Ruta
+    - antonio_ruta_2020-08-02_01.igc
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - arkadiusz_slusarczyk_2020-08-02_01.igc
+  - - - '171'
+      - Biagio Alberto Vitale
+    - biagio_alberto_vitale_2020-08-02_01.igc
+  - - - '177'
+      - Bogdan Bialka
+    - bogdan_bialka_2020-08-02_01.igc
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - charles_henrique_guimaraes_moura_2020-08-02_01.igc
+  - - - '106'
+      - Christian Biasi
+    - christian_biasi_2020-08-02_01.igc
+  - - - '135'
+      - Cristian Inverardi
+    - cristian_inverardi_2020-08-02_01.igc
+  - - - '105'
+      - Daniele Bevilacqua
+    - daniele_bevilacqua_2020-08-02_01.igc
+  - - - '174'
+      - Davide Zaltron
+    - davide_zaltron_2020-08-02_01.igc
+  - - - '101'
+      - Diego Ardissone
+    - diego_ardissone_2020-08-02_01.igc
+  - - - '157'
+      - Elio Rossi
+    - elio_rossi_2020-08-02_01.igc
+  - - - '109'
+      - Federico Brown Manzone
+    - feberico_brown_manzone_2020-08-02_01.igc
+  - - - '145'
+      - Federico Nevastro
+    - federico_nevastro_2020-08-02_01.igc
+  - - - '176'
+      - Francesco Fontanesi
+    - francesco_fontanesi_2020-08-02_01.igc
+  - - - '147'
+      - Francesco Orcese
+    - francesco_orcese_2020-08-02_01.igc
+  - - - '107'
+      - Gabriele Bonafini
+    - gabriele_bonafini_2020-08-02_01.igc
+  - - - '120'
+      - Gabriele D'Arrigo
+    - gabriele_d_arrigo_2020-08-02_01.igc
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - gbriel-alexandru_ivan_2020-08-02_01.igc
+  - - - '153'
+      - Gianbasilio Profiti
+    - gianbasilio_profiti_2020-08-02_01.igc
+  - - - '117'
+      - Gianfranco Crestani
+    - gianfranco_crestani_2020-08-02_01.igc
+  - - - '121'
+      - Giorgio Darra
+    - giorgio_darra_2020-08-02_01.igc
+  - - - '160'
+      - Giuseppe Simone
+    - giuseppe_simone_2020-08-02_01.igc
+  - - - '118'
+      - Igor D'Agostino
+    - igor_d_agostino_2020-08-02_01.igc
+  - - - '167'
+      - Ionut Ulici
+    - ionut_ulici_2020-08-02_01.igc
+  - - - '116'
+      - Ivan Centa
+    - ivan_centa_2020-08-02_01.igc
+  - - - '146'
+      - Joachim Oberhauser
+    - joachim_oberhauser_2020-08-02_01.igc
+  - - - '110'
+      - Klaudia Bulgakow
+    - klaudia_bulgakow_2020-08-02_01.igc
+  - - - '104'
+      - Loris Berta
+    - loris_berta_2020-08-02_01.igc
+  - - - '142'
+      - Luca Mammucari
+    - luca_mammucari_2020-08-02_01.igc
+  - - - '150'
+      - Luca Paoletti
+    - luca_paoletti_2020-08-02_01.igc
+  - - - '129'
+      - Luciano Gallo
+    - luciano_gallo_2020-08-02_01.igc
+  - - - '148'
+      - Luciano Pagnoni
+    - luciano_pagnoni_2020-08-02_01.igc
+  - - - '111'
+      - Marco Busetta
+    - marco_busetta_2020-08-02_01.igc
+  - - - '131'
+      - Marco Gentilini
+    - marco_gentilini_2020-08-02_01.igc
+  - - - '138'
+      - Marco Littamè
+    - marco_littame_2020-08-02_01.igc
+  - - - '168'
+      - Marco Valentini
+    - marco_valentini_2020-08-02_01.igc
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - maria_antonietta_d_angela_2020-08-02_01.igc
+  - - - '178'
+      - Marius Saigiu
+    - marius_saigiu_2020-08-02_01.igc
+  - - - '156'
+      - Massimo Rapari
+    - massimo_rapari_2020-08-02_01.igc
+  - - - '102'
+      - Matteo Bacchiocchi
+    - matteo_bacchiocchi_2020-08-02_01.igc
+  - - - '161'
+      - Matteo Siragna
+    - matteo_siragna_2020-08-02_01.igc
+  - - - '140'
+      - Maurizio Maina
+    - maurizio_maina_2020-08-02_01.igc
+  - - - '108'
+      - Michele Boschi
+    - michele_boschi_2020-08-02_01.igc
+  - - - '128'
+      - Michele Gaiba
+    - michele_gaiba_2020-08-02_01.igc
+  - - - '114'
+      - Mirco Casarini
+    - mirco_casarini_2020-08-02_01.igc
+  - - - '124'
+      - Paolo Facchini
+    - paolo_facchini_2020-08-02_01.igc
+  - - - '170'
+      - Paolo Veratti
+    - paolo_veratti_2020-08-02_01.igc
+  - - - '173'
+      - Paolo Zammarchi
+    - paolo_zammarchi_2020-08-02_01.igc
+  - - - '151'
+      - Piergiorgio Pintossi
+    - piergiorgio_pintossi_2020-08-02_01.igc
+  - - - '144'
+      - Riccardo Marchetto
+    - riccardo_marchetto_2020-08-02_01.igc
+  - - - '127'
+      - Richárd Gabrieli
+    - richard_gabrieli_2020-08-02_01.igc
+  - - - '123'
+      - Sergio Di Fazio
+    - sergio_di_fazio_2020-08-02_01.igc
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - silvia_buzzi_ferraris_2020-08-02_01.igc
+  - - - '137'
+      - Slawomir Kaczynski
+    - slawomir_kaczynski_2020-08-02_01.igc
+  - - - '154'
+      - Stefano Pucci
+    - stefano_pucci_2020-08-02_01.igc
+  - - - '166'
+      - Tiziano Trambaioli
+    - tiziano_trambaioli_2020-08-02_01.igc
+  - - - '113'
+      - Tommaso Carlini
+    - tommaso_carlini_2020-08-02_01.igc
+  - - - '143'
+      - Valerio Marchetti
+    - valerio_marchetti_2020-08-02_01.igc
+- - - - '115'
+      - Alberto Castagna
+    - alberto_castagna_2020-08-04_01.igc
+  - - - '141'
+      - Albino Malli
+    - albino_malli_2020-08-04_01.igc
+  - - - '126'
+      - Alessandro Fuzzi
+    - alessandro_fuzzi_2020-08-04_01.igc
+  - - - '139'
+      - Alessandro Madaluni
+    - alessandro_madaluni_2020-08-04_01.igc
+  - - - '149'
+      - Alessandro Palma
+    - alessandro_palma_2020-08-04_01.igc
+  - - - '152'
+      - Alessandro Pompei
+    - alessandro_pompei_2020-08-04_01.igc
+  - - - '169'
+      - Alessandro Vallero
+    - alessandro_vallero_2020-08-04_01.igc
+  - - - '133'
+      - Alessio Guidi
+    - alessio_guidi_2020-08-04_01.igc
+  - - - '172'
+      - Alessio Voltan
+    - alessio_voltan_2020-08-04_01.igc
+  - - - '155'
+      - Alfio Ragaglia
+    - alfio_ragaglia_2020-08-04_01.igc
+  - - - '164'
+      - Anca Tabara
+    - anca_tabara_2020-08-04_01.igc
+  - - - '130'
+      - Andrea Garolla
+    - andrea_garolla_2020-08-04_01.igc
+  - - - '165'
+      - Andrea Terenziani
+    - andrea_terenziani_2020-08-04_01.igc
+  - - - '122'
+      - Angelo Dell’Aira
+    - angelo_dell’aira_2020-08-04_02.igc
+  - - - '158'
+      - Antonio Ruta
+    - antonio_ruta_2020-08-04_01.igc
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - arkadiusz_slusarczyk_2020-08-04_01.igc
+  - - - '171'
+      - Biagio Alberto Vitale
+    - biagio_alberto_vitale_2020-08-04_01.igc
+  - - - '177'
+      - Bogdan Bialka
+    - bogdan_bialka_2020-08-04_01.igc
+  - - - '106'
+      - Christian Biasi
+    - christian_biasi_2020-08-04_01.igc
+  - - - '135'
+      - Cristian Inverardi
+    - cristian_inverardi_2020-08-04_01.igc
+  - - - '105'
+      - Daniele Bevilacqua
+    - daniele_bevilacqua_2020-08-04_01.igc
+  - - - '174'
+      - Davide Zaltron
+    - davide_zaltron_2020-08-04_01.igc
+  - - - '101'
+      - Diego Ardissone
+    - diego_ardissone_2020-08-04_01.igc
+  - - - '157'
+      - Elio Rossi
+    - elio_rossi_2020-08-04_01.igc
+  - - - '109'
+      - Federico Brown Manzone
+    - feberico_brown_manzone_2020-08-04_01.igc
+  - - - '145'
+      - Federico Nevastro
+    - federico_nevastro_2020-08-04_01.igc
+  - - - '176'
+      - Francesco Fontanesi
+    - francesco_fontanesi_2020-08-04_01.igc
+  - - - '147'
+      - Francesco Orcese
+    - francesco_orcese_2020-08-04_01.igc
+  - - - '107'
+      - Gabriele Bonafini
+    - gabriele_bonafini_2020-08-04_01.igc
+  - - - '120'
+      - Gabriele D'Arrigo
+    - gabriele_d_arrigo_2020-08-04_01.igc
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - gbriel-alexandru_ivan_2020-08-04_01.igc
+  - - - '153'
+      - Gianbasilio Profiti
+    - gianbasilio_profiti_2020-08-04_01.igc
+  - - - '117'
+      - Gianfranco Crestani
+    - gianfranco_crestani_2020-08-04_01.igc
+  - - - '121'
+      - Giorgio Darra
+    - giorgio_darra_2020-08-04_01.igc
+  - - - '160'
+      - Giuseppe Simone
+    - giuseppe_simone_2020-08-04_01.igc
+  - - - '125'
+      - Grzegorz Fiema
+    - grzegorz_fiema_2020-08-04_01.igc
+  - - - '118'
+      - Igor D'Agostino
+    - igor_d_agostino_2020-08-04_01.igc
+  - - - '167'
+      - Ionut Ulici
+    - ionut_ulici_2020-08-04_01.igc
+  - - - '116'
+      - Ivan Centa
+    - ivan_centa_2020-08-04_01.igc
+  - - - '132'
+      - Jacek Górski
+    - jacek_gorski_2020-08-04_01.igc
+  - - - '146'
+      - Joachim Oberhauser
+    - joachim_oberhauser_2020-08-04_01.igc
+  - - - '110'
+      - Klaudia Bulgakow
+    - klaudia_bulgakow_2020-08-04_01.igc
+  - - - '159'
+      - Krzysztof Schmidt
+    - krzysztof_schmidt_2020-08-04_01.igc
+  - - - '104'
+      - Loris Berta
+    - loris_berta_2020-08-04_01.igc
+  - - - '142'
+      - Luca Mammucari
+    - luca_mammucari_2020-08-04_01.igc
+  - - - '150'
+      - Luca Paoletti
+    - luca_paoletti_2020-08-04_01.igc
+  - - - '129'
+      - Luciano Gallo
+    - luciano_gallo_2020-08-04_01.igc
+  - - - '148'
+      - Luciano Pagnoni
+    - luciano_pagnoni_2020-08-04_01.igc
+  - - - '111'
+      - Marco Busetta
+    - marco_busetta_2020-08-04_01.igc
+  - - - '131'
+      - Marco Gentilini
+    - marco_gentilini_2020-08-04_01.igc
+  - - - '138'
+      - Marco Littamè
+    - marco_littame_2020-08-04_01.igc
+  - - - '168'
+      - Marco Valentini
+    - marco_valentini_2020-08-04_01.igc
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - maria_antonietta_d_angela_2020-08-04_01.igc
+  - - - '178'
+      - Marius Saigiu
+    - marius_saigiu_2020-08-04_01.igc
+  - - - '175'
+      - Mariusz Wisniowski
+    - mariusz_wisniowski_2020-08-04_01.igc
+  - - - '156'
+      - Massimo Rapari
+    - massimo_rapari_2020-08-04_01.igc
+  - - - '102'
+      - Matteo Bacchiocchi
+    - matteo_bacchiocchi_2020-08-04_01.igc
+  - - - '161'
+      - Matteo Siragna
+    - matteo_siragna_2020-08-04_01.igc
+  - - - '140'
+      - Maurizio Maina
+    - maurizio_maina_2020-08-04_01.igc
+  - - - '180'
+      - Michal Gierlach
+    - michal_gierlach_2020-08-04_01.igc
+  - - - '108'
+      - Michele Boschi
+    - michele_boschi_2020-08-04_01.igc
+  - - - '128'
+      - Michele Gaiba
+    - michele_gaiba_2020-08-04_01.igc
+  - - - '114'
+      - Mirco Casarini
+    - mirco_casarini_2020-08-04_01.igc
+  - - - '124'
+      - Paolo Facchini
+    - paolo_facchini_2020-08-04_01.igc
+  - - - '170'
+      - Paolo Veratti
+    - paolo_veratti_2020-08-04_01.igc
+  - - - '173'
+      - Paolo Zammarchi
+    - paolo_zammarchi_2020-08-04_01.igc
+  - - - '151'
+      - Piergiorgio Pintossi
+    - piergiorgio_pintossi_2020-08-04_01.igc
+  - - - '144'
+      - Riccardo Marchetto
+    - riccardo_marchetto_2020-08-04_01.igc
+  - - - '127'
+      - Richárd Gabrieli
+    - richard_gabrieli_2020-08-04_01.igc
+  - - - '123'
+      - Sergio Di Fazio
+    - sergio_di_fazio_2020-08-04_01.igc
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - silvia_buzzi_ferraris_2020-08-04_01.igc
+  - - - '137'
+      - Slawomir Kaczynski
+    - slawomir_kaczynski_2020-08-04_01.igc
+  - - - '154'
+      - Stefano Pucci
+    - stefano_pucci_2020-08-04_01.igc
+  - - - '166'
+      - Tiziano Trambaioli
+    - tiziano_trambaioli_2020-08-04_01.igc
+  - - - '113'
+      - Tommaso Carlini
+    - tommaso_carlini_2020-08-04_01.igc
+  - - - '143'
+      - Valerio Marchetti
+    - valerio_marchetti_2020-08-04_01.igc
+- - - - '115'
+      - Alberto Castagna
+    - alberto_castagna_2020-08-05_01.igc
+  - - - '141'
+      - Albino Malli
+    - albino_malli_2020-08-05_01.igc
+  - - - '126'
+      - Alessandro Fuzzi
+    - alessandro_fuzzi_2020-08-05_01.igc
+  - - - '139'
+      - Alessandro Madaluni
+    - alessandro_madaluni_2020-08-05_01.igc
+  - - - '149'
+      - Alessandro Palma
+    - alessandro_palma_2020-08-05_01.igc
+  - - - '169'
+      - Alessandro Vallero
+    - alessandro_vallero_2020-08-05_01.igc
+  - - - '133'
+      - Alessio Guidi
+    - alessio_guidi_2020-08-05_01.igc
+  - - - '172'
+      - Alessio Voltan
+    - alessio_voltan_2020-08-05_01.igc
+  - - - '155'
+      - Alfio Ragaglia
+    - alfio_ragaglia_2020-08-05_01.igc
+  - - - '164'
+      - Anca Tabara
+    - anca_tabara_2020-08-05_01.igc
+  - - - '130'
+      - Andrea Garolla
+    - andrea_garolla_2020-08-05_01.igc
+  - - - '165'
+      - Andrea Terenziani
+    - andrea_terenziani_2020-08-05_01.igc
+  - - - '122'
+      - Angelo Dell’Aira
+    - angelo_dell’aira_2020-08-05_02.igc
+  - - - '158'
+      - Antonio Ruta
+    - antonio_ruta_2020-08-05_01.igc
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - arkadiusz_slusarczyk_2020-08-05_01.igc
+  - - - '171'
+      - Biagio Alberto Vitale
+    - biagio_alberto_vitale_2020-08-05_01.igc
+  - - - '177'
+      - Bogdan Bialka
+    - bogdan_bialka_2020-08-05_01.igc
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - charles_henrique_guimaraes_moura_2020-08-05_01.igc
+  - - - '106'
+      - Christian Biasi
+    - christian_biasi_2020-08-05_01.igc
+  - - - '135'
+      - Cristian Inverardi
+    - cristian_inverardi_2020-08-05_01.igc
+  - - - '105'
+      - Daniele Bevilacqua
+    - daniele_bevilacqua_2020-08-05_01.igc
+  - - - '174'
+      - Davide Zaltron
+    - davide_zaltron_2020-08-05_01.igc
+  - - - '101'
+      - Diego Ardissone
+    - diego_ardissone_2020-08-05_02.igc
+  - - - '157'
+      - Elio Rossi
+    - elio_rossi_2020-08-05_01.igc
+  - - - '109'
+      - Federico Brown Manzone
+    - federico_brown_manzone_2020-08-05_02.igc
+  - - - '145'
+      - Federico Nevastro
+    - federico_nevastro_2020-08-05_01.igc
+  - - - '176'
+      - Francesco Fontanesi
+    - francesco_fontanesi_2020-08-05_01.igc
+  - - - '147'
+      - Francesco Orcese
+    - francesco_orcese_2020-08-05_01.igc
+  - - - '107'
+      - Gabriele Bonafini
+    - gabriele_bonafini_2020-08-05_01.igc
+  - - - '120'
+      - Gabriele D'Arrigo
+    - gabriele_d_arrigo_2020-08-05_01.igc
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - gbriel-alexandru_ivan_2020-08-05_01.igc
+  - - - '153'
+      - Gianbasilio Profiti
+    - gianbasilio_profiti_2020-08-05_01.igc
+  - - - '117'
+      - Gianfranco Crestani
+    - gianfranco_crestani_2020-08-05_01.igc
+  - - - '121'
+      - Giorgio Darra
+    - giorgio_darra_2020-08-05_01.igc
+  - - - '160'
+      - Giuseppe Simone
+    - giuseppe_simone_2020-08-05_01.igc
+  - - - '125'
+      - Grzegorz Fiema
+    - grzegorz_fiema_2020-08-05_02.igc
+  - - - '118'
+      - Igor D'Agostino
+    - igor_d_agostino_2020-08-05_01.igc
+  - - - '167'
+      - Ionut Ulici
+    - ionut_ulici_2020-08-05_01.igc
+  - - - '116'
+      - Ivan Centa
+    - ivan_centa_2020-08-05_01.igc
+  - - - '132'
+      - Jacek Górski
+    - jacek_gorski_2020-08-05_01.igc
+  - - - '146'
+      - Joachim Oberhauser
+    - joachim_oberhauser_2020-08-05_01.igc
+  - - - '110'
+      - Klaudia Bulgakow
+    - klaudia_bulgakow_2020-08-05_01.igc
+  - - - '159'
+      - Krzysztof Schmidt
+    - krzysztof_schmidt_2020-08-05_01.igc
+  - - - '104'
+      - Loris Berta
+    - loris_berta_2020-08-05_01.igc
+  - - - '142'
+      - Luca Mammucari
+    - luca_mammucari_2020-08-05_01.igc
+  - - - '150'
+      - Luca Paoletti
+    - luca_paoletti_2020-08-05_01.igc
+  - - - '129'
+      - Luciano Gallo
+    - luciano_gallo_2020-08-05_01.igc
+  - - - '148'
+      - Luciano Pagnoni
+    - luciano_pagnoni_2020-08-05_01.igc
+  - - - '111'
+      - Marco Busetta
+    - marco_busetta_2020-08-05_01.igc
+  - - - '131'
+      - Marco Gentilini
+    - marco_gentilini_2020-08-05_01.igc
+  - - - '138'
+      - Marco Littamè
+    - marco_littame_2020-08-05_01.igc
+  - - - '168'
+      - Marco Valentini
+    - marco_valentini_2020-08-05_01.igc
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - maria_antonietta_d_angela_2020-08-05_01.igc
+  - - - '178'
+      - Marius Saigiu
+    - marius_saigiu_2020-08-05_01.igc
+  - - - '175'
+      - Mariusz Wisniowski
+    - mariusz_wisniowski_2020-08-05_01.igc
+  - - - '156'
+      - Massimo Rapari
+    - massimo_rapari_2020-08-05_01.igc
+  - - - '102'
+      - Matteo Bacchiocchi
+    - matteo_bacchiocchi_2020-08-05_01.igc
+  - - - '161'
+      - Matteo Siragna
+    - matteo_siragna_2020-08-05_01.igc
+  - - - '140'
+      - Maurizio Maina
+    - maurizio_maina_2020-08-05_01.igc
+  - - - '180'
+      - Michal Gierlach
+    - michal_gierlach_2020-08-05_01.igc
+  - - - '108'
+      - Michele Boschi
+    - michele_boschi_2020-08-05_01.igc
+  - - - '128'
+      - Michele Gaiba
+    - michele_gaiba_2020-08-05_01.igc
+  - - - '114'
+      - Mirco Casarini
+    - mirco_casarini_2020-08-05_02.igc
+  - - - '124'
+      - Paolo Facchini
+    - paolo_facchini_2020-08-05_01.igc
+  - - - '170'
+      - Paolo Veratti
+    - paolo_veratti_2020-08-05_01.igc
+  - - - '173'
+      - Paolo Zammarchi
+    - paolo_zammarchi_2020-08-05_01.igc
+  - - - '151'
+      - Piergiorgio Pintossi
+    - piergiorgio_pintossi_2020-08-05_01.igc
+  - - - '144'
+      - Riccardo Marchetto
+    - riccardo_marchetto_2020-08-05_01.igc
+  - - - '127'
+      - Richárd Gabrieli
+    - richard_gabrieli_2020-08-05_01.igc
+  - - - '123'
+      - Sergio Di Fazio
+    - sergio_di_fazio_2020-08-05_01.igc
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - silvia_buzzi_ferraris_2020-08-05_01.igc
+  - - - '137'
+      - Slawomir Kaczynski
+    - slawomir_kaczynski_2020-08-05_01.igc
+  - - - '154'
+      - Stefano Pucci
+    - stefano_pucci_2020-08-05_01.igc
+  - - - '166'
+      - Tiziano Trambaioli
+    - tiziano_trambaioli_2020-08-05_01.igc
+  - - - '113'
+      - Tommaso Carlini
+    - tommaso_carlini_2020-08-05_01.igc
+  - - - '143'
+      - Valerio Marchetti
+    - valerio_marchetti_2020-08-05_01.igc
+- - - - '115'
+      - Alberto Castagna
+    - alberto_castagna_2020-08-06_01.igc
+  - - - '141'
+      - Albino Malli
+    - albino_malli_2020-08-06_01.igc
+  - - - '126'
+      - Alessandro Fuzzi
+    - alessandro_fuzzi_2020-08-06_01.igc
+  - - - '139'
+      - Alessandro Madaluni
+    - alessandro_madaluni_2020-08-06_01.igc
+  - - - '149'
+      - Alessandro Palma
+    - alessandro_palma_2020-08-06_01.igc
+  - - - '152'
+      - Alessandro Pompei
+    - alessandro_pompei_2020-08-06_01.igc
+  - - - '169'
+      - Alessandro Vallero
+    - alessandro_vallero_2020-08-06_01.igc
+  - - - '133'
+      - Alessio Guidi
+    - alessio_guidi_2020-08-06_01.igc
+  - - - '172'
+      - Alessio Voltan
+    - alessio_voltan_2020-08-06_01.igc
+  - - - '155'
+      - Alfio Ragaglia
+    - alfio_ragaglia_2020-08-06_01.igc
+  - - - '164'
+      - Anca Tabara
+    - anca_tabara_2020-08-06_01.igc
+  - - - '130'
+      - Andrea Garolla
+    - andrea_garolla_2020-08-06_01.igc
+  - - - '165'
+      - Andrea Terenziani
+    - andrea_terenziani_2020-08-06_01.igc
+  - - - '122'
+      - Angelo Dell’Aira
+    - angelo_dell’aira_2020-08-06_02.igc
+  - - - '158'
+      - Antonio Ruta
+    - antonio_ruta_2020-08-06_01.igc
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - arkadiusz_slusarczyk_2020-08-06_01.igc
+  - - - '171'
+      - Biagio Alberto Vitale
+    - biagio_alberto_vitale_2020-08-06_01.igc
+  - - - '177'
+      - Bogdan Bialka
+    - bogdan_bialka_2020-08-06_01.igc
+  - - - '106'
+      - Christian Biasi
+    - christian_biasi_2020-08-06_01.igc
+  - - - '135'
+      - Cristian Inverardi
+    - cristian_inverardi_2020-08-06_01.igc
+  - - - '105'
+      - Daniele Bevilacqua
+    - daniele_bevilacqua_2020-08-06_01.igc
+  - - - '174'
+      - Davide Zaltron
+    - davide_zaltron_2020-08-06_01.igc
+  - - - '101'
+      - Diego Ardissone
+    - diego_ardissone_2020-08-06_02.igc
+  - - - '157'
+      - Elio Rossi
+    - elio_rossi_2020-08-06_01.igc
+  - - - '109'
+      - Federico Brown Manzone
+    - federico_brown_manzone_2020-08-06_01.igc
+  - - - '145'
+      - Federico Nevastro
+    - federico_nevastro_2020-08-06_01.igc
+  - - - '176'
+      - Francesco Fontanesi
+    - francesco_fontanesi_2020-08-06_01.igc
+  - - - '147'
+      - Francesco Orcese
+    - francesco_orcese_2020-08-06_01.igc
+  - - - '107'
+      - Gabriele Bonafini
+    - gabriele_bonafini_2020-08-06_01.igc
+  - - - '120'
+      - Gabriele D'Arrigo
+    - gabriele_d_arrigo_2020-08-06_01.igc
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - gbriel-alexandru_ivan_2020-08-06_01.igc
+  - - - '153'
+      - Gianbasilio Profiti
+    - gianbasilio_profiti_2020-08-06_01.igc
+  - - - '117'
+      - Gianfranco Crestani
+    - gianfranco_crestani_2020-08-06_01.igc
+  - - - '121'
+      - Giorgio Darra
+    - giorgio_darra_2020-08-06_01.igc
+  - - - '160'
+      - Giuseppe Simone
+    - giuseppe_simone_2020-08-06_01.igc
+  - - - '125'
+      - Grzegorz Fiema
+    - grzegorz_fiema_2020-08-06_01.igc
+  - - - '118'
+      - Igor D'Agostino
+    - igor_d_agostino_2020-08-06_01.igc
+  - - - '167'
+      - Ionut Ulici
+    - ionut_ulici_2020-08-06_01.igc
+  - - - '116'
+      - Ivan Centa
+    - ivan_centa_2020-08-06_01.igc
+  - - - '132'
+      - Jacek Górski
+    - jacek_gorski_2020-08-06_01.igc
+  - - - '146'
+      - Joachim Oberhauser
+    - joachim_oberhauser_2020-08-06_01.igc
+  - - - '110'
+      - Klaudia Bulgakow
+    - klaudia_bulgakow_2020-08-06_01.igc
+  - - - '159'
+      - Krzysztof Schmidt
+    - krzysztof_schmidt_2020-08-06_01.igc
+  - - - '104'
+      - Loris Berta
+    - loris_berta_2020-08-06_01.igc
+  - - - '142'
+      - Luca Mammucari
+    - luca_mammucari_2020-08-06_01.igc
+  - - - '150'
+      - Luca Paoletti
+    - luca_paoletti_2020-08-06_02.igc
+  - - - '129'
+      - Luciano Gallo
+    - luciano_gallo_2020-08-06_01.igc
+  - - - '148'
+      - Luciano Pagnoni
+    - luciano_pagnoni_2020-08-06_01.igc
+  - - - '111'
+      - Marco Busetta
+    - marco_busetta_2020-08-06_01.igc
+  - - - '131'
+      - Marco Gentilini
+    - marco_gentilini_2020-08-06_01.igc
+  - - - '138'
+      - Marco Littamè
+    - marco_littame_2020-08-06_01.igc
+  - - - '168'
+      - Marco Valentini
+    - marco_valentini_2020-08-06_01.igc
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - maria_antonietta_d_angela_2020-08-06_01.igc
+  - - - '178'
+      - Marius Saigiu
+    - marius_saigiu_2020-08-06_01.igc
+  - - - '175'
+      - Mariusz Wisniowski
+    - mariusz_wisniowski_2020-08-06_01.igc
+  - - - '156'
+      - Massimo Rapari
+    - massimo_rapari_2020-08-06_01.igc
+  - - - '102'
+      - Matteo Bacchiocchi
+    - matteo_bacchiocchi_2020-08-06_01.igc
+  - - - '161'
+      - Matteo Siragna
+    - matteo_siragna_2020-08-06_01.igc
+  - - - '140'
+      - Maurizio Maina
+    - maurizio_maina_2020-08-06_01.igc
+  - - - '180'
+      - Michal Gierlach
+    - michal_gierlach_2020-08-06_01.igc
+  - - - '108'
+      - Michele Boschi
+    - michele_boschi_2020-08-06_01.igc
+  - - - '128'
+      - Michele Gaiba
+    - michele_gaiba_2020-08-06_02.igc
+  - - - '114'
+      - Mirco Casarini
+    - mirco_casarini_2020-08-06_02.igc
+  - - - '124'
+      - Paolo Facchini
+    - paolo_facchini_2020-08-06_01.igc
+  - - - '170'
+      - Paolo Veratti
+    - paolo_veratti_2020-08-06_01.igc
+  - - - '173'
+      - Paolo Zammarchi
+    - paolo_zammarchi_2020-08-06_01.igc
+  - - - '151'
+      - Piergiorgio Pintossi
+    - piergiorgio_pintossi_2020-08-06_01.igc
+  - - - '144'
+      - Riccardo Marchetto
+    - riccardo_marchetto_2020-08-06_01.igc
+  - - - '127'
+      - Richárd Gabrieli
+    - richard_gabrieli_2020-08-06_01.igc
+  - - - '123'
+      - Sergio Di Fazio
+    - sergio_di_fazio_2020-08-06_01.igc
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - silvia_buzzi_ferraris_2020-08-06_02.igc
+  - - - '137'
+      - Slawomir Kaczynski
+    - slawomir_kaczynski_2020-08-06_01.igc
+  - - - '154'
+      - Stefano Pucci
+    - stefano_pucci_2020-08-06_01.igc
+  - - - '166'
+      - Tiziano Trambaioli
+    - tiziano_trambaioli_2020-08-06_01.igc
+  - - - '113'
+      - Tommaso Carlini
+    - tommaso_carlini_2020-08-06_01.igc
+  - - - '143'
+      - Valerio Marchetti
+    - valerio_marchetti_2020-08-06_01.igc
+- - - - '115'
+      - Alberto Castagna
+    - alberto_castagna_2020-08-07_01.igc
+  - - - '141'
+      - Albino Malli
+    - albino_malli_2020-08-07_01.igc
+  - - - '126'
+      - Alessandro Fuzzi
+    - alessandro_fuzzi_2020-08-07_01.igc
+  - - - '139'
+      - Alessandro Madaluni
+    - alessandro_madaluni_2020-08-07_01.igc
+  - - - '149'
+      - Alessandro Palma
+    - alessandro_palma_2020-08-07_01.igc
+  - - - '152'
+      - Alessandro Pompei
+    - alessandro_pompei_2020-08-07_01.igc
+  - - - '169'
+      - Alessandro Vallero
+    - alessandro_vallero_2020-08-07_01.igc
+  - - - '133'
+      - Alessio Guidi
+    - alessio_guidi_2020-08-07_01.igc
+  - - - '172'
+      - Alessio Voltan
+    - alessio_voltan_2020-08-07_01.igc
+  - - - '155'
+      - Alfio Ragaglia
+    - alfio_ragaglia_2020-08-07_01.igc
+  - - - '164'
+      - Anca Tabara
+    - anca_tabara_2020-08-07_01.igc
+  - - - '130'
+      - Andrea Garolla
+    - andrea_garolla_2020-08-07_01.igc
+  - - - '165'
+      - Andrea Terenziani
+    - andrea_terenziani_2020-08-07_01.igc
+  - - - '122'
+      - Angelo Dell’Aira
+    - angelo_dell’aira_2020-08-07_02.igc
+  - - - '158'
+      - Antonio Ruta
+    - antonio_ruta_2020-08-07_01.igc
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - arkadiusz_slusarczyk_2020-08-07_01.igc
+  - - - '171'
+      - Biagio Alberto Vitale
+    - biagio_alberto_vitale_2020-08-07_01.igc
+  - - - '177'
+      - Bogdan Bialka
+    - bogdan_bialka_2020-08-07_01.igc
+  - - - '106'
+      - Christian Biasi
+    - christian_biasi_2020-08-07_01.igc
+  - - - '135'
+      - Cristian Inverardi
+    - cristian_inverardi_2020-08-07_01.igc
+  - - - '105'
+      - Daniele Bevilacqua
+    - daniele_bevilacqua_2020-08-07_01.igc
+  - - - '174'
+      - Davide Zaltron
+    - davide_zaltron_2020-08-07_01.igc
+  - - - '101'
+      - Diego Ardissone
+    - diego_ardissone_2020-08-07_01.igc
+  - - - '157'
+      - Elio Rossi
+    - elio_rossi_2020-08-07_01.igc
+  - - - '109'
+      - Federico Brown Manzone
+    - federico_brown_manzone_2020-08-07_01.igc
+  - - - '145'
+      - Federico Nevastro
+    - federico_nevastro_2020-08-07_01.igc
+  - - - '176'
+      - Francesco Fontanesi
+    - francesco_fontanesi_2020-08-07_01.igc
+  - - - '147'
+      - Francesco Orcese
+    - francesco_orcese_2020-08-07_01.igc
+  - - - '107'
+      - Gabriele Bonafini
+    - gabriele_bonafini_2020-08-07_01.igc
+  - - - '120'
+      - Gabriele D'Arrigo
+    - gabriele_d_arrigo_2020-08-07_01.igc
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - gbriel-alexandru_ivan_2020-08-07_01.igc
+  - - - '153'
+      - Gianbasilio Profiti
+    - gianbasilio_profiti_2020-08-07_01.igc
+  - - - '117'
+      - Gianfranco Crestani
+    - gianfranco_crestani_2020-08-07_01.igc
+  - - - '121'
+      - Giorgio Darra
+    - giorgio_darra_2020-08-07_01.igc
+  - - - '160'
+      - Giuseppe Simone
+    - giuseppe_simone_2020-08-07_01.igc
+  - - - '125'
+      - Grzegorz Fiema
+    - grzegorz_fiema_2020-08-07_01.igc
+  - - - '118'
+      - Igor D'Agostino
+    - igor_d_agostino_2020-08-07_01.igc
+  - - - '167'
+      - Ionut Ulici
+    - ionut_ulici_2020-08-07_01.igc
+  - - - '116'
+      - Ivan Centa
+    - ivan_centa_2020-08-07_01.igc
+  - - - '132'
+      - Jacek Górski
+    - jacek_gorski_2020-08-07_01.igc
+  - - - '146'
+      - Joachim Oberhauser
+    - joachim_oberhauser_2020-08-07_01.igc
+  - - - '110'
+      - Klaudia Bulgakow
+    - klaudia_bulgakow_2020-08-07_01.igc
+  - - - '159'
+      - Krzysztof Schmidt
+    - krzysztof_schmidt_2020-08-07_01.igc
+  - - - '104'
+      - Loris Berta
+    - loris_berta_2020-08-07_01.igc
+  - - - '142'
+      - Luca Mammucari
+    - luca_mammucari_2020-08-07_01.igc
+  - - - '150'
+      - Luca Paoletti
+    - luca_paoletti_2020-08-07_01.igc
+  - - - '129'
+      - Luciano Gallo
+    - luciano_gallo_2020-08-07_01.igc
+  - - - '148'
+      - Luciano Pagnoni
+    - luciano_pagnoni_2020-08-07_01.igc
+  - - - '111'
+      - Marco Busetta
+    - marco_busetta_2020-08-07_01.igc
+  - - - '131'
+      - Marco Gentilini
+    - marco_gentilini_2020-08-07_01.igc
+  - - - '138'
+      - Marco Littamè
+    - marco_littame_2020-08-07_01.igc
+  - - - '168'
+      - Marco Valentini
+    - marco_valentini_2020-08-07_01.igc
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - maria_antonietta_d_angela_2020-08-07_01.igc
+  - - - '178'
+      - Marius Saigiu
+    - marius_saigiu_2020-08-07_01.igc
+  - - - '175'
+      - Mariusz Wisniowski
+    - mariusz_wisniowski_2020-08-07_01.igc
+  - - - '156'
+      - Massimo Rapari
+    - massimo_rapari_2020-08-07_01.igc
+  - - - '102'
+      - Matteo Bacchiocchi
+    - matteo_bacchiocchi_2020-08-07_01.igc
+  - - - '161'
+      - Matteo Siragna
+    - matteo_siragna_2020-08-07_01.igc
+  - - - '140'
+      - Maurizio Maina
+    - maurizio_maina_2020-08-07_01.igc
+  - - - '180'
+      - Michal Gierlach
+    - michal_gierlach_2020-08-07_01.igc
+  - - - '108'
+      - Michele Boschi
+    - michele_boschi_2020-08-07_01.igc
+  - - - '128'
+      - Michele Gaiba
+    - michele_gaiba_2020-08-07_01.igc
+  - - - '124'
+      - Paolo Facchini
+    - paolo_facchini_2020-08-07_01.igc
+  - - - '170'
+      - Paolo Veratti
+    - paolo_veratti_2020-08-07_01.igc
+  - - - '173'
+      - Paolo Zammarchi
+    - paolo_zammarchi_2020-08-07_01.igc
+  - - - '151'
+      - Piergiorgio Pintossi
+    - piergiorgio_pintossi_2020-08-07_01.igc
+  - - - '144'
+      - Riccardo Marchetto
+    - riccardo_marchetto_2020-08-07_01.igc
+  - - - '127'
+      - Richárd Gabrieli
+    - richard_gabrieli_2020-08-07_01.igc
+  - - - '123'
+      - Sergio Di Fazio
+    - sergio_di_fazio_2020-08-07_01.igc
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - silvia_buzzi_ferraris_2020-08-07_01.igc
+  - - - '137'
+      - Slawomir Kaczynski
+    - slawomir_kaczynski_2020-08-07_01.igc
+  - - - '154'
+      - Stefano Pucci
+    - stefano_pucci_2020-08-07_01.igc
+  - - - '166'
+      - Tiziano Trambaioli
+    - tiziano_trambaioli_2020-08-07_01.igc
+  - - - '113'
+      - Tommaso Carlini
+    - tommaso_carlini_2020-08-07_01.igc
+  - - - '143'
+      - Valerio Marchetti
+    - valerio_marchetti_2020-08-07_01.igc
+- - - - '115'
+      - Alberto Castagna
+    - alberto_castagna_2020-08-08_01.igc
+  - - - '141'
+      - Albino Malli
+    - albino_malli_2020-08-08_01.igc
+  - - - '126'
+      - Alessandro Fuzzi
+    - alessandro_fuzzi_2020-08-08_01.igc
+  - - - '139'
+      - Alessandro Madaluni
+    - alessandro_madaluni_2020-08-08_01.igc
+  - - - '149'
+      - Alessandro Palma
+    - alessandro_palma_2020-08-08_01.igc
+  - - - '152'
+      - Alessandro Pompei
+    - alessandro_pompei_2020-08-08_01.igc
+  - - - '169'
+      - Alessandro Vallero
+    - alessandro_vallero_2020-08-08_01.igc
+  - - - '133'
+      - Alessio Guidi
+    - alessio_guidi_2020-08-08_01.igc
+  - - - '172'
+      - Alessio Voltan
+    - alessio_voltan_2020-08-08_01.igc
+  - - - '155'
+      - Alfio Ragaglia
+    - alfio_ragaglia_2020-08-08_01.igc
+  - - - '164'
+      - Anca Tabara
+    - anca_tabara_2020-08-08_01.igc
+  - - - '130'
+      - Andrea Garolla
+    - andrea_garolla_2020-08-08_01.igc
+  - - - '165'
+      - Andrea Terenziani
+    - andrea_terenziani_2020-08-08_01.igc
+  - - - '122'
+      - Angelo Dell’Aira
+    - angelo_dell’aira_2020-08-08_01.igc
+  - - - '158'
+      - Antonio Ruta
+    - antonio_ruta_2020-08-08_01.igc
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - arkadiusz_slusarczyk_2020-08-08_01.igc
+  - - - '171'
+      - Biagio Alberto Vitale
+    - biagio_alberto_vitale_2020-08-08_01.igc
+  - - - '177'
+      - Bogdan Bialka
+    - bogdan_bialka_2020-08-08_01.igc
+  - - - '106'
+      - Christian Biasi
+    - christian_biasi_2020-08-08_01.igc
+  - - - '135'
+      - Cristian Inverardi
+    - cristian_inverardi_2020-08-08_01.igc
+  - - - '105'
+      - Daniele Bevilacqua
+    - daniele_bevilacqua_2020-08-08_01.igc
+  - - - '174'
+      - Davide Zaltron
+    - davide_zaltron_2020-08-08_01.igc
+  - - - '101'
+      - Diego Ardissone
+    - diego_ardissone_2020-08-08_02.igc
+  - - - '157'
+      - Elio Rossi
+    - elio_rossi_2020-08-08_01.igc
+  - - - '109'
+      - Federico Brown Manzone
+    - federico_brown_manzone_2020-08-08_01.igc
+  - - - '145'
+      - Federico Nevastro
+    - federico_nevastro_2020-08-08_01.igc
+  - - - '176'
+      - Francesco Fontanesi
+    - francesco_fontanesi_2020-08-08_01.igc
+  - - - '147'
+      - Francesco Orcese
+    - francesco_orcese_2020-08-08_01.igc
+  - - - '107'
+      - Gabriele Bonafini
+    - gabriele_bonafini_2020-08-08_01.igc
+  - - - '120'
+      - Gabriele D'Arrigo
+    - gabriele_d_arrigo_2020-08-08_01.igc
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - gbriel-alexandru_ivan_2020-08-08_01.igc
+  - - - '153'
+      - Gianbasilio Profiti
+    - gianbasilio_profiti_2020-08-08_01.igc
+  - - - '117'
+      - Gianfranco Crestani
+    - gianfranco_crestani_2020-08-08_01.igc
+  - - - '121'
+      - Giorgio Darra
+    - giorgio_darra_2020-08-08_01.igc
+  - - - '160'
+      - Giuseppe Simone
+    - giuseppe_simone_2020-08-08_01.igc
+  - - - '125'
+      - Grzegorz Fiema
+    - grzegorz_fiema_2020-08-08_01.igc
+  - - - '118'
+      - Igor D'Agostino
+    - igor_d_agostino_2020-08-08_01.igc
+  - - - '167'
+      - Ionut Ulici
+    - ionut_ulici_2020-08-08_01.igc
+  - - - '116'
+      - Ivan Centa
+    - ivan_centa_2020-08-08_01.igc
+  - - - '132'
+      - Jacek Górski
+    - jacek_gorski_2020-08-08_01.igc
+  - - - '146'
+      - Joachim Oberhauser
+    - joachim_oberhauser_2020-08-08_01.igc
+  - - - '110'
+      - Klaudia Bulgakow
+    - klaudia_bulgakow_2020-08-08_01.igc
+  - - - '159'
+      - Krzysztof Schmidt
+    - krzysztof_schmidt_2020-08-08_01.igc
+  - - - '104'
+      - Loris Berta
+    - loris_berta_2020-08-08_01.igc
+  - - - '142'
+      - Luca Mammucari
+    - luca_mammucari_2020-08-08_01.igc
+  - - - '150'
+      - Luca Paoletti
+    - luca_paoletti_2020-08-08_01.igc
+  - - - '129'
+      - Luciano Gallo
+    - luciano_gallo_2020-08-08_01.igc
+  - - - '148'
+      - Luciano Pagnoni
+    - luciano_pagnoni_2020-08-08_01.igc
+  - - - '111'
+      - Marco Busetta
+    - marco_busetta_2020-08-08_01.igc
+  - - - '138'
+      - Marco Littamè
+    - marco_littame_2020-08-08_01.igc
+  - - - '168'
+      - Marco Valentini
+    - marco_valentini_2020-08-08_01.igc
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - maria_antonietta_d_angela_2020-08-08_01.igc
+  - - - '178'
+      - Marius Saigiu
+    - marius_saigiu_2020-08-08_01.igc
+  - - - '175'
+      - Mariusz Wisniowski
+    - mariusz_wisniowski_2020-08-08_01.igc
+  - - - '156'
+      - Massimo Rapari
+    - massimo_rapari_2020-08-08_01.igc
+  - - - '102'
+      - Matteo Bacchiocchi
+    - matteo_bacchiocchi_2020-08-08_01.igc
+  - - - '161'
+      - Matteo Siragna
+    - matteo_siragna_2020-08-08_01.igc
+  - - - '140'
+      - Maurizio Maina
+    - maurizio_maina_2020-08-08_01.igc
+  - - - '180'
+      - Michal Gierlach
+    - michal_gierlach_2020-08-08_01.igc
+  - - - '108'
+      - Michele Boschi
+    - michele_boschi_2020-08-08_01.igc
+  - - - '128'
+      - Michele Gaiba
+    - michele_gaiba_2020-08-08_01.igc
+  - - - '124'
+      - Paolo Facchini
+    - paolo_facchini_2020-08-08_01.igc
+  - - - '170'
+      - Paolo Veratti
+    - paolo_veratti_2020-08-08_01.igc
+  - - - '173'
+      - Paolo Zammarchi
+    - paolo_zammarchi_2020-08-08_01.igc
+  - - - '151'
+      - Piergiorgio Pintossi
+    - piergiorgio_pintossi_2020-08-08_01.igc
+  - - - '144'
+      - Riccardo Marchetto
+    - riccardo_marchetto_2020-08-08_01.igc
+  - - - '127'
+      - Richárd Gabrieli
+    - richard_gabrieli_2020-08-08_01.igc
+  - - - '123'
+      - Sergio Di Fazio
+    - sergio_di_fazio_2020-08-08_01.igc
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - silvia_buzzi_ferraris_2020-08-08_01.igc
+  - - - '137'
+      - Slawomir Kaczynski
+    - slawomir_kaczynski_2020-08-08_01.igc
+  - - - '154'
+      - Stefano Pucci
+    - stefano_pucci_2020-08-08_01.igc
+  - - - '166'
+      - Tiziano Trambaioli
+    - tiziano_trambaioli_2020-08-08_01.igc
+  - - - '113'
+      - Tommaso Carlini
+    - tommaso_carlini_2020-08-08_01.igc
+  - - - '143'
+      - Valerio Marchetti
+    - valerio_marchetti_2020-08-08_01.igc
+pilotGroups:
+- absent:
+  - - '134'
+    - Bence Halasz
+  - - '125'
+    - Grzegorz Fiema
+  - - '132'
+    - Jacek Górski
+  - - '159'
+    - Krzysztof Schmidt
+  - - '175'
+    - Mariusz Wisniowski
+  - - '163'
+    - Martin Stecher
+  - - '180'
+    - Michal Gierlach
+  - - '103'
+    - Thomas Berger
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '134'
+    - Bence Halasz
+  - - '179'
+    - Charles Henrique Guimaraes Moura
+  - - '163'
+    - Martin Stecher
+  - - '103'
+    - Thomas Berger
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '134'
+    - Bence Halasz
+  - - '163'
+    - Martin Stecher
+  - - '103'
+    - Thomas Berger
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '134'
+    - Bence Halasz
+  - - '179'
+    - Charles Henrique Guimaraes Moura
+  - - '163'
+    - Martin Stecher
+  - - '103'
+    - Thomas Berger
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '134'
+    - Bence Halasz
+  - - '179'
+    - Charles Henrique Guimaraes Moura
+  - - '163'
+    - Martin Stecher
+  - - '114'
+    - Mirco Casarini
+  - - '103'
+    - Thomas Berger
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '134'
+    - Bence Halasz
+  - - '179'
+    - Charles Henrique Guimaraes Moura
+  - - '131'
+    - Marco Gentilini
+  - - '163'
+    - Martin Stecher
+  - - '114'
+    - Mirco Casarini
+  - - '103'
+    - Thomas Berger
+  didFlyNoTracklog: []
+  dnf: []

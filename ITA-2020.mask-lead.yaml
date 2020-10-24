@@ -1,0 +1,96 @@
+raceTime:
+- openTask: 2020-08-02T10:45:00Z
+  closeTask: 2020-08-02T15:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 17100
+  tickClose: null
+- openTask: 2020-08-04T11:45:00Z
+  closeTask: 2020-08-04T17:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 20700
+  tickClose: null
+- openTask: 2020-08-05T11:30:00Z
+  closeTask: 2020-08-05T17:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 21600
+  tickClose: null
+- openTask: 2020-08-06T11:30:00Z
+  closeTask: 2020-08-06T17:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 21600
+  tickClose: null
+- openTask: 2020-08-07T11:15:00Z
+  closeTask: 2020-08-07T17:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 22500
+  tickClose: null
+- openTask: 2020-08-08T11:45:00Z
+  closeTask: 2020-08-08T16:30:00Z
+  firstStart: null
+  firstLead: null
+  lastArrival: null
+  leadAllDown: null
+  leadArrival: null
+  leadClose: null
+  openClose: 17100
+  tickClose: null
+raceDistance:
+- 50.917078 km
+- 74.065201 km
+- null
+- 101.877086 km
+- 86.483476 km
+- 60.408156 km
+sumDistance:
+- null
+- null
+- null
+- null
+- null
+- null
+leadAreaToCoef:
+- 0.00000021428933 km^-2 s^-1
+- 0.00000010127426 km^-2 s^-1
+- null
+- 0.00000005352719 km^-2 s^-1
+- 0.00000007427817 km^-2 s^-1
+- 0.00000015224265 km^-2 s^-1
+leadCoefMin:
+- null
+- null
+- null
+- null
+- null
+- null
+leadRank:
+- []
+- []
+- []
+- []
+- []
+- []

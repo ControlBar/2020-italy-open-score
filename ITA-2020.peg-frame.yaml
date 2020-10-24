@@ -1,0 +1,3638 @@
+stopWindow:
+- null
+- null
+- null
+- null
+- null
+- null
+stopFlying:
+- - - - '115'
+      - Alberto Castagna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '141'
+      - Albino Malli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '139'
+      - Alessandro Madaluni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '149'
+      - Alessandro Palma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '152'
+      - Alessandro Pompei
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '169'
+      - Alessandro Vallero
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '133'
+      - Alessio Guidi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '172'
+      - Alessio Voltan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '155'
+      - Alfio Ragaglia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '164'
+      - Anca Tabara
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '130'
+      - Andrea Garolla
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '165'
+      - Andrea Terenziani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '122'
+      - Angelo Dell’Aira
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '158'
+      - Antonio Ruta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '177'
+      - Bogdan Bialka
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '106'
+      - Christian Biasi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '135'
+      - Cristian Inverardi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '174'
+      - Davide Zaltron
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '101'
+      - Diego Ardissone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '157'
+      - Elio Rossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '109'
+      - Federico Brown Manzone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Federico Nevastro
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '176'
+      - Francesco Fontanesi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '147'
+      - Francesco Orcese
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '107'
+      - Gabriele Bonafini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '117'
+      - Gianfranco Crestani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '121'
+      - Giorgio Darra
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '160'
+      - Giuseppe Simone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '118'
+      - Igor D'Agostino
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '167'
+      - Ionut Ulici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '116'
+      - Ivan Centa
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Joachim Oberhauser
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '110'
+      - Klaudia Bulgakow
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '104'
+      - Loris Berta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '142'
+      - Luca Mammucari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Luca Paoletti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '129'
+      - Luciano Gallo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '148'
+      - Luciano Pagnoni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '111'
+      - Marco Busetta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '131'
+      - Marco Gentilini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '138'
+      - Marco Littamè
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '168'
+      - Marco Valentini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '178'
+      - Marius Saigiu
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '156'
+      - Massimo Rapari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '161'
+      - Matteo Siragna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '140'
+      - Maurizio Maina
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '108'
+      - Michele Boschi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '128'
+      - Michele Gaiba
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '114'
+      - Mirco Casarini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '124'
+      - Paolo Facchini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '170'
+      - Paolo Veratti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '173'
+      - Paolo Zammarchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '144'
+      - Riccardo Marchetto
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '127'
+      - Richárd Gabrieli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '123'
+      - Sergio Di Fazio
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '154'
+      - Stefano Pucci
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '113'
+      - Tommaso Carlini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '143'
+      - Valerio Marchetti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+- - - - '115'
+      - Alberto Castagna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '141'
+      - Albino Malli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '139'
+      - Alessandro Madaluni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '149'
+      - Alessandro Palma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '152'
+      - Alessandro Pompei
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '169'
+      - Alessandro Vallero
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '133'
+      - Alessio Guidi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '172'
+      - Alessio Voltan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '155'
+      - Alfio Ragaglia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '164'
+      - Anca Tabara
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '130'
+      - Andrea Garolla
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '165'
+      - Andrea Terenziani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '122'
+      - Angelo Dell’Aira
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '158'
+      - Antonio Ruta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '177'
+      - Bogdan Bialka
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '106'
+      - Christian Biasi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '135'
+      - Cristian Inverardi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '174'
+      - Davide Zaltron
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '101'
+      - Diego Ardissone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '157'
+      - Elio Rossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '109'
+      - Federico Brown Manzone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Federico Nevastro
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '176'
+      - Francesco Fontanesi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '147'
+      - Francesco Orcese
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '107'
+      - Gabriele Bonafini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '117'
+      - Gianfranco Crestani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '121'
+      - Giorgio Darra
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '160'
+      - Giuseppe Simone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '125'
+      - Grzegorz Fiema
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '118'
+      - Igor D'Agostino
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '167'
+      - Ionut Ulici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '116'
+      - Ivan Centa
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '132'
+      - Jacek Górski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Joachim Oberhauser
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '110'
+      - Klaudia Bulgakow
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '104'
+      - Loris Berta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '142'
+      - Luca Mammucari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Luca Paoletti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '129'
+      - Luciano Gallo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '148'
+      - Luciano Pagnoni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '111'
+      - Marco Busetta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '131'
+      - Marco Gentilini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '138'
+      - Marco Littamè
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '168'
+      - Marco Valentini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '178'
+      - Marius Saigiu
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '175'
+      - Mariusz Wisniowski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '156'
+      - Massimo Rapari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '161'
+      - Matteo Siragna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '140'
+      - Maurizio Maina
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '180'
+      - Michal Gierlach
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '108'
+      - Michele Boschi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '128'
+      - Michele Gaiba
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '114'
+      - Mirco Casarini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '124'
+      - Paolo Facchini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '170'
+      - Paolo Veratti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '173'
+      - Paolo Zammarchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '144'
+      - Riccardo Marchetto
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '127'
+      - Richárd Gabrieli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '123'
+      - Sergio Di Fazio
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '154'
+      - Stefano Pucci
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '113'
+      - Tommaso Carlini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '143'
+      - Valerio Marchetti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+- - - - '115'
+      - Alberto Castagna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '141'
+      - Albino Malli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '139'
+      - Alessandro Madaluni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '149'
+      - Alessandro Palma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '169'
+      - Alessandro Vallero
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '133'
+      - Alessio Guidi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '172'
+      - Alessio Voltan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '155'
+      - Alfio Ragaglia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '164'
+      - Anca Tabara
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '130'
+      - Andrea Garolla
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '165'
+      - Andrea Terenziani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '122'
+      - Angelo Dell’Aira
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '158'
+      - Antonio Ruta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '177'
+      - Bogdan Bialka
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '106'
+      - Christian Biasi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '135'
+      - Cristian Inverardi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '174'
+      - Davide Zaltron
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '101'
+      - Diego Ardissone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '157'
+      - Elio Rossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '109'
+      - Federico Brown Manzone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Federico Nevastro
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '176'
+      - Francesco Fontanesi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '147'
+      - Francesco Orcese
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '107'
+      - Gabriele Bonafini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '117'
+      - Gianfranco Crestani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '121'
+      - Giorgio Darra
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '160'
+      - Giuseppe Simone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '125'
+      - Grzegorz Fiema
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '118'
+      - Igor D'Agostino
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '167'
+      - Ionut Ulici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '116'
+      - Ivan Centa
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '132'
+      - Jacek Górski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Joachim Oberhauser
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '110'
+      - Klaudia Bulgakow
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '104'
+      - Loris Berta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '142'
+      - Luca Mammucari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Luca Paoletti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '129'
+      - Luciano Gallo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '148'
+      - Luciano Pagnoni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '111'
+      - Marco Busetta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '131'
+      - Marco Gentilini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '138'
+      - Marco Littamè
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '168'
+      - Marco Valentini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '178'
+      - Marius Saigiu
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '175'
+      - Mariusz Wisniowski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '156'
+      - Massimo Rapari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '161'
+      - Matteo Siragna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '140'
+      - Maurizio Maina
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '180'
+      - Michal Gierlach
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '108'
+      - Michele Boschi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '128'
+      - Michele Gaiba
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '114'
+      - Mirco Casarini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '124'
+      - Paolo Facchini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '170'
+      - Paolo Veratti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '173'
+      - Paolo Zammarchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '144'
+      - Riccardo Marchetto
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '127'
+      - Richárd Gabrieli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '123'
+      - Sergio Di Fazio
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '154'
+      - Stefano Pucci
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '113'
+      - Tommaso Carlini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '143'
+      - Valerio Marchetti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+- - - - '115'
+      - Alberto Castagna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '141'
+      - Albino Malli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '139'
+      - Alessandro Madaluni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '149'
+      - Alessandro Palma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '152'
+      - Alessandro Pompei
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '169'
+      - Alessandro Vallero
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '133'
+      - Alessio Guidi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '172'
+      - Alessio Voltan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '155'
+      - Alfio Ragaglia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '164'
+      - Anca Tabara
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '130'
+      - Andrea Garolla
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '165'
+      - Andrea Terenziani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '122'
+      - Angelo Dell’Aira
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '158'
+      - Antonio Ruta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '177'
+      - Bogdan Bialka
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '106'
+      - Christian Biasi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '135'
+      - Cristian Inverardi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '174'
+      - Davide Zaltron
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '101'
+      - Diego Ardissone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '157'
+      - Elio Rossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '109'
+      - Federico Brown Manzone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Federico Nevastro
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '176'
+      - Francesco Fontanesi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '147'
+      - Francesco Orcese
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '107'
+      - Gabriele Bonafini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '117'
+      - Gianfranco Crestani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '121'
+      - Giorgio Darra
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '160'
+      - Giuseppe Simone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '125'
+      - Grzegorz Fiema
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '118'
+      - Igor D'Agostino
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '167'
+      - Ionut Ulici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '116'
+      - Ivan Centa
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '132'
+      - Jacek Górski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Joachim Oberhauser
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '110'
+      - Klaudia Bulgakow
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '104'
+      - Loris Berta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '142'
+      - Luca Mammucari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Luca Paoletti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '129'
+      - Luciano Gallo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '148'
+      - Luciano Pagnoni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '111'
+      - Marco Busetta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '131'
+      - Marco Gentilini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '138'
+      - Marco Littamè
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '168'
+      - Marco Valentini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '178'
+      - Marius Saigiu
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '175'
+      - Mariusz Wisniowski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '156'
+      - Massimo Rapari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '161'
+      - Matteo Siragna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '140'
+      - Maurizio Maina
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '180'
+      - Michal Gierlach
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '108'
+      - Michele Boschi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '128'
+      - Michele Gaiba
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '114'
+      - Mirco Casarini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '124'
+      - Paolo Facchini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '170'
+      - Paolo Veratti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '173'
+      - Paolo Zammarchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '144'
+      - Riccardo Marchetto
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '127'
+      - Richárd Gabrieli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '123'
+      - Sergio Di Fazio
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '154'
+      - Stefano Pucci
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '113'
+      - Tommaso Carlini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '143'
+      - Valerio Marchetti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+- - - - '115'
+      - Alberto Castagna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '141'
+      - Albino Malli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '139'
+      - Alessandro Madaluni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '149'
+      - Alessandro Palma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '152'
+      - Alessandro Pompei
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '169'
+      - Alessandro Vallero
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '133'
+      - Alessio Guidi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '172'
+      - Alessio Voltan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '155'
+      - Alfio Ragaglia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '164'
+      - Anca Tabara
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '130'
+      - Andrea Garolla
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '165'
+      - Andrea Terenziani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '122'
+      - Angelo Dell’Aira
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '158'
+      - Antonio Ruta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '177'
+      - Bogdan Bialka
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '106'
+      - Christian Biasi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '135'
+      - Cristian Inverardi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '174'
+      - Davide Zaltron
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '101'
+      - Diego Ardissone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '157'
+      - Elio Rossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '109'
+      - Federico Brown Manzone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Federico Nevastro
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '176'
+      - Francesco Fontanesi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '147'
+      - Francesco Orcese
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '107'
+      - Gabriele Bonafini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '117'
+      - Gianfranco Crestani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '121'
+      - Giorgio Darra
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '160'
+      - Giuseppe Simone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '125'
+      - Grzegorz Fiema
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '118'
+      - Igor D'Agostino
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '167'
+      - Ionut Ulici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '116'
+      - Ivan Centa
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '132'
+      - Jacek Górski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Joachim Oberhauser
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '110'
+      - Klaudia Bulgakow
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '104'
+      - Loris Berta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '142'
+      - Luca Mammucari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Luca Paoletti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '129'
+      - Luciano Gallo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '148'
+      - Luciano Pagnoni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '111'
+      - Marco Busetta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '131'
+      - Marco Gentilini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '138'
+      - Marco Littamè
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '168'
+      - Marco Valentini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '178'
+      - Marius Saigiu
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '175'
+      - Mariusz Wisniowski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '156'
+      - Massimo Rapari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '161'
+      - Matteo Siragna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '140'
+      - Maurizio Maina
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '180'
+      - Michal Gierlach
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '108'
+      - Michele Boschi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '128'
+      - Michele Gaiba
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '124'
+      - Paolo Facchini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '170'
+      - Paolo Veratti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '173'
+      - Paolo Zammarchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '144'
+      - Riccardo Marchetto
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '127'
+      - Richárd Gabrieli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '123'
+      - Sergio Di Fazio
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '154'
+      - Stefano Pucci
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '113'
+      - Tommaso Carlini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '143'
+      - Valerio Marchetti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+- - - - '115'
+      - Alberto Castagna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '141'
+      - Albino Malli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '139'
+      - Alessandro Madaluni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '149'
+      - Alessandro Palma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '152'
+      - Alessandro Pompei
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '169'
+      - Alessandro Vallero
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '133'
+      - Alessio Guidi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '172'
+      - Alessio Voltan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '155'
+      - Alfio Ragaglia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '164'
+      - Anca Tabara
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '130'
+      - Andrea Garolla
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '165'
+      - Andrea Terenziani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '122'
+      - Angelo Dell’Aira
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '158'
+      - Antonio Ruta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '177'
+      - Bogdan Bialka
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '106'
+      - Christian Biasi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '135'
+      - Cristian Inverardi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '174'
+      - Davide Zaltron
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '101'
+      - Diego Ardissone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '157'
+      - Elio Rossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '109'
+      - Federico Brown Manzone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Federico Nevastro
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '176'
+      - Francesco Fontanesi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '147'
+      - Francesco Orcese
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '107'
+      - Gabriele Bonafini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '117'
+      - Gianfranco Crestani
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '121'
+      - Giorgio Darra
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '160'
+      - Giuseppe Simone
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '125'
+      - Grzegorz Fiema
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '118'
+      - Igor D'Agostino
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '167'
+      - Ionut Ulici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '116'
+      - Ivan Centa
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '132'
+      - Jacek Górski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Joachim Oberhauser
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '110'
+      - Klaudia Bulgakow
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '104'
+      - Loris Berta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '142'
+      - Luca Mammucari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Luca Paoletti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '129'
+      - Luciano Gallo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '148'
+      - Luciano Pagnoni
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '111'
+      - Marco Busetta
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '138'
+      - Marco Littamè
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '168'
+      - Marco Valentini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '178'
+      - Marius Saigiu
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '175'
+      - Mariusz Wisniowski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '156'
+      - Massimo Rapari
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '161'
+      - Matteo Siragna
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '140'
+      - Maurizio Maina
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '180'
+      - Michal Gierlach
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '108'
+      - Michele Boschi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '128'
+      - Michele Gaiba
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '124'
+      - Paolo Facchini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '170'
+      - Paolo Veratti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '173'
+      - Paolo Zammarchi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '144'
+      - Riccardo Marchetto
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '127'
+      - Richárd Gabrieli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '123'
+      - Sergio Di Fazio
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '154'
+      - Stefano Pucci
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '113'
+      - Tommaso Carlini
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '143'
+      - Valerio Marchetti
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+timing:
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+tagging:
+- - - - '115'
+      - Alberto Castagna
+    - null
+  - - - '141'
+      - Albino Malli
+    - null
+  - - - '126'
+      - Alessandro Fuzzi
+    - null
+  - - - '139'
+      - Alessandro Madaluni
+    - null
+  - - - '149'
+      - Alessandro Palma
+    - null
+  - - - '152'
+      - Alessandro Pompei
+    - null
+  - - - '169'
+      - Alessandro Vallero
+    - null
+  - - - '133'
+      - Alessio Guidi
+    - null
+  - - - '172'
+      - Alessio Voltan
+    - null
+  - - - '155'
+      - Alfio Ragaglia
+    - null
+  - - - '164'
+      - Anca Tabara
+    - null
+  - - - '130'
+      - Andrea Garolla
+    - null
+  - - - '165'
+      - Andrea Terenziani
+    - null
+  - - - '122'
+      - Angelo Dell’Aira
+    - null
+  - - - '158'
+      - Antonio Ruta
+    - null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - null
+  - - - '177'
+      - Bogdan Bialka
+    - null
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - null
+  - - - '106'
+      - Christian Biasi
+    - null
+  - - - '135'
+      - Cristian Inverardi
+    - null
+  - - - '105'
+      - Daniele Bevilacqua
+    - null
+  - - - '174'
+      - Davide Zaltron
+    - null
+  - - - '101'
+      - Diego Ardissone
+    - null
+  - - - '157'
+      - Elio Rossi
+    - null
+  - - - '109'
+      - Federico Brown Manzone
+    - null
+  - - - '145'
+      - Federico Nevastro
+    - null
+  - - - '176'
+      - Francesco Fontanesi
+    - null
+  - - - '147'
+      - Francesco Orcese
+    - null
+  - - - '107'
+      - Gabriele Bonafini
+    - null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - null
+  - - - '153'
+      - Gianbasilio Profiti
+    - null
+  - - - '117'
+      - Gianfranco Crestani
+    - null
+  - - - '121'
+      - Giorgio Darra
+    - null
+  - - - '160'
+      - Giuseppe Simone
+    - null
+  - - - '118'
+      - Igor D'Agostino
+    - null
+  - - - '167'
+      - Ionut Ulici
+    - null
+  - - - '116'
+      - Ivan Centa
+    - null
+  - - - '146'
+      - Joachim Oberhauser
+    - null
+  - - - '110'
+      - Klaudia Bulgakow
+    - null
+  - - - '104'
+      - Loris Berta
+    - null
+  - - - '142'
+      - Luca Mammucari
+    - null
+  - - - '150'
+      - Luca Paoletti
+    - null
+  - - - '129'
+      - Luciano Gallo
+    - null
+  - - - '148'
+      - Luciano Pagnoni
+    - null
+  - - - '111'
+      - Marco Busetta
+    - null
+  - - - '131'
+      - Marco Gentilini
+    - null
+  - - - '138'
+      - Marco Littamè
+    - null
+  - - - '168'
+      - Marco Valentini
+    - null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - null
+  - - - '178'
+      - Marius Saigiu
+    - null
+  - - - '156'
+      - Massimo Rapari
+    - null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - null
+  - - - '161'
+      - Matteo Siragna
+    - null
+  - - - '140'
+      - Maurizio Maina
+    - null
+  - - - '108'
+      - Michele Boschi
+    - null
+  - - - '128'
+      - Michele Gaiba
+    - null
+  - - - '114'
+      - Mirco Casarini
+    - null
+  - - - '124'
+      - Paolo Facchini
+    - null
+  - - - '170'
+      - Paolo Veratti
+    - null
+  - - - '173'
+      - Paolo Zammarchi
+    - null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - null
+  - - - '144'
+      - Riccardo Marchetto
+    - null
+  - - - '127'
+      - Richárd Gabrieli
+    - null
+  - - - '123'
+      - Sergio Di Fazio
+    - null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - null
+  - - - '137'
+      - Slawomir Kaczynski
+    - null
+  - - - '154'
+      - Stefano Pucci
+    - null
+  - - - '166'
+      - Tiziano Trambaioli
+    - null
+  - - - '113'
+      - Tommaso Carlini
+    - null
+  - - - '143'
+      - Valerio Marchetti
+    - null
+- - - - '115'
+      - Alberto Castagna
+    - null
+  - - - '141'
+      - Albino Malli
+    - null
+  - - - '126'
+      - Alessandro Fuzzi
+    - null
+  - - - '139'
+      - Alessandro Madaluni
+    - null
+  - - - '149'
+      - Alessandro Palma
+    - null
+  - - - '152'
+      - Alessandro Pompei
+    - null
+  - - - '169'
+      - Alessandro Vallero
+    - null
+  - - - '133'
+      - Alessio Guidi
+    - null
+  - - - '172'
+      - Alessio Voltan
+    - null
+  - - - '155'
+      - Alfio Ragaglia
+    - null
+  - - - '164'
+      - Anca Tabara
+    - null
+  - - - '130'
+      - Andrea Garolla
+    - null
+  - - - '165'
+      - Andrea Terenziani
+    - null
+  - - - '122'
+      - Angelo Dell’Aira
+    - null
+  - - - '158'
+      - Antonio Ruta
+    - null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - null
+  - - - '177'
+      - Bogdan Bialka
+    - null
+  - - - '106'
+      - Christian Biasi
+    - null
+  - - - '135'
+      - Cristian Inverardi
+    - null
+  - - - '105'
+      - Daniele Bevilacqua
+    - null
+  - - - '174'
+      - Davide Zaltron
+    - null
+  - - - '101'
+      - Diego Ardissone
+    - null
+  - - - '157'
+      - Elio Rossi
+    - null
+  - - - '109'
+      - Federico Brown Manzone
+    - null
+  - - - '145'
+      - Federico Nevastro
+    - null
+  - - - '176'
+      - Francesco Fontanesi
+    - null
+  - - - '147'
+      - Francesco Orcese
+    - null
+  - - - '107'
+      - Gabriele Bonafini
+    - null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - null
+  - - - '153'
+      - Gianbasilio Profiti
+    - null
+  - - - '117'
+      - Gianfranco Crestani
+    - null
+  - - - '121'
+      - Giorgio Darra
+    - null
+  - - - '160'
+      - Giuseppe Simone
+    - null
+  - - - '125'
+      - Grzegorz Fiema
+    - null
+  - - - '118'
+      - Igor D'Agostino
+    - null
+  - - - '167'
+      - Ionut Ulici
+    - null
+  - - - '116'
+      - Ivan Centa
+    - null
+  - - - '132'
+      - Jacek Górski
+    - null
+  - - - '146'
+      - Joachim Oberhauser
+    - null
+  - - - '110'
+      - Klaudia Bulgakow
+    - null
+  - - - '159'
+      - Krzysztof Schmidt
+    - null
+  - - - '104'
+      - Loris Berta
+    - null
+  - - - '142'
+      - Luca Mammucari
+    - null
+  - - - '150'
+      - Luca Paoletti
+    - null
+  - - - '129'
+      - Luciano Gallo
+    - null
+  - - - '148'
+      - Luciano Pagnoni
+    - null
+  - - - '111'
+      - Marco Busetta
+    - null
+  - - - '131'
+      - Marco Gentilini
+    - null
+  - - - '138'
+      - Marco Littamè
+    - null
+  - - - '168'
+      - Marco Valentini
+    - null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - null
+  - - - '178'
+      - Marius Saigiu
+    - null
+  - - - '175'
+      - Mariusz Wisniowski
+    - null
+  - - - '156'
+      - Massimo Rapari
+    - null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - null
+  - - - '161'
+      - Matteo Siragna
+    - null
+  - - - '140'
+      - Maurizio Maina
+    - null
+  - - - '180'
+      - Michal Gierlach
+    - null
+  - - - '108'
+      - Michele Boschi
+    - null
+  - - - '128'
+      - Michele Gaiba
+    - null
+  - - - '114'
+      - Mirco Casarini
+    - null
+  - - - '124'
+      - Paolo Facchini
+    - null
+  - - - '170'
+      - Paolo Veratti
+    - null
+  - - - '173'
+      - Paolo Zammarchi
+    - null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - null
+  - - - '144'
+      - Riccardo Marchetto
+    - null
+  - - - '127'
+      - Richárd Gabrieli
+    - null
+  - - - '123'
+      - Sergio Di Fazio
+    - null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - null
+  - - - '137'
+      - Slawomir Kaczynski
+    - null
+  - - - '154'
+      - Stefano Pucci
+    - null
+  - - - '166'
+      - Tiziano Trambaioli
+    - null
+  - - - '113'
+      - Tommaso Carlini
+    - null
+  - - - '143'
+      - Valerio Marchetti
+    - null
+- - - - '115'
+      - Alberto Castagna
+    - null
+  - - - '141'
+      - Albino Malli
+    - null
+  - - - '126'
+      - Alessandro Fuzzi
+    - null
+  - - - '139'
+      - Alessandro Madaluni
+    - null
+  - - - '149'
+      - Alessandro Palma
+    - null
+  - - - '169'
+      - Alessandro Vallero
+    - null
+  - - - '133'
+      - Alessio Guidi
+    - null
+  - - - '172'
+      - Alessio Voltan
+    - null
+  - - - '155'
+      - Alfio Ragaglia
+    - null
+  - - - '164'
+      - Anca Tabara
+    - null
+  - - - '130'
+      - Andrea Garolla
+    - null
+  - - - '165'
+      - Andrea Terenziani
+    - null
+  - - - '122'
+      - Angelo Dell’Aira
+    - null
+  - - - '158'
+      - Antonio Ruta
+    - null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - null
+  - - - '177'
+      - Bogdan Bialka
+    - null
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - null
+  - - - '106'
+      - Christian Biasi
+    - null
+  - - - '135'
+      - Cristian Inverardi
+    - null
+  - - - '105'
+      - Daniele Bevilacqua
+    - null
+  - - - '174'
+      - Davide Zaltron
+    - null
+  - - - '101'
+      - Diego Ardissone
+    - null
+  - - - '157'
+      - Elio Rossi
+    - null
+  - - - '109'
+      - Federico Brown Manzone
+    - null
+  - - - '145'
+      - Federico Nevastro
+    - null
+  - - - '176'
+      - Francesco Fontanesi
+    - null
+  - - - '147'
+      - Francesco Orcese
+    - null
+  - - - '107'
+      - Gabriele Bonafini
+    - null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - null
+  - - - '153'
+      - Gianbasilio Profiti
+    - null
+  - - - '117'
+      - Gianfranco Crestani
+    - null
+  - - - '121'
+      - Giorgio Darra
+    - null
+  - - - '160'
+      - Giuseppe Simone
+    - null
+  - - - '125'
+      - Grzegorz Fiema
+    - null
+  - - - '118'
+      - Igor D'Agostino
+    - null
+  - - - '167'
+      - Ionut Ulici
+    - null
+  - - - '116'
+      - Ivan Centa
+    - null
+  - - - '132'
+      - Jacek Górski
+    - null
+  - - - '146'
+      - Joachim Oberhauser
+    - null
+  - - - '110'
+      - Klaudia Bulgakow
+    - null
+  - - - '159'
+      - Krzysztof Schmidt
+    - null
+  - - - '104'
+      - Loris Berta
+    - null
+  - - - '142'
+      - Luca Mammucari
+    - null
+  - - - '150'
+      - Luca Paoletti
+    - null
+  - - - '129'
+      - Luciano Gallo
+    - null
+  - - - '148'
+      - Luciano Pagnoni
+    - null
+  - - - '111'
+      - Marco Busetta
+    - null
+  - - - '131'
+      - Marco Gentilini
+    - null
+  - - - '138'
+      - Marco Littamè
+    - null
+  - - - '168'
+      - Marco Valentini
+    - null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - null
+  - - - '178'
+      - Marius Saigiu
+    - null
+  - - - '175'
+      - Mariusz Wisniowski
+    - null
+  - - - '156'
+      - Massimo Rapari
+    - null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - null
+  - - - '161'
+      - Matteo Siragna
+    - null
+  - - - '140'
+      - Maurizio Maina
+    - null
+  - - - '180'
+      - Michal Gierlach
+    - null
+  - - - '108'
+      - Michele Boschi
+    - null
+  - - - '128'
+      - Michele Gaiba
+    - null
+  - - - '114'
+      - Mirco Casarini
+    - null
+  - - - '124'
+      - Paolo Facchini
+    - null
+  - - - '170'
+      - Paolo Veratti
+    - null
+  - - - '173'
+      - Paolo Zammarchi
+    - null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - null
+  - - - '144'
+      - Riccardo Marchetto
+    - null
+  - - - '127'
+      - Richárd Gabrieli
+    - null
+  - - - '123'
+      - Sergio Di Fazio
+    - null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - null
+  - - - '137'
+      - Slawomir Kaczynski
+    - null
+  - - - '154'
+      - Stefano Pucci
+    - null
+  - - - '166'
+      - Tiziano Trambaioli
+    - null
+  - - - '113'
+      - Tommaso Carlini
+    - null
+  - - - '143'
+      - Valerio Marchetti
+    - null
+- - - - '115'
+      - Alberto Castagna
+    - null
+  - - - '141'
+      - Albino Malli
+    - null
+  - - - '126'
+      - Alessandro Fuzzi
+    - null
+  - - - '139'
+      - Alessandro Madaluni
+    - null
+  - - - '149'
+      - Alessandro Palma
+    - null
+  - - - '152'
+      - Alessandro Pompei
+    - null
+  - - - '169'
+      - Alessandro Vallero
+    - null
+  - - - '133'
+      - Alessio Guidi
+    - null
+  - - - '172'
+      - Alessio Voltan
+    - null
+  - - - '155'
+      - Alfio Ragaglia
+    - null
+  - - - '164'
+      - Anca Tabara
+    - null
+  - - - '130'
+      - Andrea Garolla
+    - null
+  - - - '165'
+      - Andrea Terenziani
+    - null
+  - - - '122'
+      - Angelo Dell’Aira
+    - null
+  - - - '158'
+      - Antonio Ruta
+    - null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - null
+  - - - '177'
+      - Bogdan Bialka
+    - null
+  - - - '106'
+      - Christian Biasi
+    - null
+  - - - '135'
+      - Cristian Inverardi
+    - null
+  - - - '105'
+      - Daniele Bevilacqua
+    - null
+  - - - '174'
+      - Davide Zaltron
+    - null
+  - - - '101'
+      - Diego Ardissone
+    - null
+  - - - '157'
+      - Elio Rossi
+    - null
+  - - - '109'
+      - Federico Brown Manzone
+    - null
+  - - - '145'
+      - Federico Nevastro
+    - null
+  - - - '176'
+      - Francesco Fontanesi
+    - null
+  - - - '147'
+      - Francesco Orcese
+    - null
+  - - - '107'
+      - Gabriele Bonafini
+    - null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - null
+  - - - '153'
+      - Gianbasilio Profiti
+    - null
+  - - - '117'
+      - Gianfranco Crestani
+    - null
+  - - - '121'
+      - Giorgio Darra
+    - null
+  - - - '160'
+      - Giuseppe Simone
+    - null
+  - - - '125'
+      - Grzegorz Fiema
+    - null
+  - - - '118'
+      - Igor D'Agostino
+    - null
+  - - - '167'
+      - Ionut Ulici
+    - null
+  - - - '116'
+      - Ivan Centa
+    - null
+  - - - '132'
+      - Jacek Górski
+    - null
+  - - - '146'
+      - Joachim Oberhauser
+    - null
+  - - - '110'
+      - Klaudia Bulgakow
+    - null
+  - - - '159'
+      - Krzysztof Schmidt
+    - null
+  - - - '104'
+      - Loris Berta
+    - null
+  - - - '142'
+      - Luca Mammucari
+    - null
+  - - - '150'
+      - Luca Paoletti
+    - null
+  - - - '129'
+      - Luciano Gallo
+    - null
+  - - - '148'
+      - Luciano Pagnoni
+    - null
+  - - - '111'
+      - Marco Busetta
+    - null
+  - - - '131'
+      - Marco Gentilini
+    - null
+  - - - '138'
+      - Marco Littamè
+    - null
+  - - - '168'
+      - Marco Valentini
+    - null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - null
+  - - - '178'
+      - Marius Saigiu
+    - null
+  - - - '175'
+      - Mariusz Wisniowski
+    - null
+  - - - '156'
+      - Massimo Rapari
+    - null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - null
+  - - - '161'
+      - Matteo Siragna
+    - null
+  - - - '140'
+      - Maurizio Maina
+    - null
+  - - - '180'
+      - Michal Gierlach
+    - null
+  - - - '108'
+      - Michele Boschi
+    - null
+  - - - '128'
+      - Michele Gaiba
+    - null
+  - - - '114'
+      - Mirco Casarini
+    - null
+  - - - '124'
+      - Paolo Facchini
+    - null
+  - - - '170'
+      - Paolo Veratti
+    - null
+  - - - '173'
+      - Paolo Zammarchi
+    - null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - null
+  - - - '144'
+      - Riccardo Marchetto
+    - null
+  - - - '127'
+      - Richárd Gabrieli
+    - null
+  - - - '123'
+      - Sergio Di Fazio
+    - null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - null
+  - - - '137'
+      - Slawomir Kaczynski
+    - null
+  - - - '154'
+      - Stefano Pucci
+    - null
+  - - - '166'
+      - Tiziano Trambaioli
+    - null
+  - - - '113'
+      - Tommaso Carlini
+    - null
+  - - - '143'
+      - Valerio Marchetti
+    - null
+- - - - '115'
+      - Alberto Castagna
+    - null
+  - - - '141'
+      - Albino Malli
+    - null
+  - - - '126'
+      - Alessandro Fuzzi
+    - null
+  - - - '139'
+      - Alessandro Madaluni
+    - null
+  - - - '149'
+      - Alessandro Palma
+    - null
+  - - - '152'
+      - Alessandro Pompei
+    - null
+  - - - '169'
+      - Alessandro Vallero
+    - null
+  - - - '133'
+      - Alessio Guidi
+    - null
+  - - - '172'
+      - Alessio Voltan
+    - null
+  - - - '155'
+      - Alfio Ragaglia
+    - null
+  - - - '164'
+      - Anca Tabara
+    - null
+  - - - '130'
+      - Andrea Garolla
+    - null
+  - - - '165'
+      - Andrea Terenziani
+    - null
+  - - - '122'
+      - Angelo Dell’Aira
+    - null
+  - - - '158'
+      - Antonio Ruta
+    - null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - null
+  - - - '177'
+      - Bogdan Bialka
+    - null
+  - - - '106'
+      - Christian Biasi
+    - null
+  - - - '135'
+      - Cristian Inverardi
+    - null
+  - - - '105'
+      - Daniele Bevilacqua
+    - null
+  - - - '174'
+      - Davide Zaltron
+    - null
+  - - - '101'
+      - Diego Ardissone
+    - null
+  - - - '157'
+      - Elio Rossi
+    - null
+  - - - '109'
+      - Federico Brown Manzone
+    - null
+  - - - '145'
+      - Federico Nevastro
+    - null
+  - - - '176'
+      - Francesco Fontanesi
+    - null
+  - - - '147'
+      - Francesco Orcese
+    - null
+  - - - '107'
+      - Gabriele Bonafini
+    - null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - null
+  - - - '153'
+      - Gianbasilio Profiti
+    - null
+  - - - '117'
+      - Gianfranco Crestani
+    - null
+  - - - '121'
+      - Giorgio Darra
+    - null
+  - - - '160'
+      - Giuseppe Simone
+    - null
+  - - - '125'
+      - Grzegorz Fiema
+    - null
+  - - - '118'
+      - Igor D'Agostino
+    - null
+  - - - '167'
+      - Ionut Ulici
+    - null
+  - - - '116'
+      - Ivan Centa
+    - null
+  - - - '132'
+      - Jacek Górski
+    - null
+  - - - '146'
+      - Joachim Oberhauser
+    - null
+  - - - '110'
+      - Klaudia Bulgakow
+    - null
+  - - - '159'
+      - Krzysztof Schmidt
+    - null
+  - - - '104'
+      - Loris Berta
+    - null
+  - - - '142'
+      - Luca Mammucari
+    - null
+  - - - '150'
+      - Luca Paoletti
+    - null
+  - - - '129'
+      - Luciano Gallo
+    - null
+  - - - '148'
+      - Luciano Pagnoni
+    - null
+  - - - '111'
+      - Marco Busetta
+    - null
+  - - - '131'
+      - Marco Gentilini
+    - null
+  - - - '138'
+      - Marco Littamè
+    - null
+  - - - '168'
+      - Marco Valentini
+    - null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - null
+  - - - '178'
+      - Marius Saigiu
+    - null
+  - - - '175'
+      - Mariusz Wisniowski
+    - null
+  - - - '156'
+      - Massimo Rapari
+    - null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - null
+  - - - '161'
+      - Matteo Siragna
+    - null
+  - - - '140'
+      - Maurizio Maina
+    - null
+  - - - '180'
+      - Michal Gierlach
+    - null
+  - - - '108'
+      - Michele Boschi
+    - null
+  - - - '128'
+      - Michele Gaiba
+    - null
+  - - - '124'
+      - Paolo Facchini
+    - null
+  - - - '170'
+      - Paolo Veratti
+    - null
+  - - - '173'
+      - Paolo Zammarchi
+    - null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - null
+  - - - '144'
+      - Riccardo Marchetto
+    - null
+  - - - '127'
+      - Richárd Gabrieli
+    - null
+  - - - '123'
+      - Sergio Di Fazio
+    - null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - null
+  - - - '137'
+      - Slawomir Kaczynski
+    - null
+  - - - '154'
+      - Stefano Pucci
+    - null
+  - - - '166'
+      - Tiziano Trambaioli
+    - null
+  - - - '113'
+      - Tommaso Carlini
+    - null
+  - - - '143'
+      - Valerio Marchetti
+    - null
+- - - - '115'
+      - Alberto Castagna
+    - null
+  - - - '141'
+      - Albino Malli
+    - null
+  - - - '126'
+      - Alessandro Fuzzi
+    - null
+  - - - '139'
+      - Alessandro Madaluni
+    - null
+  - - - '149'
+      - Alessandro Palma
+    - null
+  - - - '152'
+      - Alessandro Pompei
+    - null
+  - - - '169'
+      - Alessandro Vallero
+    - null
+  - - - '133'
+      - Alessio Guidi
+    - null
+  - - - '172'
+      - Alessio Voltan
+    - null
+  - - - '155'
+      - Alfio Ragaglia
+    - null
+  - - - '164'
+      - Anca Tabara
+    - null
+  - - - '130'
+      - Andrea Garolla
+    - null
+  - - - '165'
+      - Andrea Terenziani
+    - null
+  - - - '122'
+      - Angelo Dell’Aira
+    - null
+  - - - '158'
+      - Antonio Ruta
+    - null
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - null
+  - - - '177'
+      - Bogdan Bialka
+    - null
+  - - - '106'
+      - Christian Biasi
+    - null
+  - - - '135'
+      - Cristian Inverardi
+    - null
+  - - - '105'
+      - Daniele Bevilacqua
+    - null
+  - - - '174'
+      - Davide Zaltron
+    - null
+  - - - '101'
+      - Diego Ardissone
+    - null
+  - - - '157'
+      - Elio Rossi
+    - null
+  - - - '109'
+      - Federico Brown Manzone
+    - null
+  - - - '145'
+      - Federico Nevastro
+    - null
+  - - - '176'
+      - Francesco Fontanesi
+    - null
+  - - - '147'
+      - Francesco Orcese
+    - null
+  - - - '107'
+      - Gabriele Bonafini
+    - null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - null
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - null
+  - - - '153'
+      - Gianbasilio Profiti
+    - null
+  - - - '117'
+      - Gianfranco Crestani
+    - null
+  - - - '121'
+      - Giorgio Darra
+    - null
+  - - - '160'
+      - Giuseppe Simone
+    - null
+  - - - '125'
+      - Grzegorz Fiema
+    - null
+  - - - '118'
+      - Igor D'Agostino
+    - null
+  - - - '167'
+      - Ionut Ulici
+    - null
+  - - - '116'
+      - Ivan Centa
+    - null
+  - - - '132'
+      - Jacek Górski
+    - null
+  - - - '146'
+      - Joachim Oberhauser
+    - null
+  - - - '110'
+      - Klaudia Bulgakow
+    - null
+  - - - '159'
+      - Krzysztof Schmidt
+    - null
+  - - - '104'
+      - Loris Berta
+    - null
+  - - - '142'
+      - Luca Mammucari
+    - null
+  - - - '150'
+      - Luca Paoletti
+    - null
+  - - - '129'
+      - Luciano Gallo
+    - null
+  - - - '148'
+      - Luciano Pagnoni
+    - null
+  - - - '111'
+      - Marco Busetta
+    - null
+  - - - '138'
+      - Marco Littamè
+    - null
+  - - - '168'
+      - Marco Valentini
+    - null
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - null
+  - - - '178'
+      - Marius Saigiu
+    - null
+  - - - '175'
+      - Mariusz Wisniowski
+    - null
+  - - - '156'
+      - Massimo Rapari
+    - null
+  - - - '102'
+      - Matteo Bacchiocchi
+    - null
+  - - - '161'
+      - Matteo Siragna
+    - null
+  - - - '140'
+      - Maurizio Maina
+    - null
+  - - - '180'
+      - Michal Gierlach
+    - null
+  - - - '108'
+      - Michele Boschi
+    - null
+  - - - '128'
+      - Michele Gaiba
+    - null
+  - - - '124'
+      - Paolo Facchini
+    - null
+  - - - '170'
+      - Paolo Veratti
+    - null
+  - - - '173'
+      - Paolo Zammarchi
+    - null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - null
+  - - - '144'
+      - Riccardo Marchetto
+    - null
+  - - - '127'
+      - Richárd Gabrieli
+    - null
+  - - - '123'
+      - Sergio Di Fazio
+    - null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - null
+  - - - '137'
+      - Slawomir Kaczynski
+    - null
+  - - - '154'
+      - Stefano Pucci
+    - null
+  - - - '166'
+      - Tiziano Trambaioli
+    - null
+  - - - '113'
+      - Tommaso Carlini
+    - null
+  - - - '143'
+      - Valerio Marchetti
+    - null

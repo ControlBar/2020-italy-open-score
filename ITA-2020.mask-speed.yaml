@@ -1,0 +1,49 @@
+ssBestTime:
+- null
+- null
+- null
+- null
+- null
+- null
+gsBestTime:
+- null
+- null
+- null
+- null
+- null
+- null
+taskDistance:
+- 51.517078 km
+- 74.486014 km
+- null
+- 105.761993 km
+- 87.546415 km
+- 62.543034 km
+taskSpeedDistance:
+- 50.917078 km
+- 74.065201 km
+- null
+- 101.877086 km
+- 86.483476 km
+- 60.408156 km
+ssSpeed:
+- []
+- []
+- []
+- []
+- []
+- []
+gsSpeed:
+- []
+- []
+- []
+- []
+- []
+- []
+altStopped:
+- []
+- []
+- []
+- []
+- []
+- []

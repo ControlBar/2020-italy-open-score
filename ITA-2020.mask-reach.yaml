@@ -1,28 +1,5623 @@
 bolster:
+- max: 51.517078 km
+  mean: 40.078244 km
+  stdDev: 15.811798 km
+- max: 74.486014 km
+  mean: 64.063119 km
+  stdDev: 19.333467 km
 - null
-- null
-- null
-- null
-- null
-- null
+- max: 105.761993 km
+  mean: 81.858736 km
+  stdDev: 27.554219 km
+- max: 87.546415 km
+  mean: 67.810064 km
+  stdDev: 26.873746 km
+- max: 62.543034 km
+  mean: 58.487061 km
+  stdDev: 9.817981 km
 reach:
+- max: 51.517078 km
+  mean: 40.059147 km
+  stdDev: 15.854922 km
+- max: 74.486014 km
+  mean: 64.063119 km
+  stdDev: 19.333467 km
 - null
-- null
-- null
-- null
-- null
-- null
+- max: 105.761993 km
+  mean: 81.797439 km
+  stdDev: 27.727113 km
+- max: 87.546415 km
+  mean: 67.810064 km
+  stdDev: 26.873746 km
+- max: 62.543034 km
+  mean: 58.487061 km
+  stdDev: 9.817981 km
 reachRank:
+- - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 51.517078 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 51.517078 km
+  - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 51.517078 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 1
+      reach: 51.517078 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 51.517078 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 1
+      reach: 51.517078 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 51.517078 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 51.517078 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 51.517078 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 1
+      reach: 51.517078 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 51.517078 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 1
+      reach: 51.517078 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 51.517078 km
+  - - - '141'
+      - Albino Malli
+    - frac: 1
+      reach: 51.517078 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 51.517078 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 1
+      reach: 51.517078 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 51.517078 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 51.517078 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 51.517078 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 1
+      reach: 51.517078 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 51.517078 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 1
+      reach: 51.517078 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 1
+      reach: 51.517078 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 51.517078 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 1
+      reach: 51.517078 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 1
+      reach: 51.517078 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 51.517078 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 51.517078 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 51.517078 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 1
+      reach: 51.517078 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 1
+      reach: 51.517078 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 51.517078 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 1
+      reach: 51.517078 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 0.93112963
+      reach: 47.969078 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 0.92798505
+      reach: 47.807078 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 0.9221035
+      reach: 47.504078 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 0.88811477
+      reach: 45.753078 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 0.85864882
+      reach: 44.235078 km
+  - - - '101'
+      - Diego Ardissone
+    - frac: 0.82706706
+      reach: 42.608078 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.8243301
+      reach: 42.467078 km
+  - - - '114'
+      - Mirco Casarini
+    - frac: 0.80398733
+      reach: 41.419078 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 0.79670819
+      reach: 41.044078 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.78065526
+      reach: 40.217078 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.77894709
+      reach: 40.129078 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 0.77277438
+      reach: 39.811078 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.71131903
+      reach: 36.645078 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 0.68513354
+      reach: 35.296078 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 0.52897173
+      reach: 27.251078 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.4188335
+      reach: 21.577078 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 0.40844859
+      reach: 21.042078 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 0.40431404
+      reach: 20.829078 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 0.35928043
+      reach: 18.509078 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 0.34905081
+      reach: 17.982078 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.34771145
+      reach: 17.913078 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.33783123
+      reach: 17.404078 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 0.28745959
+      reach: 14.809078 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.28417912
+      reach: 14.640078 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.27321189
+      reach: 14.075078 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.27280425
+      reach: 14.054078 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 0.23743734
+      reach: 12.232078 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 0.21730809
+      reach: 11.195078 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.2137947
+      reach: 11.014078 km
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - frac: 0.20665143
+      reach: 10.646078 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 0.15730857
+      reach: 8.104078 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 0.10258885
+      reach: 5.285078 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 7.036653e-2
+      reach: 3.625078 km
+- - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 74.486014 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 74.486014 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 1
+      reach: 74.486014 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 74.486014 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 74.486014 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 74.486014 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 74.486014 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 1
+      reach: 74.486014 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 74.486014 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 1
+      reach: 74.486014 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 74.486014 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 74.486014 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 1
+      reach: 74.486014 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 74.486014 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 74.486014 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 74.486014 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 74.486014 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 74.486014 km
+  - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 74.486014 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 1
+      reach: 74.486014 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 74.486014 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 74.486014 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 1
+      reach: 74.486014 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 1
+      reach: 74.486014 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 74.486014 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 74.486014 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 1
+      reach: 74.486014 km
+  - - - '141'
+      - Albino Malli
+    - frac: 1
+      reach: 74.486014 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 1
+      reach: 74.486014 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 1
+      reach: 74.486014 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 1
+      reach: 74.486014 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 74.486014 km
+  - - - '101'
+      - Diego Ardissone
+    - frac: 1
+      reach: 74.486014 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 1
+      reach: 74.486014 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 1
+      reach: 74.486014 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 74.486014 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 1
+      reach: 74.486014 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 1
+      reach: 74.486014 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.97756626
+      reach: 72.815014 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.97492147
+      reach: 72.618014 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 0.96329512
+      reach: 71.752014 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 0.92832211
+      reach: 69.147014 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 0.92797306
+      reach: 69.121014 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.92714068
+      reach: 69.059014 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.89675914
+      reach: 66.796014 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.88525363
+      reach: 65.939014 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.87636605
+      reach: 65.277014 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 0.87535915
+      reach: 65.202014 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 0.81283735
+      reach: 60.545014 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.80185542
+      reach: 59.727014 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.73330564
+      reach: 54.621014 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 0.72508933
+      reach: 54.009014 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 0.72423011
+      reach: 53.945014 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 0.72418983
+      reach: 53.942014 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.64519514
+      reach: 48.058014 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.57393344
+      reach: 42.750014 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.37586941
+      reach: 27.997014 km
+  - - - '114'
+      - Mirco Casarini
+    - frac: 0.34469577
+      reach: 25.675014 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.28711449
+      reach: 21.386014 km
+  - - - '104'
+      - Loris Berta
+    - frac: 0.2519938
+      reach: 18.770014 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 0.25053044
+      reach: 18.661014 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 0.23871614
+      reach: 17.781014 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 0.23007022
+      reach: 17.137014 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 0.17925532
+      reach: 13.352014 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 0.12746036
+      reach: 9.494014 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.10595296
+      reach: 7.892014 km
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 105.761993 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 105.761993 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 105.761993 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 105.761993 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 105.761993 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 105.761993 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 105.761993 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 105.761993 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 105.761993 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 105.761993 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 1
+      reach: 105.761993 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 105.761993 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 105.761993 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 105.761993 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 1
+      reach: 105.761993 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 105.761993 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 105.761993 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 105.761993 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 105.761993 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 105.761993 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 105.761993 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 1
+      reach: 105.761993 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 1
+      reach: 105.761993 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 105.761993 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 1
+      reach: 105.761993 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 0.99965016
+      reach: 105.724993 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 0.9989032
+      reach: 105.645993 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 0.9630302
+      reach: 101.851993 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.94537735
+      reach: 99.984993 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 0.93020177
+      reach: 98.379993 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 0.90744312
+      reach: 95.972993 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 0.89489608
+      reach: 94.645993 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 0.8831811
+      reach: 93.406993 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 0.88261379
+      reach: 93.346993 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 0.87355571
+      reach: 92.388993 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 0.87159849
+      reach: 92.181993 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 0.85274483
+      reach: 90.187993 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 0.83029821
+      reach: 87.813993 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.80829597
+      reach: 85.486993 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 0.80524195
+      reach: 85.163993 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 0.80410732
+      reach: 85.043993 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 0.79925681
+      reach: 84.530993 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.7988786
+      reach: 84.490993 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 0.79691192
+      reach: 84.282993 km
+  - - - '141'
+      - Albino Malli
+    - frac: 0.77343468
+      reach: 81.799993 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 0.75983811
+      reach: 80.361993 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 0.75641533
+      reach: 79.999993 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 0.75166882
+      reach: 79.497993 km
+  - - - '114'
+      - Mirco Casarini
+    - frac: 0.74710197
+      reach: 79.014993 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 0.73611503
+      reach: 77.852993 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.70347571
+      reach: 74.400993 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 0.62866623
+      reach: 66.488993 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.62641589
+      reach: 66.250993 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 0.62469505
+      reach: 66.068993 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.6219814
+      reach: 65.781993 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.62008091
+      reach: 65.580993 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.61554242
+      reach: 65.100993 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 0.60310884
+      reach: 63.785993 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 0.59649966
+      reach: 63.086993 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 0.58144699
+      reach: 61.494993 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 0.57827005
+      reach: 61.158993 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.57461089
+      reach: 60.771993 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.57364646
+      reach: 60.669993 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.56617686
+      reach: 59.879993 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 0.56160055
+      reach: 59.395993 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.55440514
+      reach: 58.634993 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 0.42222155
+      reach: 44.654993 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 0.42095456
+      reach: 44.520993 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.25481737
+      reach: 26.949993 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 0.15138702
+      reach: 16.010993 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 7.221869e-2
+      reach: 7.637993 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 5.773334e-2
+      reach: 6.105993 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 2.585043e-2
+      reach: 2.733993 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 2.581261e-2
+      reach: 2.729993 km
+- - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 87.546415 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 87.546415 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 87.546415 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 87.546415 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 87.546415 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 87.546415 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 87.546415 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 87.546415 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 1
+      reach: 87.546415 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 87.546415 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 1
+      reach: 87.546415 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 87.546415 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 87.546415 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 87.546415 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 87.546415 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 1
+      reach: 87.546415 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 87.546415 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 1
+      reach: 87.546415 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 87.546415 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 1
+      reach: 87.546415 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 87.546415 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 87.546415 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 87.546415 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 87.546415 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 87.546415 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 87.546415 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 1
+      reach: 87.546415 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 1
+      reach: 87.546415 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 0.98960551
+      reach: 86.636415 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.96119773
+      reach: 84.149415 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.92382327
+      reach: 80.877415 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 0.9220642
+      reach: 80.723415 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 0.90864275
+      reach: 79.548415 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.90008729
+      reach: 78.799415 km
+  - - - '141'
+      - Albino Malli
+    - frac: 0.88615182
+      reach: 77.579415 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 0.88457551
+      reach: 77.441415 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.86876676
+      reach: 76.057415 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 0.86567126
+      reach: 75.786415 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 0.8533121
+      reach: 74.704415 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.85222696
+      reach: 74.609415 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 0.84878878
+      reach: 74.308415 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 0.83158648
+      reach: 72.802415 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.82339654
+      reach: 72.085415 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 0.82156894
+      reach: 71.925415 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 0.81548074
+      reach: 71.392415 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.80687958
+      reach: 70.639415 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 0.80661687
+      reach: 70.616415 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 0.78818093
+      reach: 69.002415 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 0.77844895
+      reach: 68.150415 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 0.77815197
+      reach: 68.124415 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 0.57703579
+      reach: 50.517415 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 0.56755511
+      reach: 49.687415 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.48780313
+      reach: 42.705415 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 0.43910896
+      reach: 38.442415 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.43647036
+      reach: 38.211415 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 0.43115889
+      reach: 37.746415 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 0.32044048
+      reach: 28.053415 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 0.30763584
+      reach: 26.932415 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 0.30121639
+      reach: 26.370415 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.2824492
+      reach: 24.727415 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 0.27621251
+      reach: 24.181415 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.18042332
+      reach: 15.795415 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 0.15744123
+      reach: 13.783415 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 0.15705286
+      reach: 13.749415 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 0.11698269
+      reach: 10.241415 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 0.10392676
+      reach: 9.098415 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 9.606807e-2
+      reach: 8.410415 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 8.54794e-2
+      reach: 7.483415 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 7.784916e-2
+      reach: 6.815415 km
+- - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 62.543034 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 62.543034 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 62.543034 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 62.543034 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 62.543034 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 62.543034 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 62.543034 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 1
+      reach: 62.543034 km
+  - - - '141'
+      - Albino Malli
+    - frac: 1
+      reach: 62.543034 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 62.543034 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 62.543034 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 1
+      reach: 62.543034 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 62.543034 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 62.543034 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 1
+      reach: 62.543034 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 1
+      reach: 62.543034 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 62.543034 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 1
+      reach: 62.543034 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 1
+      reach: 62.543034 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 1
+      reach: 62.543034 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 62.543034 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 62.543034 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 1
+      reach: 62.543034 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 1
+      reach: 62.543034 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 1
+      reach: 62.543034 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 62.543034 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 62.543034 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 1
+      reach: 62.543034 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 62.543034 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 1
+      reach: 62.543034 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 62.543034 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 1
+      reach: 62.543034 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 1
+      reach: 62.543034 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 62.543034 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 62.543034 km
+  - - - '101'
+      - Diego Ardissone
+    - frac: 1
+      reach: 62.543034 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 1
+      reach: 62.543034 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 1
+      reach: 62.543034 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 1
+      reach: 62.543034 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 1
+      reach: 62.543034 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 1
+      reach: 62.543034 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 1
+      reach: 62.543034 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 1
+      reach: 62.543034 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 1
+      reach: 62.543034 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.82503247
+      reach: 51.600034 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.82026775
+      reach: 51.302034 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.76942276
+      reach: 48.122034 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.73875588
+      reach: 46.204034 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 0.73197655
+      reach: 45.780034 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.73168874
+      reach: 45.762034 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 0.72932237
+      reach: 45.614034 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 0.70457142
+      reach: 44.066034 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.69595335
+      reach: 43.527034 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 0.6778698
+      reach: 42.396034 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.67761398
+      reach: 42.380034 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 0.66680542
+      reach: 41.704034 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.26687279
+      reach: 16.691034 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 0.16487902
+      reach: 10.312034 km
 nigh:
+- - - - '164'
+      - Anca Tabara
+    - togo:
+        distance: 3.548402 km
+        flipSum:
+        - 3.548402 km
+        legs:
+        - 3.548402 km
+        legsSum:
+        - 3.548402 km
+        waypoints:
+        - lat: 45.39268333
+          lng: 7.72081667
+        - lat: 45.38882567
+          lng: 7.67570922
+      made: 47.969078 km
+  - - - '130'
+      - Andrea Garolla
+    - togo:
+        distance: 4.012735 km
+        flipSum:
+        - 4.012735 km
+        legs:
+        - 4.012735 km
+        legsSum:
+        - 4.012735 km
+        waypoints:
+        - lat: 45.39493333
+          lng: 7.72636667
+        - lat: 45.38914504
+          lng: 7.67564391
+      made: 47.504078 km
+  - - - '174'
+      - Davide Zaltron
+    - togo:
+        distance: 3.709341 km
+        flipSum:
+        - 3.709341 km
+        legs:
+        - 3.709341 km
+        legsSum:
+        - 3.709341 km
+        waypoints:
+        - lat: 45.3947
+          lng: 7.72248333
+        - lat: 45.38914504
+          lng: 7.67564391
+      made: 47.807078 km
+  - - - '170'
+      - Paolo Veratti
+    - togo:
+        distance: 5.763437 km
+        flipSum:
+        - 5.763437 km
+        - 4.991507 km
+        legs:
+        - 0.771930 km
+        - 4.991507 km
+        legsSum:
+        - 0.771930 km
+        - 5.763437 km
+        waypoints:
+        - lat: 45.3925
+          lng: 7.73071667
+        - lat: 45.39661816
+          lng: 7.73867533
+        - lat: 45.38914504
+          lng: 7.67564391
+      made: 45.753078 km
+  - - - '178'
+      - Marius Saigiu
+    - togo:
+        distance: 7.281393 km
+        flipSum:
+        - 7.281393 km
+        - 4.941331 km
+        legs:
+        - 2.340062 km
+        - 4.941331 km
+        legsSum:
+        - 2.340062 km
+        - 7.281393 km
+        waypoints:
+        - lat: 45.39815
+          lng: 7.70696667
+        - lat: 45.40123018
+          lng: 7.73661539
+        - lat: 45.38993452
+          lng: 7.67541003
+      made: 44.235078 km
+  - - - '101'
+      - Diego Ardissone
+    - togo:
+        distance: 8.905229 km
+        flipSum:
+        - 8.905229 km
+        - 4.948458 km
+        legs:
+        - 3.956771 km
+        - 4.948458 km
+        legsSum:
+        - 3.956771 km
+        - 8.905229 km
+        waypoints:
+        - lat: 45.38576667
+          lng: 7.6904
+        - lat: 45.39889188
+          lng: 7.73749875
+        - lat: 45.38962051
+          lng: 7.67551562
+      made: 42.608078 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 9.050322 km
+        flipSum:
+        - 9.050322 km
+        - 5.018888 km
+        legs:
+        - 4.031434 km
+        - 5.018888 km
+        legsSum:
+        - 4.031434 km
+        - 9.050322 km
+        waypoints:
+        - lat: 45.4129
+          lng: 7.68521667
+        - lat: 45.40554222
+          lng: 7.73578528
+        - lat: 45.39070622
+          lng: 7.67507688
+      made: 42.467078 km
+  - - - '114'
+      - Mirco Casarini
+    - togo:
+        distance: 10.096034 km
+        flipSum:
+        - 10.096034 km
+        - 4.961613 km
+        legs:
+        - 5.134421 km
+        - 4.961613 km
+        legsSum:
+        - 5.134421 km
+        - 10.096034 km
+        waypoints:
+        - lat: 45.40245
+          lng: 7.67036667
+        - lat: 45.40313482
+          lng: 7.73612465
+        - lat: 45.39024568
+          lng: 7.67528855
+      made: 41.419078 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 11.297238 km
+        flipSum:
+        - 11.297238 km
+        - 4.980327 km
+        legs:
+        - 6.316911 km
+        - 4.980327 km
+        legsSum:
+        - 6.316911 km
+        - 11.297238 km
+        waypoints:
+        - lat: 45.4091
+          lng: 7.65535
+        - lat: 45.40409515
+          lng: 7.73595218
+        - lat: 45.39040007
+          lng: 7.6752219
+      made: 40.217078 km
+  - - - '150'
+      - Luca Paoletti
+    - togo:
+        distance: 11.705436 km
+        flipSum:
+        - 11.705436 km
+        - 4.970239 km
+        legs:
+        - 6.735197 km
+        - 4.970239 km
+        legsSum:
+        - 6.735197 km
+        - 11.705436 km
+        waypoints:
+        - lat: 45.40781667
+          lng: 7.64996667
+        - lat: 45.40361445
+          lng: 7.73603231
+        - lat: 45.39040007
+          lng: 7.6752219
+      made: 39.811078 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 11.385311 km
+        flipSum:
+        - 11.385311 km
+        - 4.980327 km
+        legs:
+        - 6.404984 km
+        - 4.980327 km
+        legsSum:
+        - 6.404984 km
+        - 11.385311 km
+        waypoints:
+        - lat: 45.40948333
+          lng: 7.65426667
+        - lat: 45.40409515
+          lng: 7.73595218
+        - lat: 45.39040007
+          lng: 7.6752219
+      made: 40.129078 km
+  - - - '145'
+      - Federico Nevastro
+    - togo:
+        distance: 10.471120 km
+        flipSum:
+        - 10.471120 km
+        - 4.941331 km
+        legs:
+        - 5.529789 km
+        - 4.941331 km
+        legsSum:
+        - 5.529789 km
+        - 10.471120 km
+        waypoints:
+        - lat: 45.39196667
+          lng: 7.66703333
+        - lat: 45.40123018
+          lng: 7.73661539
+        - lat: 45.38993452
+          lng: 7.67541003
+      made: 41.044078 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo:
+        distance: 16.206949 km
+        flipSum:
+        - 16.206949 km
+        - 14.025229 km
+        - 4.939846 km
+        legs:
+        - 2.181720 km
+        - 9.085382 km
+        - 4.939846 km
+        legsSum:
+        - 2.181720 km
+        - 11.267103 km
+        - 16.206949 km
+        waypoints:
+        - lat: 45.40165
+          lng: 7.63466667
+        - lat: 45.38384141
+          lng: 7.62293908
+        - lat: 45.40075824
+          lng: 7.73676823
+        - lat: 45.38993452
+          lng: 7.67541003
+      made: 35.296078 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 14.827179 km
+        flipSum:
+        - 14.827179 km
+        - 14.657741 km
+        - 4.944221 km
+        legs:
+        - 0.169438 km
+        - 9.713520 km
+        - 4.944221 km
+        legsSum:
+        - 0.169438 km
+        - 9.882958 km
+        - 14.827179 km
+        waypoints:
+        - lat: 45.39285
+          lng: 7.6136
+        - lat: 45.39139851
+          lng: 7.61293954
+        - lat: 45.40170396
+          lng: 7.73647457
+        - lat: 45.39009048
+          lng: 7.67535127
+      made: 36.645078 km
+  - - - '142'
+      - Luca Mammucari
+    - togo:
+        distance: 24.259368 km
+        flipSum:
+        - 24.259368 km
+        - 13.798895 km
+        - 4.939847 km
+        legs:
+        - 10.460473 km
+        - 8.859047 km
+        - 4.939847 km
+        legsSum:
+        - 10.460473 km
+        - 19.319520 km
+        - 24.259368 km
+        waypoints:
+        - lat: 45.45696667
+          lng: 7.7038
+        - lat: 45.37970626
+          lng: 7.62733691
+        - lat: 45.40028829
+          lng: 7.73693304
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 27.251078 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 29.936433 km
+        flipSum:
+        - 29.936433 km
+        - 13.711026 km
+        - 4.941261 km
+        legs:
+        - 16.225407 km
+        - 8.769765 km
+        - 4.941261 km
+        legsSum:
+        - 16.225407 km
+        - 24.995172 km
+        - 29.936433 km
+        waypoints:
+        - lat: 45.48746667
+          lng: 7.76615
+        - lat: 45.37755858
+          lng: 7.6293752
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 21.577078 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo:
+        distance: 30.686793 km
+        flipSum:
+        - 30.686793 km
+        - 13.611807 km
+        - 4.941261 km
+        legs:
+        - 17.074986 km
+        - 8.670546 km
+        - 4.941261 km
+        legsSum:
+        - 17.074986 km
+        - 25.745532 km
+        - 30.686793 km
+        waypoints:
+        - lat: 45.47256667
+          lng: 7.80028333
+        - lat: 45.37424462
+          lng: 7.63222453
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 20.829078 km
+  - - - '155'
+      - Alfio Ragaglia
+    - togo:
+        distance: 33.534524 km
+        flipSum:
+        - 33.534524 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 19.894383 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 19.894383 km
+        - 28.593263 km
+        - 33.534524 km
+        waypoints:
+        - lat: 45.49438333
+          lng: 7.82166667
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 17.982078 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 33.601825 km
+        flipSum:
+        - 33.601825 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 19.961684 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 19.961684 km
+        - 28.660564 km
+        - 33.601825 km
+        waypoints:
+        - lat: 45.49608333
+          lng: 7.82065
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 17.913078 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo:
+        distance: 30.467588 km
+        flipSum:
+        - 30.467588 km
+        - 13.711026 km
+        - 4.941261 km
+        legs:
+        - 16.756562 km
+        - 8.769765 km
+        - 4.941261 km
+        legsSum:
+        - 16.756562 km
+        - 25.526327 km
+        - 30.467588 km
+        waypoints:
+        - lat: 45.48848333
+          lng: 7.77473333
+        - lat: 45.37755858
+          lng: 7.6293752
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 21.042078 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 33.005513 km
+        flipSum:
+        - 33.005513 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 19.365372 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 19.365372 km
+        - 28.064252 km
+        - 33.005513 km
+        waypoints:
+        - lat: 45.49308333
+          lng: 7.8142
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 18.509078 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 34.109921 km
+        flipSum:
+        - 34.109921 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 20.469780 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 20.469780 km
+        - 29.168660 km
+        - 34.109921 km
+        waypoints:
+        - lat: 45.50071667
+          lng: 7.82343333
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 17.404078 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 36.872650 km
+        flipSum:
+        - 36.872650 km
+        - 34.099516 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 2.773135 km
+        - 20.459375 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 2.773135 km
+        - 23.232509 km
+        - 31.931390 km
+        - 36.872650 km
+        waypoints:
+        - lat: 45.48788333
+          lng: 7.79275
+        - lat: 45.50070647
+          lng: 7.8232647
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 14.640078 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 37.456350 km
+        flipSum:
+        - 37.456350 km
+        - 34.152902 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 3.303448 km
+        - 20.512761 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 3.303448 km
+        - 23.816209 km
+        - 32.515089 km
+        - 37.456350 km
+        waypoints:
+        - lat: 45.49215
+          lng: 7.78138333
+        - lat: 45.50335511
+          lng: 7.8206372
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 14.054078 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - togo:
+        distance: 36.694513 km
+        flipSum:
+        - 36.694513 km
+        - 34.171143 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 2.523370 km
+        - 20.531002 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 2.523370 km
+        - 23.054372 km
+        - 31.753252 km
+        - 36.694513 km
+        waypoints:
+        - lat: 45.49608333
+          lng: 7.7897
+        - lat: 45.50403728
+          lng: 7.82002297
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 14.809078 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 37.437609 km
+        flipSum:
+        - 37.437609 km
+        - 34.136609 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 3.301000 km
+        - 20.496468 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 3.301000 km
+        - 23.797468 km
+        - 32.496348 km
+        - 37.437609 km
+        waypoints:
+        - lat: 45.49078333
+          lng: 7.78246667
+        - lat: 45.50268073
+          lng: 7.8212687
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 14.075078 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 39.274003 km
+        flipSum:
+        - 39.274003 km
+        - 34.109908 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 5.164095 km
+        - 20.469767 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 5.164095 km
+        - 25.633862 km
+        - 34.332742 km
+        - 39.274003 km
+        waypoints:
+        - lat: 45.47951667
+          lng: 7.76411667
+        - lat: 45.5013562
+          lng: 7.82258265
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 12.232078 km
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - togo:
+        distance: 40.867973 km
+        flipSum:
+        - 40.867973 km
+        - 34.091104 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 6.776868 km
+        - 20.450964 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 6.776868 km
+        - 27.227832 km
+        - 35.926712 km
+        - 40.867973 km
+        waypoints:
+        - lat: 45.46665
+          lng: 7.75126667
+        - lat: 45.50006537
+          lng: 7.82396316
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 10.646078 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo:
+        distance: 40.314367 km
+        flipSum:
+        - 40.314367 km
+        - 34.122275 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 6.192092 km
+        - 20.482134 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 6.192092 km
+        - 26.674226 km
+        - 35.373106 km
+        - 40.314367 km
+        waypoints:
+        - lat: 45.47658333
+          lng: 7.75125
+        - lat: 45.50201436
+          lng: 7.82191725
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 11.195078 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 40.501190 km
+        flipSum:
+        - 40.501190 km
+        - 34.091104 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 6.410085 km
+        - 20.450964 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 6.410085 km
+        - 26.861049 km
+        - 35.559929 km
+        - 40.501190 km
+        waypoints:
+        - lat: 45.46951667
+          lng: 7.75423333
+        - lat: 45.50006537
+          lng: 7.82396316
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 11.014078 km
+  - - - '156'
+      - Massimo Rapari
+    - togo:
+        distance: 43.411012 km
+        flipSum:
+        - 43.411012 km
+        - 34.077355 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 9.333657 km
+        - 20.437214 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 9.333657 km
+        - 29.770871 km
+        - 38.469751 km
+        - 43.411012 km
+        waypoints:
+        - lat: 45.441
+          lng: 7.73851667
+        - lat: 45.49759132
+          lng: 7.82691671
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 8.104078 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 46.227683 km
+        flipSum:
+        - 46.227683 km
+        - 34.136609 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 12.091074 km
+        - 20.496468 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 12.091074 km
+        - 32.587542 km
+        - 41.286422 km
+        - 46.227683 km
+        waypoints:
+        - lat: 45.46018333
+          lng: 7.67851667
+        - lat: 45.50268073
+          lng: 7.8212687
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 5.285078 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 47.889334 km
+        flipSum:
+        - 47.889334 km
+        - 34.091104 km
+        - 13.640141 km
+        - 4.941261 km
+        legs:
+        - 13.798229 km
+        - 20.450964 km
+        - 8.698880 km
+        - 4.941261 km
+        legsSum:
+        - 13.798229 km
+        - 34.249193 km
+        - 42.948073 km
+        - 47.889334 km
+        waypoints:
+        - lat: 45.43266667
+          lng: 7.6754
+        - lat: 45.50006537
+          lng: 7.82396316
+        - lat: 45.37536113
+          lng: 7.63130291
+        - lat: 45.39982048
+          lng: 7.73710977
+        - lat: 45.38977785
+          lng: 7.67546482
+      made: 3.625078 km
+- - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 1.668645 km
+        flipSum:
+        - 1.668645 km
+        legs:
+        - 1.668645 km
+        legsSum:
+        - 1.668645 km
+        waypoints:
+        - lat: 45.38975
+          lng: 7.69836667
+        - lat: 45.39387962
+          lng: 7.67782272
+      made: 72.815014 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo:
+        distance: 2.732141 km
+        flipSum:
+        - 2.732141 km
+        legs:
+        - 2.732141 km
+        legsSum:
+        - 2.732141 km
+        waypoints:
+        - lat: 45.3835
+          lng: 7.70976667
+        - lat: 45.3917374
+          lng: 7.67680561
+      made: 71.752014 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo:
+        distance: 5.336954 km
+        flipSum:
+        - 5.336954 km
+        - 2.233839 km
+        legs:
+        - 3.103116 km
+        - 2.233839 km
+        legsSum:
+        - 3.103116 km
+        - 5.336954 km
+        waypoints:
+        - lat: 45.41726667
+          lng: 7.72811667
+        - lat: 45.39358701
+          lng: 7.70708316
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 69.147014 km
+  - - - '108'
+      - Michele Boschi
+    - togo:
+        distance: 5.364315 km
+        flipSum:
+        - 5.364315 km
+        - 2.190174 km
+        legs:
+        - 3.174141 km
+        - 2.190174 km
+        legsSum:
+        - 3.174141 km
+        - 5.364315 km
+        waypoints:
+        - lat: 45.41928333
+          lng: 7.72355
+        - lat: 45.39338203
+          lng: 7.7064589
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 69.121014 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 5.426494 km
+        flipSum:
+        - 5.426494 km
+        - 1.907671 km
+        legs:
+        - 3.518823 km
+        - 1.907671 km
+        legsSum:
+        - 3.518823 km
+        - 5.426494 km
+        waypoints:
+        - lat: 45.41825
+          lng: 7.6797
+        - lat: 45.39071592
+          lng: 7.70191705
+        - lat: 45.39496848
+          lng: 7.67824901
+      made: 69.059014 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 1.863214 km
+        flipSum:
+        - 1.863214 km
+        - 1.847440 km
+        legs:
+        - 0.015775 km
+        - 1.847440 km
+        legsSum:
+        - 0.015775 km
+        - 1.863214 km
+        waypoints:
+        - lat: 45.38886667
+          lng: 7.7002
+        - lat: 45.38875815
+          lng: 7.7003301
+        - lat: 45.39333937
+          lng: 7.6775889
+      made: 72.618014 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 9.208287 km
+        flipSum:
+        - 9.208287 km
+        - 2.219049 km
+        legs:
+        - 6.989239 km
+        - 2.219049 km
+        legsSum:
+        - 6.989239 km
+        - 9.208287 km
+        waypoints:
+        - lat: 45.44808333
+          lng: 7.75133333
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 65.277014 km
+  - - - '161'
+      - Matteo Siragna
+    - togo:
+        distance: 9.282737 km
+        flipSum:
+        - 9.282737 km
+        - 2.219049 km
+        legs:
+        - 7.063688 km
+        - 2.219049 km
+        legsSum:
+        - 7.063688 km
+        - 9.282737 km
+        waypoints:
+        - lat: 45.44856667
+          lng: 7.75205
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 65.202014 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 8.546534 km
+        flipSum:
+        - 8.546534 km
+        - 2.190174 km
+        legs:
+        - 6.356360 km
+        - 2.190174 km
+        legsSum:
+        - 6.356360 km
+        - 8.546534 km
+        waypoints:
+        - lat: 45.44515
+          lng: 7.741
+        - lat: 45.39338203
+          lng: 7.7064589
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 65.939014 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 7.689404 km
+        flipSum:
+        - 7.689404 km
+        - 2.204491 km
+        legs:
+        - 5.484913 km
+        - 2.204491 km
+        legsSum:
+        - 5.484913 km
+        - 7.689404 km
+        waypoints:
+        - lat: 45.43715
+          lng: 7.73926667
+        - lat: 45.39345296
+          lng: 7.70666524
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 66.796014 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 13.929145 km
+        flipSum:
+        - 13.929145 km
+        - 10.174350 km
+        - 2.219049 km
+        legs:
+        - 3.754795 km
+        - 7.955301 km
+        - 2.219049 km
+        legsSum:
+        - 3.754795 km
+        - 11.710097 km
+        - 13.929145 km
+        waypoints:
+        - lat: 45.43098333
+          lng: 7.72443333
+        - lat: 45.45577112
+          lng: 7.75711628
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 60.545014 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 14.758456 km
+        flipSum:
+        - 14.758456 km
+        - 10.457990 km
+        - 2.162210 km
+        legs:
+        - 4.300467 km
+        - 8.295779 km
+        - 2.162210 km
+        legsSum:
+        - 4.300467 km
+        - 12.596246 km
+        - 14.758456 km
+        waypoints:
+        - lat: 45.44688333
+          lng: 7.69555
+        - lat: 45.46234552
+          lng: 7.74608595
+        - lat: 45.39323246
+          lng: 7.7060518
+        - lat: 45.39662007
+          lng: 7.67878403
+      made: 59.727014 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 20.537423 km
+        flipSum:
+        - 20.537423 km
+        - 10.189924 km
+        - 2.204491 km
+        legs:
+        - 10.347499 km
+        - 7.985434 km
+        - 2.204491 km
+        legsSum:
+        - 10.347499 km
+        - 18.332932 km
+        - 20.537423 km
+        waypoints:
+        - lat: 45.38953333
+          lng: 7.66366667
+        - lat: 45.45643918
+          lng: 7.75581826
+        - lat: 45.39345296
+          lng: 7.70666524
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 53.945014 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo:
+        distance: 20.540564 km
+        flipSum:
+        - 20.540564 km
+        - 10.189924 km
+        - 2.204491 km
+        legs:
+        - 10.350640 km
+        - 7.985434 km
+        - 2.204491 km
+        legsSum:
+        - 10.350640 km
+        - 18.336073 km
+        - 20.540564 km
+        waypoints:
+        - lat: 45.38951667
+          lng: 7.66363333
+        - lat: 45.45643918
+          lng: 7.75581826
+        - lat: 45.39345296
+          lng: 7.70666524
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 53.942014 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo:
+        distance: 20.475328 km
+        flipSum:
+        - 20.475328 km
+        - 10.209587 km
+        - 2.204491 km
+        legs:
+        - 10.265741 km
+        - 8.005096 km
+        - 2.204491 km
+        legsSum:
+        - 10.265741 km
+        - 18.270837 km
+        - 20.475328 km
+        waypoints:
+        - lat: 45.3964
+          lng: 7.65545
+        - lat: 45.45712338
+          lng: 7.75453742
+        - lat: 45.39345296
+          lng: 7.70666524
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 54.009014 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 19.863498 km
+        flipSum:
+        - 19.863498 km
+        - 10.292785 km
+        - 2.190174 km
+        legs:
+        - 9.570714 km
+        - 8.102610 km
+        - 2.190174 km
+        legsSum:
+        - 9.570714 km
+        - 17.673324 km
+        - 19.863498 km
+        waypoints:
+        - lat: 45.41105
+          lng: 7.6492
+        - lat: 45.45927055
+          lng: 7.75080199
+        - lat: 45.39338203
+          lng: 7.7064589
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 54.621014 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 26.427623 km
+        flipSum:
+        - 26.427623 km
+        - 10.292785 km
+        - 2.190174 km
+        legs:
+        - 16.134839 km
+        - 8.102610 km
+        - 2.190174 km
+        legsSum:
+        - 16.134839 km
+        - 24.237449 km
+        - 26.427623 km
+        waypoints:
+        - lat: 45.37976667
+          lng: 7.57786667
+        - lat: 45.45927055
+          lng: 7.75080199
+        - lat: 45.39338203
+          lng: 7.7064589
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 48.058014 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 31.732275 km
+        flipSum:
+        - 31.732275 km
+        - 10.233367 km
+        - 2.204491 km
+        legs:
+        - 21.498908 km
+        - 8.028876 km
+        - 2.204491 km
+        legsSum:
+        - 21.498908 km
+        - 29.527784 km
+        - 31.732275 km
+        waypoints:
+        - lat: 45.33201667
+          lng: 7.5442
+        - lat: 45.45782349
+          lng: 7.75327416
+        - lat: 45.39345296
+          lng: 7.70666524
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 42.750014 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 46.487923 km
+        flipSum:
+        - 46.487923 km
+        - 44.156101 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 2.331823 km
+        - 34.000512 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 2.331823 km
+        - 36.332335 km
+        - 44.268875 km
+        - 46.487923 km
+        waypoints:
+        - lat: 45.23051667
+          lng: 7.50583333
+        - lat: 45.21028785
+          lng: 7.49798513
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 27.997014 km
+  - - - '114'
+      - Mirco Casarini
+    - togo:
+        distance: 48.799440 km
+        flipSum:
+        - 48.799440 km
+        - 44.198994 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 4.600447 km
+        - 34.043406 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 4.600447 km
+        - 38.643852 km
+        - 46.580392 km
+        - 48.799440 km
+        waypoints:
+        - lat: 45.25166667
+          lng: 7.50721667
+        - lat: 45.21112406
+          lng: 7.49550685
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 25.675014 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 53.098096 km
+        flipSum:
+        - 53.098096 km
+        - 44.108432 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 8.989664 km
+        - 33.952844 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 8.989664 km
+        - 42.942508 km
+        - 50.879048 km
+        - 53.098096 km
+        waypoints:
+        - lat: 45.28355
+          lng: 7.54576667
+        - lat: 45.20891794
+          lng: 7.50161904
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 21.386014 km
+  - - - '104'
+      - Loris Berta
+    - togo:
+        distance: 55.714000 km
+        flipSum:
+        - 55.714000 km
+        - 44.176442 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 11.537557 km
+        - 34.020854 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 11.537557 km
+        - 45.558412 km
+        - 53.494951 km
+        - 55.714000 km
+        waypoints:
+        - lat: 45.31126667
+          lng: 7.53311667
+        - lat: 45.21071375
+          lng: 7.4967513
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 18.770014 km
+  - - - '140'
+      - Maurizio Maina
+    - togo:
+        distance: 55.822580 km
+        flipSum:
+        - 55.822580 km
+        - 44.176442 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 11.646138 km
+        - 34.020854 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 11.646138 km
+        - 45.666992 km
+        - 53.603531 km
+        - 55.822580 km
+        waypoints:
+        - lat: 45.31216667
+          lng: 7.53371667
+        - lat: 45.21071375
+          lng: 7.4967513
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 18.661014 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo:
+        distance: 56.703748 km
+        flipSum:
+        - 56.703748 km
+        - 44.076315 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 12.627434 km
+        - 33.920726 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 12.627434 km
+        - 46.548160 km
+        - 54.484700 km
+        - 56.703748 km
+        waypoints:
+        - lat: 45.3036
+          lng: 7.59083333
+        - lat: 45.20688187
+          lng: 7.50629221
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 17.781014 km
+  - - - '128'
+      - Michele Gaiba
+    - togo:
+        distance: 57.344902 km
+        flipSum:
+        - 57.344902 km
+        - 44.073931 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 13.270971 km
+        - 33.918343 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 13.270971 km
+        - 47.189313 km
+        - 55.125853 km
+        - 57.344902 km
+        waypoints:
+        - lat: 45.30488333
+          lng: 7.60306667
+        - lat: 45.2063365
+          lng: 7.50742728
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 17.137014 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 61.133381 km
+        flipSum:
+        - 61.133381 km
+        - 44.097023 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 17.036358 km
+        - 33.941434 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 17.036358 km
+        - 50.977792 km
+        - 58.914332 km
+        - 61.133381 km
+        waypoints:
+        - lat: 45.34835
+          lng: 7.59151667
+        - lat: 45.20843106
+          lng: 7.50280652
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 13.352014 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 66.591464 km
+        flipSum:
+        - 66.591464 km
+        - 44.108432 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 22.483032 km
+        - 33.952844 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 22.483032 km
+        - 56.435876 km
+        - 64.372415 km
+        - 66.591464 km
+        waypoints:
+        - lat: 45.39596667
+          lng: 7.61078333
+        - lat: 45.20891794
+          lng: 7.50161904
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 7.892014 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 64.989942 km
+        flipSum:
+        - 64.989942 km
+        - 44.108432 km
+        - 10.155588 km
+        - 2.219049 km
+        legs:
+        - 20.881510 km
+        - 33.952844 km
+        - 7.936540 km
+        - 2.219049 km
+        legsSum:
+        - 20.881510 km
+        - 54.834354 km
+        - 62.770893 km
+        - 64.989942 km
+        waypoints:
+        - lat: 45.3829
+          lng: 7.6021
+        - lat: 45.20891794
+          lng: 7.50161904
+        - lat: 45.45448422
+          lng: 7.75976219
+        - lat: 45.39352129
+          lng: 7.70687335
+        - lat: 45.39717477
+          lng: 7.6789343
+      made: 9.494014 km
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '169'
+      - Alessandro Vallero
+    - togo:
+        distance: 0.039476 km
+        flipSum:
+        - 0.039476 km
+        legs:
+        - 0.039476 km
+        legsSum:
+        - 0.039476 km
+        waypoints:
+        - lat: 45.41151667
+          lng: 7.64935
+        - lat: 45.41185451
+          lng: 7.64950543
+      made: 105.724993 km
+  - - - '130'
+      - Andrea Garolla
+    - togo:
+        distance: 0.115937 km
+        flipSum:
+        - 0.115937 km
+        legs:
+        - 0.115937 km
+        legsSum:
+        - 0.115937 km
+        waypoints:
+        - lat: 45.41126667
+          lng: 7.6544
+        - lat: 45.4123062
+          lng: 7.65428531
+      made: 105.645993 km
+  - - - '108'
+      - Michele Boschi
+    - togo:
+        distance: 3.909649 km
+        flipSum:
+        - 3.909649 km
+        legs:
+        - 3.909649 km
+        legsSum:
+        - 3.909649 km
+        waypoints:
+        - lat: 45.39015
+          lng: 7.70195
+        - lat: 45.41778492
+          lng: 7.67098816
+      made: 101.851993 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 5.775157 km
+        flipSum:
+        - 5.775157 km
+        legs:
+        - 5.775157 km
+        legsSum:
+        - 5.775157 km
+        waypoints:
+        - lat: 45.38518333
+          lng: 7.72936667
+        - lat: 45.42042017
+          lng: 7.67502327
+      made: 99.984993 km
+  - - - '129'
+      - Luciano Gallo
+    - togo:
+        distance: 7.381747 km
+        flipSum:
+        - 7.381747 km
+        - 5.342111 km
+        legs:
+        - 2.039636 km
+        - 5.342111 km
+        legsSum:
+        - 2.039636 km
+        - 7.381747 km
+        waypoints:
+        - lat: 45.39445
+          lng: 7.70511667
+        - lat: 45.39261583
+          lng: 7.73110654
+        - lat: 45.42226195
+          lng: 7.67725797
+      made: 98.379993 km
+  - - - '173'
+      - Paolo Zammarchi
+    - togo:
+        distance: 9.788996 km
+        flipSum:
+        - 9.788996 km
+        - 5.641228 km
+        legs:
+        - 4.147769 km
+        - 5.641228 km
+        legsSum:
+        - 4.147769 km
+        - 9.788996 km
+        waypoints:
+        - lat: 45.36516667
+          lng: 7.68626667
+        - lat: 45.38696464
+          lng: 7.72935864
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 95.972993 km
+  - - - '168'
+      - Marco Valentini
+    - togo:
+        distance: 11.114522 km
+        flipSum:
+        - 11.114522 km
+        - 5.464008 km
+        legs:
+        - 5.650514 km
+        - 5.464008 km
+        legsSum:
+        - 5.650514 km
+        - 11.114522 km
+        waypoints:
+        - lat: 45.37623333
+          lng: 7.6602
+        - lat: 45.38983965
+          lng: 7.72990866
+        - lat: 45.4215085
+          lng: 7.67639225
+      made: 94.645993 km
+  - - - '170'
+      - Paolo Veratti
+    - togo:
+        distance: 12.355244 km
+        flipSum:
+        - 12.355244 km
+        - 5.556091 km
+        legs:
+        - 6.799153 km
+        - 5.556091 km
+        legsSum:
+        - 6.799153 km
+        - 12.355244 km
+        waypoints:
+        - lat: 45.36035
+          lng: 7.65206667
+        - lat: 45.38824992
+          lng: 7.72952182
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 93.406993 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - togo:
+        distance: 12.414871 km
+        flipSum:
+        - 12.414871 km
+        - 5.536353 km
+        legs:
+        - 6.878518 km
+        - 5.536353 km
+        legsSum:
+        - 6.878518 km
+        - 12.414871 km
+        waypoints:
+        - lat: 45.3632
+          lng: 7.64926667
+        - lat: 45.3885697
+          lng: 7.729583
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 93.346993 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - togo:
+        distance: 13.372161 km
+        flipSum:
+        - 13.372161 km
+        - 5.597594 km
+        legs:
+        - 7.774568 km
+        - 5.597594 km
+        legsSum:
+        - 7.774568 km
+        - 13.372161 km
+        waypoints:
+        - lat: 45.35086667
+          lng: 7.64475
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 92.388993 km
+  - - - '164'
+      - Anca Tabara
+    - togo:
+        distance: 13.579850 km
+        flipSum:
+        - 13.579850 km
+        - 5.619084 km
+        legs:
+        - 7.960766 km
+        - 5.619084 km
+        legsSum:
+        - 7.960766 km
+        - 13.579850 km
+        waypoints:
+        - lat: 45.34745
+          lng: 7.64471667
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 92.181993 km
+  - - - '127'
+      - Richárd Gabrieli
+    - togo:
+        distance: 15.573061 km
+        flipSum:
+        - 15.573061 km
+        - 5.687413 km
+        legs:
+        - 9.885647 km
+        - 5.687413 km
+        legsSum:
+        - 9.885647 km
+        - 15.573061 km
+        waypoints:
+        - lat: 45.3289
+          lng: 7.63273333
+        - lat: 45.38631976
+          lng: 7.72932614
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 90.187993 km
+  - - - '121'
+      - Giorgio Darra
+    - togo:
+        distance: 17.945667 km
+        flipSum:
+        - 17.945667 km
+        - 5.664009 km
+        legs:
+        - 12.281659 km
+        - 5.664009 km
+        legsSum:
+        - 12.281659 km
+        - 17.945667 km
+        waypoints:
+        - lat: 45.31698333
+          lng: 7.60736667
+        - lat: 45.3866423
+          lng: 7.72933829
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 87.813993 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 20.274225 km
+        flipSum:
+        - 20.274225 km
+        - 19.589410 km
+        - 5.576519 km
+        legs:
+        - 0.684815 km
+        - 14.012891 km
+        - 5.576519 km
+        legsSum:
+        - 0.684815 km
+        - 14.697706 km
+        - 20.274225 km
+        waypoints:
+        - lat: 45.33101667
+          lng: 7.57828333
+        - lat: 45.32593938
+          lng: 7.57332522
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 85.486993 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 21.265954 km
+        flipSum:
+        - 21.265954 km
+        - 19.616851 km
+        - 5.576519 km
+        legs:
+        - 1.649103 km
+        - 14.040332 km
+        - 5.576519 km
+        legsSum:
+        - 1.649103 km
+        - 15.689435 km
+        - 21.265954 km
+        waypoints:
+        - lat: 45.33971667
+          lng: 7.58216667
+        - lat: 45.32656157
+          lng: 7.57242543
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 84.490993 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo:
+        distance: 21.467909 km
+        flipSum:
+        - 21.467909 km
+        - 19.646612 km
+        - 5.576519 km
+        legs:
+        - 1.821296 km
+        - 14.070093 km
+        - 5.576519 km
+        legsSum:
+        - 1.821296 km
+        - 15.891390 km
+        - 21.467909 km
+        waypoints:
+        - lat: 45.3421
+          lng: 7.5811
+        - lat: 45.32717235
+          lng: 7.57150996
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 84.282993 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo:
+        distance: 21.224519 km
+        flipSum:
+        - 21.224519 km
+        - 19.564312 km
+        - 5.576519 km
+        legs:
+        - 1.660207 km
+        - 13.987793 km
+        - 5.576519 km
+        legsSum:
+        - 1.660207 km
+        - 15.648000 km
+        - 21.224519 km
+        waypoints:
+        - lat: 45.3379
+          lng: 7.58561667
+        - lat: 45.32530599
+          lng: 7.57420905
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 84.530993 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo:
+        distance: 20.716808 km
+        flipSum:
+        - 20.716808 km
+        - 19.589410 km
+        - 5.576519 km
+        legs:
+        - 1.127398 km
+        - 14.012891 km
+        - 5.576519 km
+        legsSum:
+        - 1.127398 km
+        - 15.140289 km
+        - 20.716808 km
+        waypoints:
+        - lat: 45.33501667
+          lng: 7.57975
+        - lat: 45.32593938
+          lng: 7.57332522
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 85.043993 km
+  - - - '142'
+      - Luca Mammucari
+    - togo:
+        distance: 20.596148 km
+        flipSum:
+        - 20.596148 km
+        - 5.517318 km
+        legs:
+        - 15.078830 km
+        - 5.517318 km
+        legsSum:
+        - 15.078830 km
+        - 20.596148 km
+        waypoints:
+        - lat: 45.33625
+          lng: 7.55178333
+        - lat: 45.38888867
+          lng: 7.72965229
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 85.163993 km
+  - - - '141'
+      - Albino Malli
+    - togo:
+        distance: 23.957234 km
+        flipSum:
+        - 23.957234 km
+        - 19.444610 km
+        - 5.619084 km
+        legs:
+        - 4.512623 km
+        - 13.825526 km
+        - 5.619084 km
+        legsSum:
+        - 4.512623 km
+        - 18.338149 km
+        - 23.957234 km
+        waypoints:
+        - lat: 45.33818333
+          lng: 7.6326
+        - lat: 45.31765983
+          lng: 7.58280123
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 81.799993 km
+  - - - '177'
+      - Bogdan Bialka
+    - togo:
+        distance: 26.263746 km
+        flipSum:
+        - 26.263746 km
+        - 19.454529 km
+        - 5.619084 km
+        legs:
+        - 6.809216 km
+        - 13.835445 km
+        - 5.619084 km
+        legsSum:
+        - 6.809216 km
+        - 20.644661 km
+        - 26.263746 km
+        waypoints:
+        - lat: 45.36145
+          lng: 7.6448
+        - lat: 45.32057612
+          lng: 7.57992604
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 79.497993 km
+  - - - '114'
+      - Mirco Casarini
+    - togo:
+        distance: 26.744307 km
+        flipSum:
+        - 26.744307 km
+        - 19.678670 km
+        - 5.576519 km
+        legs:
+        - 7.065637 km
+        - 14.102151 km
+        - 5.576519 km
+        legsSum:
+        - 7.065637 km
+        - 21.167788 km
+        - 26.744307 km
+        waypoints:
+        - lat: 45.38626667
+          lng: 7.6059
+        - lat: 45.32777155
+          lng: 7.57057912
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 79.014993 km
+  - - - '156'
+      - Massimo Rapari
+    - togo:
+        distance: 25.395043 km
+        flipSum:
+        - 25.395043 km
+        - 19.646612 km
+        - 5.576519 km
+        legs:
+        - 5.748431 km
+        - 14.070093 km
+        - 5.576519 km
+        legsSum:
+        - 5.748431 km
+        - 19.818524 km
+        - 25.395043 km
+        waypoints:
+        - lat: 45.37453333
+          lng: 7.601
+        - lat: 45.32717235
+          lng: 7.57150996
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 80.361993 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo:
+        distance: 27.906172 km
+        flipSum:
+        - 27.906172 km
+        - 19.616851 km
+        - 5.576519 km
+        legs:
+        - 8.289321 km
+        - 14.040332 km
+        - 5.576519 km
+        legsSum:
+        - 8.289321 km
+        - 22.329653 km
+        - 27.906172 km
+        waypoints:
+        - lat: 45.39238333
+          lng: 7.62223333
+        - lat: 45.32656157
+          lng: 7.57242543
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 77.852993 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo:
+        distance: 25.759422 km
+        flipSum:
+        - 25.759422 km
+        - 19.678670 km
+        - 5.576519 km
+        legs:
+        - 6.080752 km
+        - 14.102151 km
+        - 5.576519 km
+        legsSum:
+        - 6.080752 km
+        - 20.182903 km
+        - 25.759422 km
+        waypoints:
+        - lat: 45.37788333
+          lng: 7.60173333
+        - lat: 45.32777155
+          lng: 7.57057912
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 79.999993 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 31.358355 km
+        flipSum:
+        - 31.358355 km
+        - 19.454529 km
+        - 5.619084 km
+        legs:
+        - 11.903826 km
+        - 13.835445 km
+        - 5.619084 km
+        legsSum:
+        - 11.903826 km
+        - 25.739270 km
+        - 31.358355 km
+        waypoints:
+        - lat: 45.38885
+          lng: 7.69726667
+        - lat: 45.32057612
+          lng: 7.57992604
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 74.400993 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 39.508293 km
+        flipSum:
+        - 39.508293 km
+        - 19.502988 km
+        - 5.597594 km
+        legs:
+        - 20.005304 km
+        - 13.905394 km
+        - 5.597594 km
+        legsSum:
+        - 20.005304 km
+        - 33.910699 km
+        - 39.508293 km
+        waypoints:
+        - lat: 45.45988333
+          lng: 7.74358333
+        - lat: 45.32334068
+          lng: 7.576762
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 66.250993 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 39.977118 km
+        flipSum:
+        - 39.977118 km
+        - 19.487248 km
+        - 5.597594 km
+        legs:
+        - 20.489870 km
+        - 13.889654 km
+        - 5.597594 km
+        legsSum:
+        - 20.489870 km
+        - 34.379524 km
+        - 39.977118 km
+        waypoints:
+        - lat: 45.46235
+          lng: 7.74871667
+        - lat: 45.32266455
+          lng: 7.57757924
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 65.781993 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 40.175612 km
+        flipSum:
+        - 40.175612 km
+        - 19.564312 km
+        - 5.576519 km
+        legs:
+        - 20.611300 km
+        - 13.987793 km
+        - 5.576519 km
+        legsSum:
+        - 20.611300 km
+        - 34.599093 km
+        - 40.175612 km
+        waypoints:
+        - lat: 45.4808
+          lng: 7.71791667
+        - lat: 45.32530599
+          lng: 7.57420905
+        - lat: 45.38792942
+          lng: 7.72946878
+        - lat: 45.42114003
+          lng: 7.67594517
+      made: 65.580993 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo:
+        distance: 39.270798 km
+        flipSum:
+        - 39.270798 km
+        - 19.502988 km
+        - 5.597594 km
+        legs:
+        - 19.767810 km
+        - 13.905394 km
+        - 5.597594 km
+        legsSum:
+        - 19.767810 km
+        - 33.673204 km
+        - 39.270798 km
+        waypoints:
+        - lat: 45.46075
+          lng: 7.73738333
+        - lat: 45.32334068
+          lng: 7.576762
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 66.488993 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 39.685632 km
+        flipSum:
+        - 39.685632 km
+        - 19.448355 km
+        - 5.619084 km
+        legs:
+        - 20.237277 km
+        - 13.829271 km
+        - 5.619084 km
+        legsSum:
+        - 20.237277 km
+        - 34.066548 km
+        - 39.685632 km
+        waypoints:
+        - lat: 45.43158333
+          lng: 7.7852
+        - lat: 45.31986071
+          lng: 7.58067252
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 66.068993 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 40.660023 km
+        flipSum:
+        - 40.660023 km
+        - 19.444642 km
+        - 5.619084 km
+        legs:
+        - 21.215380 km
+        - 13.825558 km
+        - 5.619084 km
+        legsSum:
+        - 21.215380 km
+        - 35.040938 km
+        - 40.660023 km
+        waypoints:
+        - lat: 45.42993333
+          lng: 7.80251667
+        - lat: 45.31913603
+          lng: 7.58140069
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 65.100993 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo:
+        distance: 41.969573 km
+        flipSum:
+        - 41.969573 km
+        - 19.448355 km
+        - 5.619084 km
+        legs:
+        - 22.521218 km
+        - 13.829271 km
+        - 5.619084 km
+        legsSum:
+        - 22.521218 km
+        - 36.350489 km
+        - 41.969573 km
+        waypoints:
+        - lat: 45.44403333
+          lng: 7.80848333
+        - lat: 45.31986071
+          lng: 7.58067252
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 63.785993 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo:
+        distance: 42.672924 km
+        flipSum:
+        - 42.672924 km
+        - 19.502988 km
+        - 5.597594 km
+        legs:
+        - 23.169936 km
+        - 13.905394 km
+        - 5.597594 km
+        legsSum:
+        - 23.169936 km
+        - 37.075330 km
+        - 42.672924 km
+        waypoints:
+        - lat: 45.48273333
+          lng: 7.76791667
+        - lat: 45.32334068
+          lng: 7.576762
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 63.086993 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo:
+        distance: 44.266430 km
+        flipSum:
+        - 44.266430 km
+        - 19.502988 km
+        - 5.597594 km
+        legs:
+        - 24.763441 km
+        - 13.905394 km
+        - 5.597594 km
+        legsSum:
+        - 24.763441 km
+        - 38.668836 km
+        - 44.266430 km
+        waypoints:
+        - lat: 45.49845
+          lng: 7.77276667
+        - lat: 45.32334068
+          lng: 7.576762
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 61.494993 km
+  - - - '128'
+      - Michele Gaiba
+    - togo:
+        distance: 44.602847 km
+        flipSum:
+        - 44.602847 km
+        - 19.463062 km
+        - 5.597594 km
+        legs:
+        - 25.139785 km
+        - 13.865468 km
+        - 5.597594 km
+        legsSum:
+        - 25.139785 km
+        - 39.005253 km
+        - 44.602847 km
+        waypoints:
+        - lat: 45.47583333
+          lng: 7.81416667
+        - lat: 45.32128205
+          lng: 7.57916151
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 61.158993 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 45.091046 km
+        flipSum:
+        - 45.091046 km
+        - 19.463062 km
+        - 5.597594 km
+        legs:
+        - 25.627984 km
+        - 13.865468 km
+        - 5.597594 km
+        legsSum:
+        - 25.627984 km
+        - 39.493453 km
+        - 45.091046 km
+        waypoints:
+        - lat: 45.48223333
+          lng: 7.81411667
+        - lat: 45.32128205
+          lng: 7.57916151
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 60.669993 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 44.984287 km
+        flipSum:
+        - 44.984287 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 25.510351 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 25.510351 km
+        - 39.386693 km
+        - 44.984287 km
+        waypoints:
+        - lat: 45.48738333
+          lng: 7.80481667
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 60.771993 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 45.875190 km
+        flipSum:
+        - 45.875190 km
+        - 19.487248 km
+        - 5.597594 km
+        legs:
+        - 26.387942 km
+        - 13.889654 km
+        - 5.597594 km
+        legsSum:
+        - 26.387942 km
+        - 40.277596 km
+        - 45.875190 km
+        waypoints:
+        - lat: 45.49778333
+          lng: 7.80571667
+        - lat: 45.32266455
+          lng: 7.57757924
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 59.879993 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 47.121488 km
+        flipSum:
+        - 47.121488 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 27.647552 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 27.647552 km
+        - 41.523894 km
+        - 47.121488 km
+        waypoints:
+        - lat: 45.50153333
+          lng: 7.82338333
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 58.634993 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 46.358062 km
+        flipSum:
+        - 46.358062 km
+        - 19.487248 km
+        - 5.597594 km
+        legs:
+        - 26.870814 km
+        - 13.889654 km
+        - 5.597594 km
+        legsSum:
+        - 26.870814 km
+        - 40.760468 km
+        - 46.358062 km
+        waypoints:
+        - lat: 45.49948333
+          lng: 7.81221667
+        - lat: 45.32266455
+          lng: 7.57757924
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 59.395993 km
+  - - - '174'
+      - Davide Zaltron
+    - togo:
+        distance: 61.240633 km
+        flipSum:
+        - 61.240633 km
+        - 19.454529 km
+        - 5.619084 km
+        legs:
+        - 41.786103 km
+        - 13.835445 km
+        - 5.619084 km
+        legsSum:
+        - 41.786103 km
+        - 55.621548 km
+        - 61.240633 km
+        waypoints:
+        - lat: 45.57005
+          lng: 7.9805
+        - lat: 45.32057612
+          lng: 7.57992604
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 44.520993 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo:
+        distance: 61.107243 km
+        flipSum:
+        - 61.107243 km
+        - 19.454529 km
+        - 5.619084 km
+        legs:
+        - 41.652714 km
+        - 13.835445 km
+        - 5.619084 km
+        legsSum:
+        - 41.652714 km
+        - 55.488159 km
+        - 61.107243 km
+        waypoints:
+        - lat: 45.57118333
+          lng: 7.97676667
+        - lat: 45.32057612
+          lng: 7.57992604
+        - lat: 45.38728668
+          lng: 7.72938718
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 44.654993 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 78.801621 km
+        flipSum:
+        - 78.801621 km
+        - 66.901023 km
+        - 19.463062 km
+        - 5.597594 km
+        legs:
+        - 11.900597 km
+        - 47.437961 km
+        - 13.865468 km
+        - 5.597594 km
+        legsSum:
+        - 11.900597 km
+        - 59.338558 km
+        - 73.204027 km
+        - 78.801621 km
+        waypoints:
+        - lat: 45.54851667
+          lng: 7.89966667
+        - lat: 45.62015144
+          lng: 8.0132834
+        - lat: 45.32128205
+          lng: 7.57916151
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 26.949993 km
+  - - - '116'
+      - Ivan Centa
+    - togo:
+        distance: 89.749644 km
+        flipSum:
+        - 89.749644 km
+        - 66.910763 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 22.838881 km
+        - 47.436827 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 22.838881 km
+        - 70.275708 km
+        - 84.152050 km
+        - 89.749644 km
+        waypoints:
+        - lat: 45.49561667
+          lng: 7.77971667
+        - lat: 45.62171053
+          lng: 8.01127789
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 16.010993 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 98.116498 km
+        flipSum:
+        - 98.116498 km
+        - 66.919115 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 31.197383 km
+        - 47.445179 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 31.197383 km
+        - 78.642562 km
+        - 92.518904 km
+        - 98.116498 km
+        waypoints:
+        - lat: 45.46275
+          lng: 7.681
+        - lat: 45.6225086
+          lng: 8.01030525
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 7.637993 km
+  - - - '178'
+      - Marius Saigiu
+    - togo:
+        distance: 103.026585 km
+        flipSum:
+        - 103.026585 km
+        - 66.904773 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 36.121812 km
+        - 47.430837 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 36.121812 km
+        - 83.552649 km
+        - 97.428991 km
+        - 103.026585 km
+        waypoints:
+        - lat: 45.41705
+          lng: 7.65131667
+        - lat: 45.62092473
+          lng: 8.01227071
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 2.733993 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - togo:
+        distance: 103.030629 km
+        flipSum:
+        - 103.030629 km
+        - 66.904773 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 36.125856 km
+        - 47.430837 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 36.125856 km
+        - 83.556693 km
+        - 97.433035 km
+        - 103.030629 km
+        waypoints:
+        - lat: 45.41705
+          lng: 7.65125
+        - lat: 45.62092473
+          lng: 8.01227071
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 2.729993 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 99.648783 km
+        flipSum:
+        - 99.648783 km
+        - 66.919115 km
+        - 19.473936 km
+        - 5.597594 km
+        legs:
+        - 32.729668 km
+        - 47.445179 km
+        - 13.876342 km
+        - 5.597594 km
+        legsSum:
+        - 32.729668 km
+        - 80.174847 km
+        - 94.051189 km
+        - 99.648783 km
+        waypoints:
+        - lat: 45.45428333
+          lng: 7.66546667
+        - lat: 45.6225086
+          lng: 8.01030525
+        - lat: 45.32197827
+          lng: 7.57837916
+        - lat: 45.3876083
+          lng: 7.72942389
+        - lat: 45.42077721
+          lng: 7.6754888
+      made: 6.105993 km
+- - - - '146'
+      - Joachim Oberhauser
+    - togo:
+        distance: 0.907283 km
+        flipSum:
+        - 0.907283 km
+        legs:
+        - 0.907283 km
+        legsSum:
+        - 0.907283 km
+        waypoints:
+        - lat: 45.3651
+          lng: 7.69263333
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 86.636415 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 3.393709 km
+        flipSum:
+        - 3.393709 km
+        - 0.679375 km
+        legs:
+        - 2.714333 km
+        - 0.679375 km
+        legsSum:
+        - 2.714333 km
+        - 3.393709 km
+        waypoints:
+        - lat: 45.385
+          lng: 7.66835
+        - lat: 45.36378921
+          lng: 7.68554954
+        - lat: 45.36891117
+          lng: 7.68080856
+      made: 84.149415 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 6.666546 km
+        flipSum:
+        - 6.666546 km
+        - 0.875157 km
+        legs:
+        - 5.791389 km
+        - 0.875157 km
+        legsSum:
+        - 5.791389 km
+        - 6.666546 km
+        waypoints:
+        - lat: 45.40503333
+          lng: 7.73975
+        - lat: 45.36513674
+          lng: 7.69208039
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 80.877415 km
+  - - - '169'
+      - Alessandro Vallero
+    - togo:
+        distance: 6.821009 km
+        flipSum:
+        - 6.821009 km
+        - 0.875157 km
+        legs:
+        - 5.945853 km
+        - 0.875157 km
+        legsSum:
+        - 5.945853 km
+        - 6.821009 km
+        waypoints:
+        - lat: 45.40626667
+          lng: 7.74073333
+        - lat: 45.36513674
+          lng: 7.69208039
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 80.723415 km
+  - - - '140'
+      - Maurizio Maina
+    - togo:
+        distance: 7.994587 km
+        flipSum:
+        - 7.994587 km
+        - 0.772805 km
+        legs:
+        - 7.221782 km
+        - 0.772805 km
+        legsSum:
+        - 7.221782 km
+        - 7.994587 km
+        waypoints:
+        - lat: 45.42753333
+          lng: 7.7146
+        - lat: 45.36496449
+          lng: 7.68980033
+        - lat: 45.37036025
+          lng: 7.68356531
+      made: 79.548415 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 8.744604 km
+        flipSum:
+        - 8.744604 km
+        - 0.899350 km
+        legs:
+        - 7.845254 km
+        - 0.899350 km
+        legsSum:
+        - 7.845254 km
+        - 8.744604 km
+        waypoints:
+        - lat: 45.4161
+          lng: 7.76201667
+        - lat: 45.36513674
+          lng: 7.69253961
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 78.799415 km
+  - - - '141'
+      - Albino Malli
+    - togo:
+        distance: 9.966962 km
+        flipSum:
+        - 9.966962 km
+        - 0.852050 km
+        legs:
+        - 9.114912 km
+        - 0.852050 km
+        legsSum:
+        - 9.114912 km
+        - 9.966962 km
+        waypoints:
+        - lat: 45.43276667
+          lng: 7.75756667
+        - lat: 45.36512522
+          lng: 7.69162146
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 77.579415 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo:
+        distance: 10.104933 km
+        flipSum:
+        - 10.104933 km
+        - 0.800209 km
+        legs:
+        - 9.304725 km
+        - 0.800209 km
+        legsSum:
+        - 9.304725 km
+        - 10.104933 km
+        waypoints:
+        - lat: 45.44126667
+          lng: 7.73966667
+        - lat: 45.36504617
+          lng: 7.69047924
+        - lat: 45.37062156
+          lng: 7.68400263
+      made: 77.441415 km
+  - - - '142'
+      - Luca Mammucari
+    - togo:
+        distance: 12.837289 km
+        flipSum:
+        - 12.837289 km
+        - 0.911768 km
+        legs:
+        - 11.925521 km
+        - 0.911768 km
+        legsSum:
+        - 11.925521 km
+        - 12.837289 km
+        waypoints:
+        - lat: 45.43705
+          lng: 7.80608333
+        - lat: 45.36513242
+          lng: 7.69276915
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 74.704415 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 12.931765 km
+        flipSum:
+        - 12.931765 km
+        - 0.790735 km
+        legs:
+        - 12.141030 km
+        - 0.790735 km
+        legsSum:
+        - 12.141030 km
+        - 12.931765 km
+        waypoints:
+        - lat: 45.46608333
+          lng: 7.74913333
+        - lat: 45.36502178
+          lng: 7.69025226
+        - lat: 45.37036025
+          lng: 7.68356531
+      made: 74.609415 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo:
+        distance: 11.755330 km
+        flipSum:
+        - 11.755330 km
+        - 0.781477 km
+        legs:
+        - 10.973853 km
+        - 0.781477 km
+        legsSum:
+        - 10.973853 km
+        - 11.755330 km
+        waypoints:
+        - lat: 45.45793333
+          lng: 7.73731667
+        - lat: 45.36499455
+          lng: 7.69002593
+        - lat: 45.37036025
+          lng: 7.68356531
+      made: 75.786415 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo:
+        distance: 13.237245 km
+        flipSum:
+        - 13.237245 km
+        - 0.809738 km
+        legs:
+        - 12.427506 km
+        - 0.809738 km
+        legsSum:
+        - 12.427506 km
+        - 13.237245 km
+        waypoints:
+        - lat: 45.46646667
+          lng: 7.75766667
+        - lat: 45.36506771
+          lng: 7.69070681
+        - lat: 45.37062156
+          lng: 7.68400263
+      made: 74.308415 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 11.484421 km
+        flipSum:
+        - 11.484421 km
+        - 0.781477 km
+        legs:
+        - 10.702944 km
+        - 0.781477 km
+        legsSum:
+        - 10.702944 km
+        - 11.484421 km
+        waypoints:
+        - lat: 45.45475
+          lng: 7.73955
+        - lat: 45.36499455
+          lng: 7.69002593
+        - lat: 45.37036025
+          lng: 7.68356531
+      made: 76.057415 km
+  - - - '150'
+      - Luca Paoletti
+    - togo:
+        distance: 15.615269 km
+        flipSum:
+        - 15.615269 km
+        - 0.800209 km
+        legs:
+        - 14.815061 km
+        - 0.800209 km
+        legsSum:
+        - 14.815061 km
+        - 15.615269 km
+        waypoints:
+        - lat: 45.48746667
+          lng: 7.7654
+        - lat: 45.36504617
+          lng: 7.69047924
+        - lat: 45.37062156
+          lng: 7.68400263
+      made: 71.925415 km
+  - - - '178'
+      - Marius Saigiu
+    - togo:
+        distance: 14.741057 km
+        flipSum:
+        - 14.741057 km
+        - 0.748760 km
+        legs:
+        - 13.992296 km
+        - 0.748760 km
+        legsSum:
+        - 13.992296 km
+        - 14.741057 km
+        waypoints:
+        - lat: 45.48828333
+          lng: 7.72405
+        - lat: 45.36485739
+          lng: 7.68912862
+        - lat: 45.37010446
+          lng: 7.68312143
+      made: 72.802415 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 15.460705 km
+        flipSum:
+        - 15.460705 km
+        - 0.863372 km
+        legs:
+        - 14.597333 km
+        - 0.863372 km
+        legsSum:
+        - 14.597333 km
+        - 15.460705 km
+        waypoints:
+        - lat: 45.46966667
+          lng: 7.80498333
+        - lat: 45.36513242
+          lng: 7.69185085
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 72.085415 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo:
+        distance: 16.929650 km
+        flipSum:
+        - 16.929650 km
+        - 0.852050 km
+        legs:
+        - 16.077600 km
+        - 0.852050 km
+        legsSum:
+        - 16.077600 km
+        - 16.929650 km
+        waypoints:
+        - lat: 45.48356667
+          lng: 7.80978333
+        - lat: 45.36512522
+          lng: 7.69162146
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 70.616415 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 16.906947 km
+        flipSum:
+        - 16.906947 km
+        - 0.852050 km
+        legs:
+        - 16.054897 km
+        - 0.852050 km
+        legsSum:
+        - 16.054897 km
+        - 16.906947 km
+        waypoints:
+        - lat: 45.48493333
+          lng: 7.80643333
+        - lat: 45.36512522
+          lng: 7.69162146
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 70.639415 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo:
+        distance: 16.153646 km
+        flipSum:
+        - 16.153646 km
+        - 0.852050 km
+        legs:
+        - 15.301596 km
+        - 0.852050 km
+        legsSum:
+        - 15.301596 km
+        - 16.153646 km
+        waypoints:
+        - lat: 45.4786
+          lng: 7.80253333
+        - lat: 45.36512522
+          lng: 7.69162146
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 71.392415 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo:
+        distance: 19.396548 km
+        flipSum:
+        - 19.396548 km
+        - 0.841213 km
+        legs:
+        - 18.555335 km
+        - 0.841213 km
+        legsSum:
+        - 18.555335 km
+        - 19.396548 km
+        waypoints:
+        - lat: 45.50413333
+          lng: 7.82293333
+        - lat: 45.36511515
+          lng: 7.69139228
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 68.150415 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo:
+        distance: 19.421678 km
+        flipSum:
+        - 19.421678 km
+        - 0.841213 km
+        legs:
+        - 18.580465 km
+        - 0.841213 km
+        legsSum:
+        - 18.580465 km
+        - 19.421678 km
+        waypoints:
+        - lat: 45.50446667
+          lng: 7.8228
+        - lat: 45.36511515
+          lng: 7.69139228
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 68.124415 km
+  - - - '109'
+      - Federico Brown Manzone
+    - togo:
+        distance: 18.544222 km
+        flipSum:
+        - 18.544222 km
+        - 0.852050 km
+        legs:
+        - 17.692173 km
+        - 0.852050 km
+        legsSum:
+        - 17.692173 km
+        - 18.544222 km
+        waypoints:
+        - lat: 45.49551667
+          lng: 7.82155
+        - lat: 45.36512522
+          lng: 7.69162146
+        - lat: 45.37088831
+          lng: 7.68443324
+      made: 69.002415 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - togo:
+        distance: 37.022203 km
+        flipSum:
+        - 37.022203 km
+        - 25.198714 km
+        - 0.937798 km
+        legs:
+        - 11.823489 km
+        - 24.260915 km
+        - 0.937798 km
+        legsSum:
+        - 11.823489 km
+        - 36.084404 km
+        - 37.022203 km
+        waypoints:
+        - lat: 45.49281667
+          lng: 7.78531667
+        - lat: 45.50092237
+          lng: 7.9365715
+        - lat: 45.36511515
+          lng: 7.69322772
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 50.517415 km
+  - - - '132'
+      - Jacek Górski
+    - togo:
+        distance: 37.849655 km
+        flipSum:
+        - 37.849655 km
+        - 25.231101 km
+        - 0.937798 km
+        legs:
+        - 12.618554 km
+        - 24.293303 km
+        - 0.937798 km
+        legsSum:
+        - 12.618554 km
+        - 36.911857 km
+        - 37.849655 km
+        waypoints:
+        - lat: 45.49791667
+          lng: 7.77426667
+        - lat: 45.50182594
+          lng: 7.93607618
+        - lat: 45.36511515
+          lng: 7.69322772
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 49.687415 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 44.831070 km
+        flipSum:
+        - 44.831070 km
+        - 25.115276 km
+        - 0.937798 km
+        legs:
+        - 19.715795 km
+        - 24.177477 km
+        - 0.937798 km
+        legsSum:
+        - 19.715795 km
+        - 43.893272 km
+        - 44.831070 km
+        waypoints:
+        - lat: 45.46528333
+          lng: 7.68971667
+        - lat: 45.49825081
+          lng: 7.93819429
+        - lat: 45.36511515
+          lng: 7.69322772
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 42.705415 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 49.331339 km
+        flipSum:
+        - 49.331339 km
+        - 25.022869 km
+        - 0.951275 km
+        legs:
+        - 24.308470 km
+        - 24.071594 km
+        - 0.951275 km
+        legsSum:
+        - 24.308470 km
+        - 48.380064 km
+        - 49.331339 km
+        waypoints:
+        - lat: 45.41216667
+          lng: 7.65233333
+        - lat: 45.49394564
+          lng: 7.94134417
+        - lat: 45.3651022
+          lng: 7.6934566
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 38.211415 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo:
+        distance: 49.796649 km
+        flipSum:
+        - 49.796649 km
+        - 25.022869 km
+        - 0.951275 km
+        legs:
+        - 24.773780 km
+        - 24.071594 km
+        - 0.951275 km
+        legsSum:
+        - 24.773780 km
+        - 48.845374 km
+        - 49.796649 km
+        waypoints:
+        - lat: 45.41015
+          lng: 7.64706667
+        - lat: 45.49394564
+          lng: 7.94134417
+        - lat: 45.3651022
+          lng: 7.6934566
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 37.746415 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo:
+        distance: 49.099708 km
+        flipSum:
+        - 49.099708 km
+        - 25.036640 km
+        - 0.937798 km
+        legs:
+        - 24.063068 km
+        - 24.098841 km
+        - 0.937798 km
+        legsSum:
+        - 24.063068 km
+        - 48.161910 km
+        - 49.099708 km
+        waypoints:
+        - lat: 45.41425
+          lng: 7.65433333
+        - lat: 45.49479064
+          lng: 7.94067057
+        - lat: 45.36511515
+          lng: 7.69322772
+        - lat: 45.37116041
+          lng: 7.68485701
+      made: 38.442415 km
+  - - - '161'
+      - Matteo Siragna
+    - togo:
+        distance: 59.486456 km
+        flipSum:
+        - 59.486456 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 34.496915 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 34.496915 km
+        - 58.521808 km
+        - 59.486456 km
+        waypoints:
+        - lat: 45.30985
+          lng: 7.58516667
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 28.053415 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo:
+        distance: 60.607688 km
+        flipSum:
+        - 60.607688 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 35.618146 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 35.618146 km
+        - 59.643040 km
+        - 60.607688 km
+        waypoints:
+        - lat: 45.30278333
+          lng: 7.57473333
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 26.932415 km
+  - - - '130'
+      - Andrea Garolla
+    - togo:
+        distance: 61.173996 km
+        flipSum:
+        - 61.173996 km
+        - 24.991428 km
+        - 0.964648 km
+        legs:
+        - 36.182567 km
+        - 24.026780 km
+        - 0.964648 km
+        legsSum:
+        - 36.182567 km
+        - 60.209347 km
+        - 61.173996 km
+        waypoints:
+        - lat: 45.31661667
+          lng: 7.55265
+        - lat: 45.49065388
+          lng: 7.94425017
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 26.370415 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 62.813926 km
+        flipSum:
+        - 62.813926 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 37.824384 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 37.824384 km
+        - 61.849278 km
+        - 62.813926 km
+        waypoints:
+        - lat: 45.29431667
+          lng: 7.54866667
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 24.727415 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo:
+        distance: 63.357817 km
+        flipSum:
+        - 63.357817 km
+        - 24.990058 km
+        - 0.964648 km
+        legs:
+        - 38.367759 km
+        - 24.025410 km
+        - 0.964648 km
+        legsSum:
+        - 38.367759 km
+        - 62.393168 km
+        - 63.357817 km
+        waypoints:
+        - lat: 45.28715
+          lng: 7.54741667
+        - lat: 45.48906458
+          lng: 7.94582688
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 24.181415 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 71.742460 km
+        flipSum:
+        - 71.742460 km
+        - 64.923730 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 6.818730 km
+        - 39.934188 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 6.818730 km
+        - 46.752918 km
+        - 70.777812 km
+        - 71.742460 km
+        waypoints:
+        - lat: 45.33071667
+          lng: 7.5794
+        - lat: 45.2803111
+          lng: 7.52974413
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 15.795415 km
+  - - - '156'
+      - Massimo Rapari
+    - togo:
+        distance: 73.790879 km
+        flipSum:
+        - 73.790879 km
+        - 64.973092 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 8.817787 km
+        - 39.983550 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 8.817787 km
+        - 48.801338 km
+        - 72.826231 km
+        - 73.790879 km
+        waypoints:
+        - lat: 45.35141667
+          lng: 7.58153333
+        - lat: 45.28185135
+          lng: 7.52739655
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 13.749415 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 73.756522 km
+        flipSum:
+        - 73.756522 km
+        - 64.973092 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 8.783430 km
+        - 39.983550 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 8.783430 km
+        - 48.766980 km
+        - 72.791873 km
+        - 73.756522 km
+        waypoints:
+        - lat: 45.35085
+          lng: 7.58208333
+        - lat: 45.28185135
+          lng: 7.52739655
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 13.783415 km
+  - - - '174'
+      - Davide Zaltron
+    - togo:
+        distance: 79.126582 km
+        flipSum:
+        - 79.126582 km
+        - 64.884307 km
+        - 24.990058 km
+        - 0.964648 km
+        legs:
+        - 14.242275 km
+        - 39.894249 km
+        - 24.025410 km
+        - 0.964648 km
+        legsSum:
+        - 14.242275 km
+        - 54.136525 km
+        - 78.161934 km
+        - 79.126582 km
+        waypoints:
+        - lat: 45.37993333
+          lng: 7.64365
+        - lat: 45.27871283
+          lng: 7.53201196
+        - lat: 45.48906458
+          lng: 7.94582688
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 8.410415 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 80.720862 km
+        flipSum:
+        - 80.720862 km
+        - 64.947122 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 15.773740 km
+        - 39.957581 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 15.773740 km
+        - 55.731321 km
+        - 79.756214 km
+        - 80.720862 km
+        waypoints:
+        - lat: 45.40293333
+          lng: 7.63193333
+        - lat: 45.2810886
+          lng: 7.52858013
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 6.815415 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 77.298495 km
+        flipSum:
+        - 77.298495 km
+        - 65.141086 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 12.157409 km
+        - 40.151544 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 12.157409 km
+        - 52.308954 km
+        - 76.333847 km
+        - 77.298495 km
+        waypoints:
+        - lat: 45.38955
+          lng: 7.56868333
+        - lat: 45.2854354
+          lng: 7.52119856
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 10.241415 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 78.442601 km
+        flipSum:
+        - 78.442601 km
+        - 65.001625 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 13.440976 km
+        - 40.012083 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 13.440976 km
+        - 53.453059 km
+        - 77.477953 km
+        - 78.442601 km
+        waypoints:
+        - lat: 45.38975
+          lng: 7.60578333
+        - lat: 45.2825991
+          lng: 7.52619379
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 9.098415 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 80.054356 km
+        flipSum:
+        - 80.054356 km
+        - 64.973092 km
+        - 24.989541 km
+        - 0.964648 km
+        legs:
+        - 15.081265 km
+        - 39.983550 km
+        - 24.024893 km
+        - 0.964648 km
+        legsSum:
+        - 15.081265 km
+        - 55.064815 km
+        - 79.089708 km
+        - 80.054356 km
+        waypoints:
+        - lat: 45.39856667
+          lng: 7.62568333
+        - lat: 45.28185135
+          lng: 7.52739655
+        - lat: 45.4898543
+          lng: 7.94502842
+        - lat: 45.36508639
+          lng: 7.69368511
+        - lat: 45.37143779
+          lng: 7.6852738
+      made: 7.483415 km
+- - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 10.937271 km
+        flipSum:
+        - 10.937271 km
+        - 9.892447 km
+        legs:
+        - 1.044824 km
+        - 9.892447 km
+        legsSum:
+        - 1.044824 km
+        - 10.937271 km
+        waypoints:
+        - lat: 45.4304
+          lng: 7.79531667
+        - lat: 45.43977769
+          lng: 7.79615957
+        - lat: 45.3966427
+          lng: 7.68530999
+      made: 51.600034 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 14.414773 km
+        flipSum:
+        - 14.414773 km
+        - 9.501503 km
+        legs:
+        - 4.913270 km
+        - 9.501503 km
+        legsSum:
+        - 4.913270 km
+        - 14.414773 km
+        waypoints:
+        - lat: 45.4119
+          lng: 7.74558333
+        - lat: 45.4469964
+          lng: 7.78383568
+        - lat: 45.39800741
+          lng: 7.68408607
+      made: 48.122034 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 11.240831 km
+        flipSum:
+        - 11.240831 km
+        legs:
+        - 11.240831 km
+        legsSum:
+        - 11.240831 km
+        waypoints:
+        - lat: 45.43333333
+          lng: 7.81975
+        - lat: 45.39461506
+          lng: 7.68672227
+      made: 51.302034 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 16.332733 km
+        flipSum:
+        - 16.332733 km
+        - 9.644610 km
+        legs:
+        - 6.688123 km
+        - 9.644610 km
+        legsSum:
+        - 6.688123 km
+        - 16.332733 km
+        waypoints:
+        - lat: 45.38686667
+          lng: 7.75933333
+        - lat: 45.44311676
+          lng: 7.78967621
+        - lat: 45.39719774
+          lng: 7.68484129
+      made: 46.204034 km
+  - - - '121'
+      - Giorgio Darra
+    - togo:
+        distance: 16.927901 km
+        flipSum:
+        - 16.927901 km
+        - 9.705149 km
+        legs:
+        - 7.222752 km
+        - 9.705149 km
+        legsSum:
+        - 7.222752 km
+        - 16.927901 km
+        waypoints:
+        - lat: 45.3803
+          lng: 7.763
+        - lat: 45.44210515
+          lng: 7.79146725
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 45.614034 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 16.730017 km
+        flipSum:
+        - 16.730017 km
+        - 9.738466 km
+        legs:
+        - 6.991551 km
+        - 9.738466 km
+        legsSum:
+        - 6.991551 km
+        - 16.730017 km
+        waypoints:
+        - lat: 45.38086667
+          lng: 7.76928333
+        - lat: 45.44161631
+          lng: 7.79238176
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 45.762034 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo:
+        distance: 16.760124 km
+        flipSum:
+        - 16.760124 km
+        - 9.892447 km
+        legs:
+        - 6.867678 km
+        - 9.892447 km
+        legsSum:
+        - 6.867678 km
+        - 16.760124 km
+        waypoints:
+        - lat: 45.37815
+          lng: 7.79035
+        - lat: 45.43977769
+          lng: 7.79615957
+        - lat: 45.3966427
+          lng: 7.68530999
+      made: 45.780034 km
+  - - - '127'
+      - Richárd Gabrieli
+    - togo:
+        distance: 18.476329 km
+        flipSum:
+        - 18.476329 km
+        - 16.829214 km
+        - 9.705149 km
+        legs:
+        - 1.647115 km
+        - 7.124065 km
+        - 9.705149 km
+        legsSum:
+        - 1.647115 km
+        - 8.771180 km
+        - 18.476329 km
+        waypoints:
+        - lat: 45.39401667
+          lng: 7.75673333
+        - lat: 45.38063029
+          lng: 7.76576406
+        - lat: 45.44210515
+          lng: 7.79146725
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 44.066034 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 19.012454 km
+        flipSum:
+        - 19.012454 km
+        - 16.727061 km
+        - 9.738466 km
+        legs:
+        - 2.285393 km
+        - 6.988595 km
+        - 9.738466 km
+        legsSum:
+        - 2.285393 km
+        - 9.273988 km
+        - 19.012454 km
+        waypoints:
+        - lat: 45.40078333
+          lng: 7.7758
+        - lat: 45.38038906
+          lng: 7.77216938
+        - lat: 45.44161631
+          lng: 7.79238176
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 43.527034 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo:
+        distance: 20.145072 km
+        flipSum:
+        - 20.145072 km
+        - 16.855781 km
+        - 9.705149 km
+        legs:
+        - 3.289291 km
+        - 7.150632 km
+        - 9.705149 km
+        legsSum:
+        - 3.289291 km
+        - 10.439923 km
+        - 20.145072 km
+        waypoints:
+        - lat: 45.40631667
+          lng: 7.7441
+        - lat: 45.38057276
+          lng: 7.76484902
+        - lat: 45.44210515
+          lng: 7.79146725
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 42.396034 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 20.160151 km
+        flipSum:
+        - 20.160151 km
+        - 16.855781 km
+        - 9.705149 km
+        legs:
+        - 3.304370 km
+        - 7.150632 km
+        - 9.705149 km
+        legsSum:
+        - 3.304370 km
+        - 10.455002 km
+        - 20.160151 km
+        waypoints:
+        - lat: 45.40658333
+          lng: 7.74438333
+        - lat: 45.38057276
+          lng: 7.76484902
+        - lat: 45.44210515
+          lng: 7.79146725
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 42.380034 km
+  - - - '140'
+      - Maurizio Maina
+    - togo:
+        distance: 20.836585 km
+        flipSum:
+        - 20.836585 km
+        - 16.729232 km
+        - 9.738466 km
+        legs:
+        - 4.107353 km
+        - 6.990766 km
+        - 9.738466 km
+        legsSum:
+        - 4.107353 km
+        - 11.098119 km
+        - 20.836585 km
+        waypoints:
+        - lat: 45.4173
+          lng: 7.77521667
+        - lat: 45.38044353
+          lng: 7.7717166
+        - lat: 45.44161631
+          lng: 7.79238176
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 41.704034 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 45.844007 km
+        flipSum:
+        - 45.844007 km
+        - 45.345315 km
+        - 30.779438 km
+        - 16.736599 km
+        - 9.773967 km
+        legs:
+        - 0.498693 km
+        - 14.565876 km
+        - 14.042839 km
+        - 6.962633 km
+        - 9.773967 km
+        legsSum:
+        - 0.498693 km
+        - 15.064569 km
+        - 29.107408 km
+        - 36.070041 km
+        - 45.844007 km
+        waypoints:
+        - lat: 45.36813333
+          lng: 7.80365
+        - lat: 45.36675387
+          lng: 7.80972414
+        - lat: 45.49454343
+          lng: 7.85075907
+        - lat: 45.37975103
+          lng: 7.77572709
+        - lat: 45.441139
+          lng: 7.79330854
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 16.691034 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo:
+        distance: 52.222782 km
+        flipSum:
+        - 52.222782 km
+        - 45.310200 km
+        - 30.779438 km
+        - 16.736599 km
+        - 9.773967 km
+        legs:
+        - 6.912582 km
+        - 14.530762 km
+        - 14.042839 km
+        - 6.962633 km
+        - 9.773967 km
+        legsSum:
+        - 6.912582 km
+        - 21.443344 km
+        - 35.486183 km
+        - 42.448816 km
+        - 52.222782 km
+        waypoints:
+        - lat: 45.39211667
+          lng: 7.72938333
+        - lat: 45.36698203
+          lng: 7.81033159
+        - lat: 45.49454343
+          lng: 7.85075907
+        - lat: 45.37975103
+          lng: 7.77572709
+        - lat: 45.441139
+          lng: 7.79330854
+        - lat: 45.39692169
+          lng: 7.68507917
+      made: 10.312034 km

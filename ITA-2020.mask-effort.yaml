@@ -1,14 +1,669 @@
 bestEffort:
+- 51.517078 km
+- 74.486014 km
 - null
-- null
-- null
-- null
-- null
-- null
+- 105.761993 km
+- 87.546415 km
+- 62.543034 km
 land:
+- - - - '164'
+      - Anca Tabara
+    - togo: 3.854645 km
+      made: 47.662433 km
+  - - - '130'
+      - Andrea Garolla
+    - togo: 4.013032 km
+      made: 47.504046 km
+  - - - '174'
+      - Davide Zaltron
+    - togo: 4.067931 km
+      made: 47.449147 km
+  - - - '170'
+      - Paolo Veratti
+    - togo: 5.858060 km
+      made: 45.659018 km
+  - - - '178'
+      - Marius Saigiu
+    - togo: 7.283428 km
+      made: 44.233650 km
+  - - - '101'
+      - Diego Ardissone
+    - togo: 8.912466 km
+      made: 42.604612 km
+  - - - '147'
+      - Francesco Orcese
+    - togo: 9.401682 km
+      made: 42.115396 km
+  - - - '114'
+      - Mirco Casarini
+    - togo: 11.183247 km
+      made: 40.333831 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo: 11.312111 km
+      made: 40.204967 km
+  - - - '150'
+      - Luca Paoletti
+    - togo: 12.812429 km
+      made: 38.704649 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo: 12.878906 km
+      made: 38.638172 km
+  - - - '145'
+      - Federico Nevastro
+    - togo: 12.899609 km
+      made: 38.617469 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo: 16.312662 km
+      made: 35.204416 km
+  - - - '167'
+      - Ionut Ulici
+    - togo: 16.333412 km
+      made: 35.183666 km
+  - - - '142'
+      - Luca Mammucari
+    - togo: 25.905053 km
+      made: 25.612025 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo: 30.259213 km
+      made: 21.257865 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo: 33.041503 km
+      made: 18.475575 km
+  - - - '155'
+      - Alfio Ragaglia
+    - togo: 34.157665 km
+      made: 17.359413 km
+  - - - '149'
+      - Alessandro Palma
+    - togo: 34.185768 km
+      made: 17.331310 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo: 34.206285 km
+      made: 17.310793 km
+  - - - '131'
+      - Marco Gentilini
+    - togo: 34.232973 km
+      made: 17.284105 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo: 34.283556 km
+      made: 17.233522 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo: 36.872650 km
+      made: 14.644428 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo: 38.404953 km
+      made: 13.112125 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - togo: 38.406775 km
+      made: 13.110303 km
+  - - - '133'
+      - Alessio Guidi
+    - togo: 38.418113 km
+      made: 13.098965 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo: 40.337965 km
+      made: 11.179113 km
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - togo: 40.867973 km
+      made: 10.649105 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo: 41.127438 km
+      made: 10.389640 km
+  - - - '158'
+      - Antonio Ruta
+    - togo: 41.134415 km
+      made: 10.382663 km
+  - - - '156'
+      - Massimo Rapari
+    - togo: 43.411012 km
+      made: 8.106066 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo: 52.295668 km
+      made: -0.778590 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo: 52.346869 km
+      made: -0.829791 km
+- - - - '135'
+      - Cristian Inverardi
+    - togo: 2.325196 km
+      made: 72.160818 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo: 2.732141 km
+      made: 71.753873 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo: 5.337642 km
+      made: 69.148372 km
+  - - - '108'
+      - Michele Boschi
+    - togo: 5.508149 km
+      made: 68.977865 km
+  - - - '147'
+      - Francesco Orcese
+    - togo: 5.971512 km
+      made: 68.514502 km
+  - - - '133'
+      - Alessio Guidi
+    - togo: 7.205986 km
+      made: 67.280028 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo: 9.569231 km
+      made: 64.916783 km
+  - - - '161'
+      - Matteo Siragna
+    - togo: 9.669576 km
+      made: 64.816438 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo: 9.720903 km
+      made: 64.765111 km
+  - - - '158'
+      - Antonio Ruta
+    - togo: 10.558675 km
+      made: 63.927339 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo: 18.652419 km
+      made: 55.833595 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo: 19.962288 km
+      made: 54.523726 km
+  - - - '131'
+      - Marco Gentilini
+    - togo: 20.537423 km
+      made: 53.948591 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo: 20.545224 km
+      made: 53.940790 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo: 20.817682 km
+      made: 53.668332 km
+  - - - '149'
+      - Alessandro Palma
+    - togo: 21.348014 km
+      made: 53.138000 km
+  - - - '167'
+      - Ionut Ulici
+    - togo: 26.427624 km
+      made: 48.058390 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo: 34.008686 km
+      made: 40.477328 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo: 46.489711 km
+      made: 27.996303 km
+  - - - '114'
+      - Mirco Casarini
+    - togo: 49.157000 km
+      made: 25.329014 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo: 53.214582 km
+      made: 21.271432 km
+  - - - '104'
+      - Loris Berta
+    - togo: 55.986406 km
+      made: 18.499608 km
+  - - - '140'
+      - Maurizio Maina
+    - togo: 56.010329 km
+      made: 18.475685 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo: 56.714247 km
+      made: 17.771767 km
+  - - - '128'
+      - Michele Gaiba
+    - togo: 58.676763 km
+      made: 15.809251 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo: 61.156487 km
+      made: 13.329527 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo: 68.049271 km
+      made: 6.436743 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo: 68.304898 km
+      made: 6.181116 km
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '169'
+      - Alessandro Vallero
+    - togo: 1.114131 km
+      made: 104.647862 km
+  - - - '130'
+      - Andrea Garolla
+    - togo: 1.116602 km
+      made: 104.645391 km
+  - - - '108'
+      - Michele Boschi
+    - togo: 4.174950 km
+      made: 101.587043 km
+  - - - '158'
+      - Antonio Ruta
+    - togo: 6.433347 km
+      made: 99.328646 km
+  - - - '129'
+      - Luciano Gallo
+    - togo: 7.585201 km
+      made: 98.176792 km
+  - - - '173'
+      - Paolo Zammarchi
+    - togo: 9.860214 km
+      made: 95.901779 km
+  - - - '168'
+      - Marco Valentini
+    - togo: 11.188974 km
+      made: 94.573019 km
+  - - - '170'
+      - Paolo Veratti
+    - togo: 12.454716 km
+      made: 93.307277 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - togo: 12.467231 km
+      made: 93.294762 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - togo: 13.559154 km
+      made: 92.202839 km
+  - - - '164'
+      - Anca Tabara
+    - togo: 13.579851 km
+      made: 92.182142 km
+  - - - '127'
+      - Richárd Gabrieli
+    - togo: 15.573061 km
+      made: 90.188932 km
+  - - - '121'
+      - Giorgio Darra
+    - togo: 18.245894 km
+      made: 87.516099 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo: 21.474762 km
+      made: 84.287231 km
+  - - - '133'
+      - Alessio Guidi
+    - togo: 21.492170 km
+      made: 84.269823 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo: 21.507684 km
+      made: 84.254309 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo: 21.535527 km
+      made: 84.226466 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo: 21.669382 km
+      made: 84.092611 km
+  - - - '142'
+      - Luca Mammucari
+    - togo: 21.980541 km
+      made: 83.781452 km
+  - - - '141'
+      - Albino Malli
+    - togo: 24.536635 km
+      made: 81.225358 km
+  - - - '177'
+      - Bogdan Bialka
+    - togo: 27.063992 km
+      made: 78.698001 km
+  - - - '114'
+      - Mirco Casarini
+    - togo: 27.363522 km
+      made: 78.398471 km
+  - - - '156'
+      - Massimo Rapari
+    - togo: 29.372991 km
+      made: 76.389002 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo: 29.391198 km
+      made: 76.370795 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo: 29.403732 km
+      made: 76.358261 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo: 31.467609 km
+      made: 74.294384 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo: 40.100805 km
+      made: 65.661188 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo: 40.180294 km
+      made: 65.581699 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo: 40.307521 km
+      made: 65.454472 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo: 40.461365 km
+      made: 65.300628 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo: 40.664218 km
+      made: 65.097775 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo: 40.703253 km
+      made: 65.058740 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo: 41.969573 km
+      made: 63.792420 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo: 43.216641 km
+      made: 62.545352 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo: 44.383187 km
+      made: 61.378806 km
+  - - - '128'
+      - Michele Gaiba
+    - togo: 45.529690 km
+      made: 60.232303 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo: 45.803466 km
+      made: 59.958527 km
+  - - - '147'
+      - Francesco Orcese
+    - togo: 47.108999 km
+      made: 58.652994 km
+  - - - '167'
+      - Ionut Ulici
+    - togo: 47.122522 km
+      made: 58.639471 km
+  - - - '149'
+      - Alessandro Palma
+    - togo: 47.131035 km
+      made: 58.630958 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo: 47.166302 km
+      made: 58.595691 km
+  - - - '174'
+      - Davide Zaltron
+    - togo: 61.369108 km
+      made: 44.392885 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo: 61.413996 km
+      made: 44.347997 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo: 81.686249 km
+      made: 24.075744 km
+  - - - '116'
+      - Ivan Centa
+    - togo: 90.369189 km
+      made: 15.392804 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo: 100.896043 km
+      made: 4.865950 km
+  - - - '178'
+      - Marius Saigiu
+    - togo: 103.112597 km
+      made: 2.649396 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - togo: 103.117655 km
+      made: 2.644338 km
+  - - - '131'
+      - Marco Gentilini
+    - togo: 104.582518 km
+      made: 1.179475 km
+- - - - '146'
+      - Joachim Oberhauser
+    - togo: 1.049165 km
+      made: 86.497250 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo: 3.983928 km
+      made: 83.562487 km
+  - - - '147'
+      - Francesco Orcese
+    - togo: 6.960198 km
+      made: 80.586217 km
+  - - - '169'
+      - Alessandro Vallero
+    - togo: 7.178694 km
+      made: 80.367721 km
+  - - - '140'
+      - Maurizio Maina
+    - togo: 8.152724 km
+      made: 79.393691 km
+  - - - '133'
+      - Alessio Guidi
+    - togo: 9.149600 km
+      made: 78.396815 km
+  - - - '141'
+      - Albino Malli
+    - togo: 10.308192 km
+      made: 77.238223 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo: 10.797282 km
+      made: 76.749133 km
+  - - - '142'
+      - Luca Mammucari
+    - togo: 12.837289 km
+      made: 74.709126 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo: 13.022427 km
+      made: 74.523988 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo: 13.323363 km
+      made: 74.223052 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo: 13.325494 km
+      made: 74.220921 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo: 13.335798 km
+      made: 74.210617 km
+  - - - '150'
+      - Luca Paoletti
+    - togo: 15.886504 km
+      made: 71.659911 km
+  - - - '178'
+      - Marius Saigiu
+    - togo: 15.922095 km
+      made: 71.624320 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo: 16.354298 km
+      made: 71.192117 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo: 17.911507 km
+      made: 69.634908 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo: 19.087839 km
+      made: 68.458576 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo: 19.099803 km
+      made: 68.446612 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo: 19.640329 km
+      made: 67.906086 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo: 19.660069 km
+      made: 67.886346 km
+  - - - '109'
+      - Federico Brown Manzone
+    - togo: 19.830724 km
+      made: 67.715691 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - togo: 37.466410 km
+      made: 50.080005 km
+  - - - '132'
+      - Jacek Górski
+    - togo: 38.536137 km
+      made: 49.010278 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo: 45.523407 km
+      made: 42.023008 km
+  - - - '167'
+      - Ionut Ulici
+    - togo: 50.291490 km
+      made: 37.254925 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo: 50.902073 km
+      made: 36.644342 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo: 51.022674 km
+      made: 36.523741 km
+  - - - '161'
+      - Matteo Siragna
+    - togo: 59.528765 km
+      made: 28.017650 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo: 60.692035 km
+      made: 26.854380 km
+  - - - '130'
+      - Andrea Garolla
+    - togo: 61.593229 km
+      made: 25.953186 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo: 62.813926 km
+      made: 24.732489 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo: 63.359895 km
+      made: 24.186520 km
+  - - - '149'
+      - Alessandro Palma
+    - togo: 72.815835 km
+      made: 14.730580 km
+  - - - '156'
+      - Massimo Rapari
+    - togo: 73.803320 km
+      made: 13.743095 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo: 73.818278 km
+      made: 13.728137 km
+  - - - '174'
+      - Davide Zaltron
+    - togo: 80.795619 km
+      made: 6.750796 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo: 80.811749 km
+      made: 6.734666 km
+  - - - '131'
+      - Marco Gentilini
+    - togo: 81.224451 km
+      made: 6.321964 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo: 81.224612 km
+      made: 6.321803 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo: 81.233857 km
+      made: 6.312558 km
+- - - - '167'
+      - Ionut Ulici
+    - togo: 11.337453 km
+      made: 51.205581 km
+  - - - '133'
+      - Alessio Guidi
+    - togo: 14.898933 km
+      made: 47.644101 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo: 16.902439 km
+      made: 45.640595 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo: 16.934060 km
+      made: 45.608974 km
+  - - - '121'
+      - Giorgio Darra
+    - togo: 17.190168 km
+      made: 45.352866 km
+  - - - '158'
+      - Antonio Ruta
+    - togo: 17.210223 km
+      made: 45.332811 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo: 17.852548 km
+      made: 44.690486 km
+  - - - '127'
+      - Richárd Gabrieli
+    - togo: 18.478003 km
+      made: 44.065031 km
+  - - - '147'
+      - Francesco Orcese
+    - togo: 19.708150 km
+      made: 42.834884 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo: 20.150556 km
+      made: 42.392478 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo: 20.178007 km
+      made: 42.365027 km
+  - - - '140'
+      - Maurizio Maina
+    - togo: 21.029950 km
+      made: 41.513084 km
+  - - - '149'
+      - Alessandro Palma
+    - togo: 46.491503 km
+      made: 16.051531 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo: 52.224019 km
+      made: 10.319015 km

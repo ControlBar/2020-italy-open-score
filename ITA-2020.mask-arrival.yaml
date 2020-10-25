@@ -1,14 +1,1034 @@
 pilotsAtEss:
+- 39
+- 48
 - 0
-- 0
-- 0
-- 0
-- 0
-- 0
+- 25
+- 33
+- 60
 arrivalRank:
+- - - - '138'
+      - Marco Littamè
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0
+  - - - '146'
+      - Joachim Oberhauser
+    - lag: 0.000488 h
+      rank: '2'
+      frac: 0
+  - - - '111'
+      - Marco Busetta
+    - lag: 0.001052 h
+      rank: '3'
+      frac: 0
+  - - - '121'
+      - Giorgio Darra
+    - lag: 0.003734 h
+      rank: '4'
+      frac: 0
+  - - - '171'
+      - Biagio Alberto Vitale
+    - lag: 0.005143 h
+      rank: '5'
+      frac: 0
+  - - - '165'
+      - Andrea Terenziani
+    - lag: 0.008369 h
+      rank: '6'
+      frac: 0
+  - - - '177'
+      - Bogdan Bialka
+    - lag: 0.011287 h
+      rank: '7'
+      frac: 0
+  - - - '106'
+      - Christian Biasi
+    - lag: 0.011344 h
+      rank: '8'
+      frac: 0
+  - - - '173'
+      - Paolo Zammarchi
+    - lag: 0.016290 h
+      rank: '9'
+      frac: 0
+  - - - '166'
+      - Tiziano Trambaioli
+    - lag: 0.016717 h
+      rank: '10'
+      frac: 0
+  - - - '157'
+      - Elio Rossi
+    - lag: 0.018264 h
+      rank: '11'
+      frac: 0
+  - - - '109'
+      - Federico Brown Manzone
+    - lag: 0.020923 h
+      rank: '12'
+      frac: 0
+  - - - '127'
+      - Richárd Gabrieli
+    - lag: 0.020976 h
+      rank: '13'
+      frac: 0
+  - - - '137'
+      - Slawomir Kaczynski
+    - lag: 0.021084 h
+      rank: '14'
+      frac: 0
+  - - - '161'
+      - Matteo Siragna
+    - lag: 0.021267 h
+      rank: '15'
+      frac: 0
+  - - - '124'
+      - Paolo Facchini
+    - lag: 0.022842 h
+      rank: '16'
+      frac: 0
+  - - - '141'
+      - Albino Malli
+    - lag: 0.024262 h
+      rank: '17'
+      frac: 0
+  - - - '172'
+      - Alessio Voltan
+    - lag: 0.028129 h
+      rank: '18'
+      frac: 0
+  - - - '117'
+      - Gianfranco Crestani
+    - lag: 0.031218 h
+      rank: '19'
+      frac: 0
+  - - - '115'
+      - Alberto Castagna
+    - lag: 0.043574 h
+      rank: '20'
+      frac: 0
+  - - - '104'
+      - Loris Berta
+    - lag: 0.046844 h
+      rank: '21'
+      frac: 0
+  - - - '168'
+      - Marco Valentini
+    - lag: 0.051225 h
+      rank: '22'
+      frac: 0
+  - - - '102'
+      - Matteo Bacchiocchi
+    - lag: 0.061715 h
+      rank: '23'
+      frac: 0
+  - - - '140'
+      - Maurizio Maina
+    - lag: 0.065877 h
+      rank: '24'
+      frac: 0
+  - - - '126'
+      - Alessandro Fuzzi
+    - lag: 0.069099 h
+      rank: '25'
+      frac: 0
+  - - - '105'
+      - Daniele Bevilacqua
+    - lag: 0.071260 h
+      rank: '26'
+      frac: 0
+  - - - '122'
+      - Angelo Dell’Aira
+    - lag: 0.118032 h
+      rank: '27'
+      frac: 0
+  - - - '139'
+      - Alessandro Madaluni
+    - lag: 0.128931 h
+      rank: '28'
+      frac: 0
+  - - - '116'
+      - Ivan Centa
+    - lag: 0.167121 h
+      rank: '29'
+      frac: 0
+  - - - '169'
+      - Alessandro Vallero
+    - lag: 0.286939 h
+      rank: '30'
+      frac: 0
+  - - - '128'
+      - Michele Gaiba
+    - lag: 0.352888 h
+      rank: '31'
+      frac: 0
+  - - - '129'
+      - Luciano Gallo
+    - lag: 0.378462 h
+      rank: '32'
+      frac: 0
+  - - - '153'
+      - Gianbasilio Profiti
+    - lag: 0.384252 h
+      rank: '33'
+      frac: 0
+  - - - '154'
+      - Stefano Pucci
+    - lag: 0.414650 h
+      rank: '34'
+      frac: 0
+  - - - '110'
+      - Klaudia Bulgakow
+    - lag: 0.421368 h
+      rank: '35'
+      frac: 0
+  - - - '113'
+      - Tommaso Carlini
+    - lag: 0.529563 h
+      rank: '36'
+      frac: 0
+  - - - '108'
+      - Michele Boschi
+    - lag: 0.625262 h
+      rank: '37'
+      frac: 0
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - lag: 0.686534 h
+      rank: '38'
+      frac: 0
+  - - - '160'
+      - Giuseppe Simone
+    - lag: 0.936713 h
+      rank: '39'
+      frac: 0
+- - - - '124'
+      - Paolo Facchini
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0
+  - - - '180'
+      - Michal Gierlach
+    - lag: 0.001373 h
+      rank: '2'
+      frac: 0
+  - - - '175'
+      - Mariusz Wisniowski
+    - lag: 0.001464 h
+      rank: '3'
+      frac: 0
+  - - - '106'
+      - Christian Biasi
+    - lag: 0.001581 h
+      rank: '4'
+      frac: 0
+  - - - '146'
+      - Joachim Oberhauser
+    - lag: 0.002591 h
+      rank: '5'
+      frac: 0
+  - - - '159'
+      - Krzysztof Schmidt
+    - lag: 0.004245 h
+      rank: '6'
+      frac: 0
+  - - - '115'
+      - Alberto Castagna
+    - lag: 0.010709 h
+      rank: '7'
+      frac: 0
+  - - - '172'
+      - Alessio Voltan
+    - lag: 0.031661 h
+      rank: '8'
+      frac: 0
+  - - - '127'
+      - Richárd Gabrieli
+    - lag: 0.035361 h
+      rank: '9'
+      frac: 0
+  - - - '177'
+      - Bogdan Bialka
+    - lag: 0.038223 h
+      rank: '10'
+      frac: 0
+  - - - '132'
+      - Jacek Górski
+    - lag: 0.041103 h
+      rank: '11'
+      frac: 0
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - lag: 0.043527 h
+      rank: '12'
+      frac: 0
+  - - - '155'
+      - Alfio Ragaglia
+    - lag: 0.043732 h
+      rank: '13'
+      frac: 0
+  - - - '117'
+      - Gianfranco Crestani
+    - lag: 0.047801 h
+      rank: '14'
+      frac: 0
+  - - - '137'
+      - Slawomir Kaczynski
+    - lag: 0.048158 h
+      rank: '15'
+      frac: 0
+  - - - '109'
+      - Federico Brown Manzone
+    - lag: 0.078941 h
+      rank: '16'
+      frac: 0
+  - - - '168'
+      - Marco Valentini
+    - lag: 0.102172 h
+      rank: '17'
+      frac: 0
+  - - - '154'
+      - Stefano Pucci
+    - lag: 0.103603 h
+      rank: '18'
+      frac: 0
+  - - - '138'
+      - Marco Littamè
+    - lag: 0.149890 h
+      rank: '19'
+      frac: 0
+  - - - '111'
+      - Marco Busetta
+    - lag: 0.156290 h
+      rank: '20'
+      frac: 0
+  - - - '142'
+      - Luca Mammucari
+    - lag: 0.158814 h
+      rank: '21'
+      frac: 0
+  - - - '173'
+      - Paolo Zammarchi
+    - lag: 0.172117 h
+      rank: '22'
+      frac: 0
+  - - - '157'
+      - Elio Rossi
+    - lag: 0.178129 h
+      rank: '23'
+      frac: 0
+  - - - '171'
+      - Biagio Alberto Vitale
+    - lag: 0.204731 h
+      rank: '24'
+      frac: 0
+  - - - '150'
+      - Luca Paoletti
+    - lag: 0.268465 h
+      rank: '25'
+      frac: 0
+  - - - '126'
+      - Alessandro Fuzzi
+    - lag: 0.370227 h
+      rank: '26'
+      frac: 0
+  - - - '145'
+      - Federico Nevastro
+    - lag: 0.412831 h
+      rank: '27'
+      frac: 0
+  - - - '156'
+      - Massimo Rapari
+    - lag: 0.425169 h
+      rank: '28'
+      frac: 0
+  - - - '164'
+      - Anca Tabara
+    - lag: 0.426580 h
+      rank: '29'
+      frac: 0
+  - - - '170'
+      - Paolo Veratti
+    - lag: 0.428676 h
+      rank: '30'
+      frac: 0
+  - - - '116'
+      - Ivan Centa
+    - lag: 0.431064 h
+      rank: '31'
+      frac: 0
+  - - - '105'
+      - Daniele Bevilacqua
+    - lag: 0.467529 h
+      rank: '32'
+      frac: 0
+  - - - '148'
+      - Luciano Pagnoni
+    - lag: 0.542457 h
+      rank: '33'
+      frac: 0
+  - - - '141'
+      - Albino Malli
+    - lag: 0.688489 h
+      rank: '34'
+      frac: 0
+  - - - '102'
+      - Matteo Bacchiocchi
+    - lag: 0.705310 h
+      rank: '35'
+      frac: 0
+  - - - '178'
+      - Marius Saigiu
+    - lag: 0.706905 h
+      rank: '36'
+      frac: 0
+  - - - '174'
+      - Davide Zaltron
+    - lag: 0.707295 h
+      rank: '37'
+      frac: 0
+  - - - '121'
+      - Giorgio Darra
+    - lag: 0.720696 h
+      rank: '38'
+      frac: 0
+  - - - '153'
+      - Gianbasilio Profiti
+    - lag: 0.720920 h
+      rank: '39'
+      frac: 0
+  - - - '166'
+      - Tiziano Trambaioli
+    - lag: 0.724393 h
+      rank: '40'
+      frac: 0
+  - - - '101'
+      - Diego Ardissone
+    - lag: 0.736000 h
+      rank: '41'
+      frac: 0
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - lag: 0.765506 h
+      rank: '42'
+      frac: 0
+  - - - '151'
+      - Piergiorgio Pintossi
+    - lag: 0.771644 h
+      rank: '43'
+      frac: 0
+  - - - '169'
+      - Alessandro Vallero
+    - lag: 0.979657 h
+      rank: '44'
+      frac: 0
+  - - - '129'
+      - Luciano Gallo
+    - lag: 1.132971 h
+      rank: '45'
+      frac: 0
+  - - - '130'
+      - Andrea Garolla
+    - lag: 1.433963 h
+      rank: '46'
+      frac: 0
+  - - - '143'
+      - Valerio Marchetti
+    - lag: 1.758258 h
+      rank: '47'
+      frac: 0
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - lag: 1.772385 h
+      rank: '48'
+      frac: 0
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '111'
+      - Marco Busetta
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0
+  - - - '159'
+      - Krzysztof Schmidt
+    - lag: 0.002447 h
+      rank: '2'
+      frac: 0
+  - - - '155'
+      - Alfio Ragaglia
+    - lag: 0.004398 h
+      rank: '3'
+      frac: 0
+  - - - '157'
+      - Elio Rossi
+    - lag: 0.004784 h
+      rank: '4'
+      frac: 0
+  - - - '109'
+      - Federico Brown Manzone
+    - lag: 0.018564 h
+      rank: '5'
+      frac: 0
+  - - - '146'
+      - Joachim Oberhauser
+    - lag: 0.195317 h
+      rank: '6'
+      frac: 0
+  - - - '138'
+      - Marco Littamè
+    - lag: 0.196809 h
+      rank: '7'
+      frac: 0
+  - - - '106'
+      - Christian Biasi
+    - lag: 0.197273 h
+      rank: '8'
+      frac: 0
+  - - - '171'
+      - Biagio Alberto Vitale
+    - lag: 0.198415 h
+      rank: '9'
+      frac: 0
+  - - - '124'
+      - Paolo Facchini
+    - lag: 0.199379 h
+      rank: '10'
+      frac: 0
+  - - - '132'
+      - Jacek Górski
+    - lag: 0.200287 h
+      rank: '11'
+      frac: 0
+  - - - '166'
+      - Tiziano Trambaioli
+    - lag: 0.203749 h
+      rank: '12'
+      frac: 0
+  - - - '180'
+      - Michal Gierlach
+    - lag: 0.204736 h
+      rank: '13'
+      frac: 0
+  - - - '153'
+      - Gianbasilio Profiti
+    - lag: 0.207002 h
+      rank: '14'
+      frac: 0
+  - - - '161'
+      - Matteo Siragna
+    - lag: 0.207241 h
+      rank: '15'
+      frac: 0
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - lag: 0.207375 h
+      rank: '16'
+      frac: 0
+  - - - '115'
+      - Alberto Castagna
+    - lag: 0.207954 h
+      rank: '17'
+      frac: 0
+  - - - '104'
+      - Loris Berta
+    - lag: 0.213185 h
+      rank: '18'
+      frac: 0
+  - - - '105'
+      - Daniele Bevilacqua
+    - lag: 0.215477 h
+      rank: '19'
+      frac: 0
+  - - - '154'
+      - Stefano Pucci
+    - lag: 0.222129 h
+      rank: '20'
+      frac: 0
+  - - - '172'
+      - Alessio Voltan
+    - lag: 0.266710 h
+      rank: '21'
+      frac: 0
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - lag: 0.277853 h
+      rank: '22'
+      frac: 0
+  - - - '140'
+      - Maurizio Maina
+    - lag: 0.298636 h
+      rank: '23'
+      frac: 0
+  - - - '145'
+      - Federico Nevastro
+    - lag: 0.329704 h
+      rank: '24'
+      frac: 0
+  - - - '110'
+      - Klaudia Bulgakow
+    - lag: 0.748035 h
+      rank: '25'
+      frac: 0
+- - - - '111'
+      - Marco Busetta
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0
+  - - - '138'
+      - Marco Littamè
+    - lag: 0.030637 h
+      rank: '2'
+      frac: 0
+  - - - '157'
+      - Elio Rossi
+    - lag: 0.049109 h
+      rank: '3'
+      frac: 0
+  - - - '177'
+      - Bogdan Bialka
+    - lag: 0.075884 h
+      rank: '4'
+      frac: 0
+  - - - '172'
+      - Alessio Voltan
+    - lag: 0.114828 h
+      rank: '5'
+      frac: 0
+  - - - '106'
+      - Christian Biasi
+    - lag: 0.228399 h
+      rank: '6'
+      frac: 0
+  - - - '159'
+      - Krzysztof Schmidt
+    - lag: 0.229533 h
+      rank: '7'
+      frac: 0
+  - - - '168'
+      - Marco Valentini
+    - lag: 0.231245 h
+      rank: '8'
+      frac: 0
+  - - - '108'
+      - Michele Boschi
+    - lag: 0.258796 h
+      rank: '9'
+      frac: 0
+  - - - '124'
+      - Paolo Facchini
+    - lag: 0.259330 h
+      rank: '10'
+      frac: 0
+  - - - '180'
+      - Michal Gierlach
+    - lag: 0.259569 h
+      rank: '11'
+      frac: 0
+  - - - '175'
+      - Mariusz Wisniowski
+    - lag: 0.262889 h
+      rank: '12'
+      frac: 0
+  - - - '166'
+      - Tiziano Trambaioli
+    - lag: 0.268448 h
+      rank: '13'
+      frac: 0
+  - - - '127'
+      - Richárd Gabrieli
+    - lag: 0.268500 h
+      rank: '14'
+      frac: 0
+  - - - '116'
+      - Ivan Centa
+    - lag: 0.272708 h
+      rank: '15'
+      frac: 0
+  - - - '173'
+      - Paolo Zammarchi
+    - lag: 0.274506 h
+      rank: '16'
+      frac: 0
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - lag: 0.274932 h
+      rank: '17'
+      frac: 0
+  - - - '115'
+      - Alberto Castagna
+    - lag: 0.279575 h
+      rank: '18'
+      frac: 0
+  - - - '137'
+      - Slawomir Kaczynski
+    - lag: 0.350154 h
+      rank: '19'
+      frac: 0
+  - - - '164'
+      - Anca Tabara
+    - lag: 0.422437 h
+      rank: '20'
+      frac: 0
+  - - - '145'
+      - Federico Nevastro
+    - lag: 0.545618 h
+      rank: '21'
+      frac: 0
+  - - - '126'
+      - Alessandro Fuzzi
+    - lag: 0.547677 h
+      rank: '22'
+      frac: 0
+  - - - '128'
+      - Michele Gaiba
+    - lag: 0.548811 h
+      rank: '23'
+      frac: 0
+  - - - '155'
+      - Alfio Ragaglia
+    - lag: 0.565920 h
+      rank: '24'
+      frac: 0
+  - - - '170'
+      - Paolo Veratti
+    - lag: 0.589456 h
+      rank: '25'
+      frac: 0
+  - - - '105'
+      - Daniele Bevilacqua
+    - lag: 0.609637 h
+      rank: '26'
+      frac: 0
+  - - - '171'
+      - Biagio Alberto Vitale
+    - lag: 0.637841 h
+      rank: '27'
+      frac: 0
+  - - - '154'
+      - Stefano Pucci
+    - lag: 0.784762 h
+      rank: '28'
+      frac: 0
+  - - - '153'
+      - Gianbasilio Profiti
+    - lag: 0.787224 h
+      rank: '29'
+      frac: 0
+  - - - '129'
+      - Luciano Gallo
+    - lag: 0.808481 h
+      rank: '30'
+      frac: 0
+  - - - '104'
+      - Loris Berta
+    - lag: 0.896608 h
+      rank: '31'
+      frac: 0
+  - - - '121'
+      - Giorgio Darra
+    - lag: 0.974179 h
+      rank: '32'
+      frac: 0
+  - - - '158'
+      - Antonio Ruta
+    - lag: 1.214725 h
+      rank: '33'
+      frac: 0
+- - - - '111'
+      - Marco Busetta
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0
+  - - - '159'
+      - Krzysztof Schmidt
+    - lag: 0.004557 h
+      rank: '2'
+      frac: 0
+  - - - '171'
+      - Biagio Alberto Vitale
+    - lag: 0.005781 h
+      rank: '3'
+      frac: 0
+  - - - '177'
+      - Bogdan Bialka
+    - lag: 0.007445 h
+      rank: '4'
+      frac: 0
+  - - - '146'
+      - Joachim Oberhauser
+    - lag: 0.007622 h
+      rank: '5'
+      frac: 0
+  - - - '106'
+      - Christian Biasi
+    - lag: 0.013749 h
+      rank: '6'
+      frac: 0
+  - - - '180'
+      - Michal Gierlach
+    - lag: 0.017873 h
+      rank: '7'
+      frac: 0
+  - - - '155'
+      - Alfio Ragaglia
+    - lag: 0.023476 h
+      rank: '8'
+      frac: 0
+  - - - '148'
+      - Luciano Pagnoni
+    - lag: 0.037394 h
+      rank: '9'
+      frac: 0
+  - - - '141'
+      - Albino Malli
+    - lag: 0.043239 h
+      rank: '10'
+      frac: 0
+  - - - '108'
+      - Michele Boschi
+    - lag: 0.046843 h
+      rank: '11'
+      frac: 0
+  - - - '154'
+      - Stefano Pucci
+    - lag: 0.047415 h
+      rank: '12'
+      frac: 0
+  - - - '116'
+      - Ivan Centa
+    - lag: 0.066943 h
+      rank: '13'
+      frac: 0
+  - - - '164'
+      - Anca Tabara
+    - lag: 0.068548 h
+      rank: '14'
+      frac: 0
+  - - - '104'
+      - Loris Berta
+    - lag: 0.089024 h
+      rank: '15'
+      frac: 0
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - lag: 0.129733 h
+      rank: '16'
+      frac: 0
+  - - - '165'
+      - Andrea Terenziani
+    - lag: 0.161236 h
+      rank: '17'
+      frac: 0
+  - - - '156'
+      - Massimo Rapari
+    - lag: 0.230479 h
+      rank: '18'
+      frac: 0
+  - - - '145'
+      - Federico Nevastro
+    - lag: 0.230688 h
+      rank: '19'
+      frac: 0
+  - - - '142'
+      - Luca Mammucari
+    - lag: 0.231608 h
+      rank: '20'
+      frac: 0
+  - - - '132'
+      - Jacek Górski
+    - lag: 0.232181 h
+      rank: '21'
+      frac: 0
+  - - - '175'
+      - Mariusz Wisniowski
+    - lag: 0.235674 h
+      rank: '22'
+      frac: 0
+  - - - '138'
+      - Marco Littamè
+    - lag: 0.237143 h
+      rank: '23'
+      frac: 0
+  - - - '168'
+      - Marco Valentini
+    - lag: 0.265328 h
+      rank: '24'
+      frac: 0
+  - - - '172'
+      - Alessio Voltan
+    - lag: 0.269845 h
+      rank: '25'
+      frac: 0
+  - - - '161'
+      - Matteo Siragna
+    - lag: 0.270888 h
+      rank: '26'
+      frac: 0
+  - - - '153'
+      - Gianbasilio Profiti
+    - lag: 0.275887 h
+      rank: '27'
+      frac: 0
+  - - - '130'
+      - Andrea Garolla
+    - lag: 0.285916 h
+      rank: '28'
+      frac: 0
+  - - - '128'
+      - Michele Gaiba
+    - lag: 0.286871 h
+      rank: '29'
+      frac: 0
+  - - - '115'
+      - Alberto Castagna
+    - lag: 0.298106 h
+      rank: '30'
+      frac: 0
+  - - - '173'
+      - Paolo Zammarchi
+    - lag: 0.304078 h
+      rank: '31'
+      frac: 0
+  - - - '166'
+      - Tiziano Trambaioli
+    - lag: 0.313085 h
+      rank: '32'
+      frac: 0
+  - - - '174'
+      - Davide Zaltron
+    - lag: 0.319817 h
+      rank: '33'
+      frac: 0
+  - - - '137'
+      - Slawomir Kaczynski
+    - lag: 0.328062 h
+      rank: '34'
+      frac: 0
+  - - - '157'
+      - Elio Rossi
+    - lag: 0.328583 h
+      rank: '35'
+      frac: 0
+  - - - '169'
+      - Alessandro Vallero
+    - lag: 0.328700 h
+      rank: '36'
+      frac: 0
+  - - - '151'
+      - Piergiorgio Pintossi
+    - lag: 0.334913 h
+      rank: '37'
+      frac: 0
+  - - - '126'
+      - Alessandro Fuzzi
+    - lag: 0.342291 h
+      rank: '38'
+      frac: 0
+  - - - '105'
+      - Daniele Bevilacqua
+    - lag: 0.354149 h
+      rank: '39'
+      frac: 0
+  - - - '139'
+      - Alessandro Madaluni
+    - lag: 0.362626 h
+      rank: '40'
+      frac: 0
+  - - - '150'
+      - Luca Paoletti
+    - lag: 0.367371 h
+      rank: '41'
+      frac: 0
+  - - - '120'
+      - Gabriele D'Arrigo
+    - lag: 0.373035 h
+      rank: '42'
+      frac: 0
+  - - - '109'
+      - Federico Brown Manzone
+    - lag: 0.398918 h
+      rank: '43'
+      frac: 0
+  - - - '170'
+      - Paolo Veratti
+    - lag: 0.433527 h
+      rank: '44'
+      frac: 0
+  - - - '129'
+      - Luciano Gallo
+    - lag: 0.571104 h
+      rank: '45'
+      frac: 0
+  - - - '101'
+      - Diego Ardissone
+    - lag: 0.606264 h
+      rank: '46'
+      frac: 0
+  - - - '124'
+      - Paolo Facchini
+    - lag: 0.728221 h
+      rank: '47'
+      frac: 0
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - lag: 0.728717 h
+      rank: '48'
+      frac: 0
+  - - - '113'
+      - Tommaso Carlini
+    - lag: 1.002633 h
+      rank: '49'
+      frac: 0
+  - - - '160'
+      - Giuseppe Simone
+    - lag: 1.011397 h
+      rank: '50'
+      frac: 0
+  - - - '123'
+      - Sergio Di Fazio
+    - lag: 1.015004 h
+      rank: '51'
+      frac: 0
+  - - - '152'
+      - Alessandro Pompei
+    - lag: 1.017156 h
+      rank: '52'
+      frac: 0
+  - - - '143'
+      - Valerio Marchetti
+    - lag: 1.017780 h
+      rank: '53'
+      frac: 0
+  - - - '107'
+      - Gabriele Bonafini
+    - lag: 1.024461 h
+      rank: '54'
+      frac: 0
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - lag: 1.025358 h
+      rank: '55'
+      frac: 0
+  - - - '144'
+      - Riccardo Marchetto
+    - lag: 1.028349 h
+      rank: '56'
+      frac: 0
+  - - - '118'
+      - Igor D'Agostino
+    - lag: 1.042895 h
+      rank: '57'
+      frac: 0
+  - - - '176'
+      - Francesco Fontanesi
+    - lag: 1.046173 h
+      rank: '58'
+      frac: 0
+  - - - '178'
+      - Marius Saigiu
+    - lag: 1.047475 h
+      rank: '59'
+      frac: 0
+  - - - '135'
+      - Cristian Inverardi
+    - lag: 1.143432 h
+      rank: '60'
+      frac: 0

@@ -1,64 +1,64 @@
 raceTime:
 - openTask: 2020-08-02T10:45:00Z
   closeTask: 2020-08-02T15:30:00Z
-  firstStart: null
-  firstLead: null
-  lastArrival: null
-  leadAllDown: null
-  leadArrival: null
-  leadClose: null
+  firstStart: 2020-08-02T10:45:10.133945432978Z
+  firstLead: 2020-08-02T10:45:10.133945432978Z
+  lastArrival: 2020-08-02T13:50:09.21627251304Z
+  leadAllDown: 12271.866
+  leadArrival: 11099.082
+  leadClose: 17089.866
   openClose: 17100
-  tickClose: null
+  tickClose: 17089.866
 - openTask: 2020-08-04T11:45:00Z
   closeTask: 2020-08-04T17:30:00Z
-  firstStart: null
-  firstLead: null
-  lastArrival: null
-  leadAllDown: null
-  leadArrival: null
-  leadClose: null
+  firstStart: 2020-08-04T11:21:24.803930571048Z
+  firstLead: 2020-08-04T11:21:24.803930571048Z
+  lastArrival: 2020-08-04T15:52:04.139128824824Z
+  leadAllDown: 17449.196
+  leadArrival: 16239.335
+  leadClose: 22115.196
   openClose: 20700
-  tickClose: null
+  tickClose: 22115.196
 - openTask: 2020-08-05T11:30:00Z
   closeTask: 2020-08-05T17:30:00Z
-  firstStart: null
-  firstLead: null
-  lastArrival: null
-  leadAllDown: null
-  leadArrival: null
-  leadClose: null
+  firstStart: 2020-08-05T11:28:24.577691272403Z
+  firstLead: 2020-08-05T11:28:24.577691272403Z
+  lastArrival: 2020-08-05T15:17:49.62372716526Z
+  leadAllDown: 20791.422
+  leadArrival: 13765.046
+  leadClose: 21695.422
   openClose: 21600
-  tickClose: null
+  tickClose: 21695.422
 - openTask: 2020-08-06T11:30:00Z
   closeTask: 2020-08-06T17:30:00Z
-  firstStart: null
-  firstLead: null
-  lastArrival: null
-  leadAllDown: null
-  leadArrival: null
-  leadClose: null
+  firstStart: 2020-08-06T11:30:06.689250108345Z
+  firstLead: 2020-08-06T11:30:06.689250108345Z
+  lastArrival: 2020-08-06T16:47:11.221452621996Z
+  leadAllDown: 20991.311
+  leadArrival: 19024.532
+  leadClose: 21593.311
   openClose: 21600
-  tickClose: null
+  tickClose: 21593.311
 - openTask: 2020-08-07T11:15:00Z
   closeTask: 2020-08-07T17:30:00Z
-  firstStart: null
-  firstLead: null
-  lastArrival: null
-  leadAllDown: null
-  leadArrival: null
-  leadClose: null
+  firstStart: 2020-08-07T10:26:17.199801914965Z
+  firstLead: 2020-08-07T10:26:17.199801914965Z
+  lastArrival: 2020-08-07T15:56:54.285274962183Z
+  leadAllDown: 21982.8
+  leadArrival: 19837.085
+  leadClose: 25422.8
   openClose: 22500
-  tickClose: null
+  tickClose: 25422.8
 - openTask: 2020-08-08T11:45:00Z
   closeTask: 2020-08-08T16:30:00Z
-  firstStart: null
-  firstLead: null
-  lastArrival: null
-  leadAllDown: null
-  leadArrival: null
-  leadClose: null
+  firstStart: 2020-08-08T11:42:20.829098031187Z
+  firstLead: 2020-08-08T11:42:20.829098031187Z
+  lastArrival: 2020-08-08T15:04:02.274715225264Z
+  leadAllDown: 12146.171
+  leadArrival: 12101.446
+  leadClose: 17259.171
   openClose: 17100
-  tickClose: null
+  tickClose: 17259.171
 raceDistance:
 - 50.917078 km
 - 74.065201 km
@@ -67,12 +67,12 @@ raceDistance:
 - 86.483476 km
 - 60.408156 km
 sumDistance:
+- 2525.633538 km
+- 4488.797064 km
 - null
-- null
-- null
-- null
-- null
-- null
+- 5687.546496 km
+- 4647.944710 km
+- 3958.042516 km
 leadAreaToCoef:
 - 0.00000021428933 km^-2 s^-1
 - 0.00000010127426 km^-2 s^-1
@@ -81,16 +81,1791 @@ leadAreaToCoef:
 - 0.00000007427817 km^-2 s^-1
 - 0.00000015224265 km^-2 s^-1
 leadCoefMin:
+- 1.44567208
+- 1.99125546
 - null
-- null
-- null
-- null
-- null
-- null
+- 2.38266119
+- 3.52918855
+- 1.3263914
 leadRank:
+- - - - '169'
+      - Alessandro Vallero
+    - area: 6746355.8095 km^2 s
+      coef: 1.44567208
+      frac: 1
+  - - - '109'
+      - Federico Brown Manzone
+    - area: 6768844.5186 km^2 s
+      coef: 1.45049117
+      frac: 0.9747679
+  - - - '138'
+      - Marco Littamè
+    - area: 6807265.7977 km^2 s
+      coef: 1.45872444
+      frac: 0.95097291
+  - - - '146'
+      - Joachim Oberhauser
+    - area: 6810395.6112 km^2 s
+      coef: 1.45939512
+      frac: 0.94930749
+  - - - '171'
+      - Biagio Alberto Vitale
+    - area: 6825917.9417 km^2 s
+      coef: 1.46272139
+      frac: 0.94141568
+  - - - '111'
+      - Marco Busetta
+    - area: 6870881.2571 km^2 s
+      coef: 1.47235655
+      frac: 0.9210263
+  - - - '106'
+      - Christian Biasi
+    - area: 6879476.5472 km^2 s
+      coef: 1.47419843
+      frac: 0.9174328
+  - - - '168'
+      - Marco Valentini
+    - area: 6882340.6625 km^2 s
+      coef: 1.47481218
+      frac: 0.9162527
+  - - - '153'
+      - Gianbasilio Profiti
+    - area: 6894654.1621 km^2 s
+      coef: 1.47745083
+      frac: 0.91127051
+  - - - '173'
+      - Paolo Zammarchi
+    - area: 6902328.0963 km^2 s
+      coef: 1.47909527
+      frac: 0.90823535
+  - - - '124'
+      - Paolo Facchini
+    - area: 6920561.3765 km^2 s
+      coef: 1.48300247
+      frac: 0.90121634
+  - - - '115'
+      - Alberto Castagna
+    - area: 6927142.0566 km^2 s
+      coef: 1.48441264
+      frac: 0.89874402
+  - - - '137'
+      - Slawomir Kaczynski
+    - area: 6950995.7795 km^2 s
+      coef: 1.48952424
+      frac: 0.89002244
+  - - - '161'
+      - Matteo Siragna
+    - area: 6955005.3081 km^2 s
+      coef: 1.49038344
+      frac: 0.88859056
+  - - - '157'
+      - Elio Rossi
+    - area: 6956536.1975 km^2 s
+      coef: 1.49071149
+      frac: 0.88804627
+  - - - '177'
+      - Bogdan Bialka
+    - area: 6963805.2456 km^2 s
+      coef: 1.49226917
+      frac: 0.88547966
+  - - - '165'
+      - Andrea Terenziani
+    - area: 6967413.0188 km^2 s
+      coef: 1.49304228
+      frac: 0.88421644
+  - - - '172'
+      - Alessio Voltan
+    - area: 6972693.4197 km^2 s
+      coef: 1.49417381
+      frac: 0.88237989
+  - - - '117'
+      - Gianfranco Crestani
+    - area: 6996888.7706 km^2 s
+      coef: 1.49935862
+      frac: 0.87414021
+  - - - '154'
+      - Stefano Pucci
+    - area: 7000858.0173 km^2 s
+      coef: 1.50020918
+      frac: 0.87281434
+  - - - '104'
+      - Loris Berta
+    - area: 7014179.3769 km^2 s
+      coef: 1.50306381
+      frac: 0.86841402
+  - - - '127'
+      - Richárd Gabrieli
+    - area: 7016553.2167 km^2 s
+      coef: 1.5035725
+      frac: 0.86763762
+  - - - '105'
+      - Daniele Bevilacqua
+    - area: 7022762.4963 km^2 s
+      coef: 1.50490308
+      frac: 0.86561747
+  - - - '166'
+      - Tiziano Trambaioli
+    - area: 7039308.5233 km^2 s
+      coef: 1.50844872
+      frac: 0.86030674
+  - - - '121'
+      - Giorgio Darra
+    - area: 7059896.7440 km^2 s
+      coef: 1.51286055
+      frac: 0.85383616
+  - - - '141'
+      - Albino Malli
+    - area: 7072230.1548 km^2 s
+      coef: 1.51550347
+      frac: 0.85002787
+  - - - '122'
+      - Angelo Dell’Aira
+    - area: 7084559.3108 km^2 s
+      coef: 1.51814548
+      frac: 0.84626863
+  - - - '102'
+      - Matteo Bacchiocchi
+    - area: 7129797.0310 km^2 s
+      coef: 1.52783944
+      frac: 0.83284875
+  - - - '140'
+      - Maurizio Maina
+    - area: 7131515.8721 km^2 s
+      coef: 1.52820777
+      frac: 0.8323496
+  - - - '116'
+      - Ivan Centa
+    - area: 7202067.0860 km^2 s
+      coef: 1.54332614
+      frac: 0.81245581
+  - - - '170'
+      - Paolo Veratti
+    - area: 7295510.5792 km^2 s
+      coef: 1.56335008
+      frac: 0.78762326
+  - - - '139'
+      - Alessandro Madaluni
+    - area: 7376574.2032 km^2 s
+      coef: 1.58072115
+      frac: 0.76720634
+  - - - '126'
+      - Alessandro Fuzzi
+    - area: 7403471.3465 km^2 s
+      coef: 1.58648492
+      frac: 0.76062897
+  - - - '101'
+      - Diego Ardissone
+    - area: 7462174.8418 km^2 s
+      coef: 1.59906446
+      frac: 0.74657706
+  - - - '108'
+      - Michele Boschi
+    - area: 7731974.8571 km^2 s
+      coef: 1.65687972
+      frac: 0.68634672
+  - - - '130'
+      - Andrea Garolla
+    - area: 7958507.1402 km^2 s
+      coef: 1.70542317
+      frac: 0.63996201
+  - - - '128'
+      - Michele Gaiba
+    - area: 8043121.2514 km^2 s
+      coef: 1.72355507
+      frac: 0.62339618
+  - - - '114'
+      - Mirco Casarini
+    - area: 8170078.8735 km^2 s
+      coef: 1.75076074
+      frac: 0.59920024
+  - - - '110'
+      - Klaudia Bulgakow
+    - area: 8242209.1597 km^2 s
+      coef: 1.76621749
+      frac: 0.58577487
+  - - - '135'
+      - Cristian Inverardi
+    - area: 8414725.5516 km^2 s
+      coef: 1.80318591
+      frac: 0.5545093
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - area: 8440991.9993 km^2 s
+      coef: 1.80881453
+      frac: 0.54984568
+  - - - '113'
+      - Tommaso Carlini
+    - area: 8583566.2908 km^2 s
+      coef: 1.83936668
+      frac: 0.52493864
+  - - - '129'
+      - Luciano Gallo
+    - area: 8594637.0288 km^2 s
+      coef: 1.84173902
+      frac: 0.52303212
+  - - - '145'
+      - Federico Nevastro
+    - area: 8607921.0617 km^2 s
+      coef: 1.84458565
+      frac: 0.52074946
+  - - - '164'
+      - Anca Tabara
+    - area: 8826203.5717 km^2 s
+      coef: 1.89136126
+      frac: 0.48398206
+  - - - '150'
+      - Luca Paoletti
+    - area: 9099574.5889 km^2 s
+      coef: 1.94994175
+      frac: 0.43970256
+  - - - '178'
+      - Marius Saigiu
+    - area: 9243156.2793 km^2 s
+      coef: 1.98070978
+      frac: 0.41713721
+  - - - '151'
+      - Piergiorgio Pintossi
+    - area: 9252262.7369 km^2 s
+      coef: 1.98266119
+      frac: 0.41572084
+  - - - '120'
+      - Gabriele D'Arrigo
+    - area: 9263570.3832 km^2 s
+      coef: 1.9850843
+      frac: 0.4139645
+  - - - '160'
+      - Giuseppe Simone
+    - area: 9285317.9557 km^2 s
+      coef: 1.98974458
+      frac: 0.41059395
+  - - - '142'
+      - Luca Mammucari
+    - area: 11185538.8512 km^2 s
+      coef: 2.39694164
+      frac: 0.14458052
+  - - - '167'
+      - Ionut Ulici
+    - area: 12163782.9773 km^2 s
+      coef: 2.60656892
+      frac: 2.312464e-2
+  - - - '147'
+      - Francesco Orcese
+    - area: 12304507.5151 km^2 s
+      coef: 2.63672469
+      frac: 6.27999e-3
+  - - - '174'
+      - Davide Zaltron
+    - area: 12331317.7527 km^2 s
+      coef: 2.64246984
+      frac: 3.08703e-3
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - area: 14673024.2520 km^2 s
+      coef: 3.14427255
+      frac: 0
+  - - - '148'
+      - Luciano Pagnoni
+    - area: 14819896.7141 km^2 s
+      coef: 3.17574576
+      frac: 0
+  - - - '155'
+      - Alfio Ragaglia
+    - area: 15474223.0766 km^2 s
+      coef: 3.31596092
+      frac: 0
+  - - - '149'
+      - Alessandro Palma
+    - area: 15520116.1136 km^2 s
+      coef: 3.3257953
+      frac: 0
+  - - - '144'
+      - Riccardo Marchetto
+    - area: 15582115.1131 km^2 s
+      coef: 3.33908103
+      frac: 0
+  - - - '131'
+      - Marco Gentilini
+    - area: 16730737.0048 km^2 s
+      coef: 3.58521844
+      frac: 0
+  - - - '152'
+      - Alessandro Pompei
+    - area: 17214197.3550 km^2 s
+      coef: 3.68881884
+      frac: 0
+  - - - '107'
+      - Gabriele Bonafini
+    - area: 18347317.3846 km^2 s
+      coef: 3.93163437
+      frac: 0
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - area: 19794602.8586 km^2 s
+      coef: 4.24177221
+      frac: 0
+  - - - '133'
+      - Alessio Guidi
+    - area: 20023311.2247 km^2 s
+      coef: 4.29078197
+      frac: 0
+  - - - '118'
+      - Igor D'Agostino
+    - area: 20321826.3934 km^2 s
+      coef: 4.35475059
+      frac: 0
+  - - - '143'
+      - Valerio Marchetti
+    - area: 21053017.8129 km^2 s
+      coef: 4.51143711
+      frac: 0
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - area: 21271427.6359 km^2 s
+      coef: 4.55824
+      frac: 0
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - area: 21604328.5905 km^2 s
+      coef: 4.62957713
+      frac: 0
+  - - - '158'
+      - Antonio Ruta
+    - area: 21757916.3548 km^2 s
+      coef: 4.66248935
+      frac: 0
+  - - - '156'
+      - Massimo Rapari
+    - area: 23704000.6691 km^2 s
+      coef: 5.07951445
+      frac: 0
+  - - - '123'
+      - Sergio Di Fazio
+    - area: 26354647.6100 km^2 s
+      coef: 5.64751981
+      frac: 0
+- - - - '138'
+      - Marco Littamè
+    - area: 19662009.2960 km^2 s
+      coef: 1.99125546
+      frac: 1
+  - - - '106'
+      - Christian Biasi
+    - area: 19688167.1083 km^2 s
+      coef: 1.99390458
+      frac: 0.98478198
+  - - - '146'
+      - Joachim Oberhauser
+    - area: 19702804.1196 km^2 s
+      coef: 1.99538693
+      frac: 0.97953428
+  - - - '109'
+      - Federico Brown Manzone
+    - area: 19740138.8049 km^2 s
+      coef: 1.99916797
+      frac: 0.96843781
+  - - - '117'
+      - Gianfranco Crestani
+    - area: 19744724.2992 km^2 s
+      coef: 1.99963236
+      frac: 0.96721464
+  - - - '155'
+      - Alfio Ragaglia
+    - area: 19755051.0311 km^2 s
+      coef: 2.0006782
+      frac: 0.96453971
+  - - - '124'
+      - Paolo Facchini
+    - area: 19762628.5814 km^2 s
+      coef: 2.00144561
+      frac: 0.96263963
+  - - - '175'
+      - Mariusz Wisniowski
+    - area: 19771820.7976 km^2 s
+      coef: 2.00237654
+      frac: 0.96039753
+  - - - '159'
+      - Krzysztof Schmidt
+    - area: 19780424.4627 km^2 s
+      coef: 2.00324787
+      frac: 0.95835509
+  - - - '172'
+      - Alessio Voltan
+    - area: 19875471.0119 km^2 s
+      coef: 2.01287364
+      frac: 0.9383163
+  - - - '137'
+      - Slawomir Kaczynski
+    - area: 19968260.0774 km^2 s
+      coef: 2.02227079
+      frac: 0.92153514
+  - - - '108'
+      - Michele Boschi
+    - area: 19979342.9008 km^2 s
+      coef: 2.02339319
+      frac: 0.91965335
+  - - - '111'
+      - Marco Busetta
+    - area: 20102927.7969 km^2 s
+      coef: 2.03590916
+      frac: 0.89995487
+  - - - '180'
+      - Michal Gierlach
+    - area: 20108389.3904 km^2 s
+      coef: 2.03646228
+      frac: 0.89913041
+  - - - '132'
+      - Jacek Górski
+    - area: 20130571.3300 km^2 s
+      coef: 2.03870874
+      frac: 0.89581582
+  - - - '168'
+      - Marco Valentini
+    - area: 20266554.8620 km^2 s
+      coef: 2.05248037
+      frac: 0.87652574
+  - - - '142'
+      - Luca Mammucari
+    - area: 20291260.2754 km^2 s
+      coef: 2.05498239
+      frac: 0.87318431
+  - - - '173'
+      - Paolo Zammarchi
+    - area: 20348084.3973 km^2 s
+      coef: 2.06073721
+      frac: 0.86566016
+  - - - '154'
+      - Stefano Pucci
+    - area: 20357492.2696 km^2 s
+      coef: 2.06168999
+      frac: 0.86443485
+  - - - '157'
+      - Elio Rossi
+    - area: 20412322.1518 km^2 s
+      coef: 2.06724284
+      frac: 0.85740029
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - area: 20500075.3064 km^2 s
+      coef: 2.07612998
+      frac: 0.84648792
+  - - - '127'
+      - Richárd Gabrieli
+    - area: 20581174.0142 km^2 s
+      coef: 2.08434319
+      frac: 0.83673768
+  - - - '177'
+      - Bogdan Bialka
+    - area: 20654779.2359 km^2 s
+      coef: 2.09179751
+      frac: 0.8281342
+  - - - '115'
+      - Alberto Castagna
+    - area: 20695220.0979 km^2 s
+      coef: 2.09589312
+      frac: 0.82349798
+  - - - '126'
+      - Alessandro Fuzzi
+    - area: 20813567.7629 km^2 s
+      coef: 2.1078787
+      frac: 0.81026488
+  - - - '150'
+      - Luca Paoletti
+    - area: 20831439.5882 km^2 s
+      coef: 2.10968865
+      frac: 0.80830684
+  - - - '169'
+      - Alessandro Vallero
+    - area: 20893451.4095 km^2 s
+      coef: 2.11596885
+      frac: 0.8015887
+  - - - '122'
+      - Angelo Dell’Aira
+    - area: 21307864.9506 km^2 s
+      coef: 2.15793828
+      frac: 0.75925817
+  - - - '113'
+      - Tommaso Carlini
+    - area: 21741159.0040 km^2 s
+      coef: 2.20181981
+      frac: 0.71867117
+  - - - '171'
+      - Biagio Alberto Vitale
+    - area: 22316778.8013 km^2 s
+      coef: 2.26011528
+      frac: 0.66888798
+  - - - '161'
+      - Matteo Siragna
+    - area: 22349870.8217 km^2 s
+      coef: 2.26346665
+      frac: 0.6661421
+  - - - '170'
+      - Paolo Veratti
+    - area: 22416940.8140 km^2 s
+      coef: 2.27025912
+      frac: 0.66061113
+  - - - '105'
+      - Daniele Bevilacqua
+    - area: 22611415.6858 km^2 s
+      coef: 2.28995442
+      frac: 0.64482139
+  - - - '156'
+      - Massimo Rapari
+    - area: 22678018.1245 km^2 s
+      coef: 2.29669953
+      frac: 0.6394943
+  - - - '166'
+      - Tiziano Trambaioli
+    - area: 22761022.7385 km^2 s
+      coef: 2.30510576
+      frac: 0.63290987
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - area: 22869502.4524 km^2 s
+      coef: 2.31609196
+      frac: 0.62439253
+  - - - '145'
+      - Federico Nevastro
+    - area: 22977073.5995 km^2 s
+      coef: 2.32698615
+      frac: 0.61604084
+  - - - '129'
+      - Luciano Gallo
+    - area: 23081148.3257 km^2 s
+      coef: 2.33752624
+      frac: 0.60804618
+  - - - '151'
+      - Piergiorgio Pintossi
+    - area: 23224056.8174 km^2 s
+      coef: 2.35199919
+      frac: 0.59719931
+  - - - '153'
+      - Gianbasilio Profiti
+    - area: 23261281.5804 km^2 s
+      coef: 2.3557691
+      frac: 0.5943979
+  - - - '116'
+      - Ivan Centa
+    - area: 23273292.2607 km^2 s
+      coef: 2.35698548
+      frac: 0.59349608
+  - - - '158'
+      - Antonio Ruta
+    - area: 23316269.0656 km^2 s
+      coef: 2.36133792
+      frac: 0.59027732
+  - - - '164'
+      - Anca Tabara
+    - area: 23337161.6651 km^2 s
+      coef: 2.3634538
+      frac: 0.58871712
+  - - - '178'
+      - Marius Saigiu
+    - area: 24421882.0031 km^2 s
+      coef: 2.47330806
+      frac: 0.51132444
+  - - - '174'
+      - Davide Zaltron
+    - area: 24457693.6278 km^2 s
+      coef: 2.47693485
+      frac: 0.50887642
+  - - - '148'
+      - Luciano Pagnoni
+    - area: 24866335.2146 km^2 s
+      coef: 2.51831973
+      frac: 0.48135915
+  - - - '102'
+      - Matteo Bacchiocchi
+    - area: 25129670.5143 km^2 s
+      coef: 2.54498881
+      frac: 0.46400822
+  - - - '139'
+      - Alessandro Madaluni
+    - area: 26419177.6259 km^2 s
+      coef: 2.67558269
+      frac: 0.38274177
+  - - - '101'
+      - Diego Ardissone
+    - area: 26484645.6484 km^2 s
+      coef: 2.68221292
+      frac: 0.37876124
+  - - - '121'
+      - Giorgio Darra
+    - area: 26728938.2784 km^2 s
+      coef: 2.70695347
+      frac: 0.36401889
+  - - - '135'
+      - Cristian Inverardi
+    - area: 26966412.7324 km^2 s
+      coef: 2.73100352
+      frac: 0.34985001
+  - - - '141'
+      - Albino Malli
+    - area: 28347550.7402 km^2 s
+      coef: 2.87087726
+      frac: 0.27028211
+  - - - '131'
+      - Marco Gentilini
+    - area: 28395422.5526 km^2 s
+      coef: 2.87572544
+      frac: 0.26760326
+  - - - '143'
+      - Valerio Marchetti
+    - area: 29300884.6570 km^2 s
+      coef: 2.96742544
+      frac: 0.21781772
+  - - - '165'
+      - Andrea Terenziani
+    - area: 29319646.6559 km^2 s
+      coef: 2.96932555
+      frac: 0.21680304
+  - - - '149'
+      - Alessandro Palma
+    - area: 29956263.5127 km^2 s
+      coef: 3.03379845
+      frac: 0.1827524
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - area: 31107273.4110 km^2 s
+      coef: 3.15036613
+      frac: 0.1229165
+  - - - '130'
+      - Andrea Garolla
+    - area: 31209035.0419 km^2 s
+      coef: 3.16067196
+      frac: 0.11772532
+  - - - '147'
+      - Francesco Orcese
+    - area: 31468599.3533 km^2 s
+      coef: 3.18695915
+      frac: 0.10455266
+  - - - '133'
+      - Alessio Guidi
+    - area: 33378470.2182 km^2 s
+      coef: 3.38037991
+      frac: 1.041803e-2
+  - - - '152'
+      - Alessandro Pompei
+    - area: 35155252.9725 km^2 s
+      coef: 3.56032227
+      frac: 0
+  - - - '167'
+      - Ionut Ulici
+    - area: 35301852.9129 km^2 s
+      coef: 3.57516907
+      frac: 0
+  - - - '107'
+      - Gabriele Bonafini
+    - area: 36249825.2267 km^2 s
+      coef: 3.67117427
+      frac: 0
+  - - - '176'
+      - Francesco Fontanesi
+    - area: 37158208.9790 km^2 s
+      coef: 3.76317016
+      frac: 0
+  - - - '144'
+      - Riccardo Marchetto
+    - area: 37235390.6742 km^2 s
+      coef: 3.77098668
+      frac: 0
+  - - - '160'
+      - Giuseppe Simone
+    - area: 39135456.0685 km^2 s
+      coef: 3.9634144
+      frac: 0
+  - - - '125'
+      - Grzegorz Fiema
+    - area: 55885626.5180 km^2 s
+      coef: 5.65977553
+      frac: 0
+  - - - '110'
+      - Klaudia Bulgakow
+    - area: 63941845.3793 km^2 s
+      coef: 6.47566315
+      frac: 0
+  - - - '123'
+      - Sergio Di Fazio
+    - area: 74882864.6037 km^2 s
+      coef: 7.58370678
+      frac: 0
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - area: 79055665.8745 km^2 s
+      coef: 8.00630415
+      frac: 0
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '157'
+      - Elio Rossi
+    - area: 44513098.4422 km^2 s
+      coef: 2.38266119
+      frac: 1
+  - - - '146'
+      - Joachim Oberhauser
+    - area: 44531949.9278 km^2 s
+      coef: 2.38367026
+      frac: 0.99246773
+  - - - '111'
+      - Marco Busetta
+    - area: 44546413.6384 km^2 s
+      coef: 2.38444446
+      frac: 0.98898992
+  - - - '138'
+      - Marco Littamè
+    - area: 44551063.7943 km^2 s
+      coef: 2.38469337
+      frac: 0.98798786
+  - - - '159'
+      - Krzysztof Schmidt
+    - area: 44694069.1344 km^2 s
+      coef: 2.39234805
+      frac: 0.96597738
+  - - - '155'
+      - Alfio Ragaglia
+    - area: 44717130.2210 km^2 s
+      coef: 2.39358244
+      frac: 0.9631452
+  - - - '171'
+      - Biagio Alberto Vitale
+    - area: 44721060.0424 km^2 s
+      coef: 2.3937928
+      frac: 0.96267347
+  - - - '132'
+      - Jacek Górski
+    - area: 44749952.0376 km^2 s
+      coef: 2.3953393
+      frac: 0.95929177
+  - - - '106'
+      - Christian Biasi
+    - area: 44797849.2263 km^2 s
+      coef: 2.3979031
+      frac: 0.95397376
+  - - - '115'
+      - Alberto Castagna
+    - area: 44852227.7522 km^2 s
+      coef: 2.40081383
+      frac: 0.94828628
+  - - - '153'
+      - Gianbasilio Profiti
+    - area: 44901158.3088 km^2 s
+      coef: 2.40343295
+      frac: 0.94342455
+  - - - '124'
+      - Paolo Facchini
+    - area: 44903246.3564 km^2 s
+      coef: 2.40354472
+      frac: 0.94322178
+  - - - '172'
+      - Alessio Voltan
+    - area: 44915996.0421 km^2 s
+      coef: 2.40422717
+      frac: 0.94199145
+  - - - '108'
+      - Michele Boschi
+    - area: 45271563.5008 km^2 s
+      coef: 2.4232597
+      frac: 0.91155921
+  - - - '168'
+      - Marco Valentini
+    - area: 45347743.0950 km^2 s
+      coef: 2.42733738
+      frac: 0.90573222
+  - - - '180'
+      - Michal Gierlach
+    - area: 45373743.9235 km^2 s
+      coef: 2.42872913
+      frac: 0.90378449
+  - - - '109'
+      - Federico Brown Manzone
+    - area: 45489247.6796 km^2 s
+      coef: 2.43491172
+      frac: 0.89535792
+  - - - '145'
+      - Federico Nevastro
+    - area: 45826135.7623 km^2 s
+      coef: 2.4529444
+      frac: 0.87248921
+  - - - '169'
+      - Alessandro Vallero
+    - area: 46021942.9499 km^2 s
+      coef: 2.46342541
+      frac: 0.86010832
+  - - - '166'
+      - Tiziano Trambaioli
+    - area: 46405217.1666 km^2 s
+      coef: 2.483941
+      frac: 0.83732238
+  - - - '154'
+      - Stefano Pucci
+    - area: 46414789.8666 km^2 s
+      coef: 2.4844534
+      frac: 0.83677416
+  - - - '129'
+      - Luciano Gallo
+    - area: 46531651.9055 km^2 s
+      coef: 2.49070869
+      frac: 0.83015385
+  - - - '161'
+      - Matteo Siragna
+    - area: 46962736.7144 km^2 s
+      coef: 2.51378345
+      frac: 0.80676008
+  - - - '137'
+      - Slawomir Kaczynski
+    - area: 47001075.9663 km^2 s
+      coef: 2.51583565
+      frac: 0.80474904
+  - - - '105'
+      - Daniele Bevilacqua
+    - area: 47002820.6760 km^2 s
+      coef: 2.51592904
+      frac: 0.80465777
+  - - - '170'
+      - Paolo Veratti
+    - area: 47040348.5570 km^2 s
+      coef: 2.5179378
+      frac: 0.80269972
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - area: 47056683.9591 km^2 s
+      coef: 2.51881219
+      frac: 0.80185044
+  - - - '126'
+      - Alessandro Fuzzi
+    - area: 47567005.8158 km^2 s
+      coef: 2.54612828
+      frac: 0.77616253
+  - - - '158'
+      - Antonio Ruta
+    - area: 47666969.6574 km^2 s
+      coef: 2.55147907
+      frac: 0.7713042
+  - - - '173'
+      - Paolo Zammarchi
+    - area: 48035833.8619 km^2 s
+      coef: 2.57122333
+      frac: 0.7538033
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - area: 48104186.2295 km^2 s
+      coef: 2.57488204
+      frac: 0.75062884
+  - - - '164'
+      - Anca Tabara
+    - area: 48290003.3772 km^2 s
+      coef: 2.58482831
+      frac: 0.74209907
+  - - - '142'
+      - Luca Mammucari
+    - area: 48802276.5737 km^2 s
+      coef: 2.61224886
+      frac: 0.71927682
+  - - - '104'
+      - Loris Berta
+    - area: 49436634.0402 km^2 s
+      coef: 2.64620423
+      frac: 0.69223899
+  - - - '141'
+      - Albino Malli
+    - area: 49891922.9142 km^2 s
+      coef: 2.67057457
+      frac: 0.67354715
+  - - - '130'
+      - Andrea Garolla
+    - area: 49960468.1513 km^2 s
+      coef: 2.6742436
+      frac: 0.67077957
+  - - - '177'
+      - Bogdan Bialka
+    - area: 50032497.2600 km^2 s
+      coef: 2.67809912
+      frac: 0.6678838
+  - - - '140'
+      - Maurizio Maina
+    - area: 50534733.4839 km^2 s
+      coef: 2.70498241
+      frac: 0.64803039
+  - - - '121'
+      - Giorgio Darra
+    - area: 51477046.3743 km^2 s
+      coef: 2.75542178
+      frac: 0.61220766
+  - - - '127'
+      - Richárd Gabrieli
+    - area: 51726964.0212 km^2 s
+      coef: 2.76879917
+      frac: 0.6029844
+  - - - '120'
+      - Gabriele D'Arrigo
+    - area: 52761391.3146 km^2 s
+      coef: 2.82416916
+      frac: 0.56588486
+  - - - '135'
+      - Cristian Inverardi
+    - area: 53742332.9813 km^2 s
+      coef: 2.87667621
+      frac: 0.53211477
+  - - - '110'
+      - Klaudia Bulgakow
+    - area: 54326251.8952 km^2 s
+      coef: 2.90793175
+      frac: 0.51258233
+  - - - '133'
+      - Alessio Guidi
+    - area: 54364878.6685 km^2 s
+      coef: 2.90999933
+      frac: 0.51130411
+  - - - '113'
+      - Tommaso Carlini
+    - area: 54397507.8195 km^2 s
+      coef: 2.91174588
+      frac: 0.51022566
+  - - - '156'
+      - Massimo Rapari
+    - area: 55468020.6396 km^2 s
+      coef: 2.96904743
+      frac: 0.47547232
+  - - - '165'
+      - Andrea Terenziani
+    - area: 55503811.3945 km^2 s
+      coef: 2.9709632
+      frac: 0.47433049
+  - - - '102'
+      - Matteo Bacchiocchi
+    - area: 55752297.8666 km^2 s
+      coef: 2.98426399
+      frac: 0.46643689
+  - - - '160'
+      - Giuseppe Simone
+    - area: 57985041.4906 km^2 s
+      coef: 3.10377649
+      frac: 0.39792716
+  - - - '139'
+      - Alessandro Madaluni
+    - area: 59597358.7590 km^2 s
+      coef: 3.1900793
+      frac: 0.35080043
+  - - - '122'
+      - Angelo Dell’Aira
+    - area: 60157927.7727 km^2 s
+      coef: 3.22008499
+      frac: 0.33481451
+  - - - '114'
+      - Mirco Casarini
+    - area: 60366414.7549 km^2 s
+      coef: 3.23124471
+      frac: 0.32891794
+  - - - '151'
+      - Piergiorgio Pintossi
+    - area: 64057826.9472 km^2 s
+      coef: 3.42883564
+      frac: 0.2284182
+  - - - '148'
+      - Luciano Pagnoni
+    - area: 66778657.9590 km^2 s
+      coef: 3.57447409
+      frac: 0.1583763
+  - - - '128'
+      - Michele Gaiba
+    - area: 71333918.9103 km^2 s
+      coef: 3.81830442
+      frac: 4.718134e-2
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - area: 76541468.8960 km^2 s
+      coef: 4.09704995
+      frac: 0
+  - - - '107'
+      - Gabriele Bonafini
+    - area: 76765395.8622 km^2 s
+      coef: 4.10903613
+      frac: 0
+  - - - '176'
+      - Francesco Fontanesi
+    - area: 76888228.4402 km^2 s
+      coef: 4.11561101
+      frac: 0
+  - - - '144'
+      - Riccardo Marchetto
+    - area: 76935444.7656 km^2 s
+      coef: 4.11813837
+      frac: 0
+  - - - '152'
+      - Alessandro Pompei
+    - area: 76940940.9162 km^2 s
+      coef: 4.11843257
+      frac: 0
+  - - - '143'
+      - Valerio Marchetti
+    - area: 78303395.5617 km^2 s
+      coef: 4.19136094
+      frac: 0
+  - - - '149'
+      - Alessandro Palma
+    - area: 78405237.1375 km^2 s
+      coef: 4.19681223
+      frac: 0
+  - - - '123'
+      - Sergio Di Fazio
+    - area: 79539578.3971 km^2 s
+      coef: 4.25753033
+      frac: 0
+  - - - '125'
+      - Grzegorz Fiema
+    - area: 85624192.8647 km^2 s
+      coef: 4.58322267
+      frac: 0
+  - - - '147'
+      - Francesco Orcese
+    - area: 89965857.2787 km^2 s
+      coef: 4.81561977
+      frac: 0
+  - - - '174'
+      - Davide Zaltron
+    - area: 92470599.0103 km^2 s
+      coef: 4.94969157
+      frac: 0
+  - - - '117'
+      - Gianfranco Crestani
+    - area: 93039237.1343 km^2 s
+      coef: 4.98012917
+      frac: 0
+  - - - '167'
+      - Ionut Ulici
+    - area: 96409259.3142 km^2 s
+      coef: 5.16051699
+      frac: 0
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - area: 137564842.6878 km^2 s
+      coef: 7.36345983
+      frac: 0
+  - - - '116'
+      - Ivan Centa
+    - area: 169812903.3827 km^2 s
+      coef: 9.08960799
+      frac: 0
+- - - - '138'
+      - Marco Littamè
+    - area: 47513129.8572 km^2 s
+      coef: 3.52918855
+      frac: 1
+  - - - '177'
+      - Bogdan Bialka
+    - area: 48455450.0542 km^2 s
+      coef: 3.59918237
+      frac: 0.88844693
+  - - - '106'
+      - Christian Biasi
+    - area: 48637263.7918 km^2 s
+      coef: 3.61268716
+      frac: 0.87452384
+  - - - '172'
+      - Alessio Voltan
+    - area: 48775928.2061 km^2 s
+      coef: 3.6229869
+      frac: 0.86440661
+  - - - '159'
+      - Krzysztof Schmidt
+    - area: 48793307.7386 km^2 s
+      coef: 3.62427782
+      frac: 0.86316535
+  - - - '108'
+      - Michele Boschi
+    - area: 48894462.4958 km^2 s
+      coef: 3.63179141
+      frac: 0.85604899
+  - - - '175'
+      - Mariusz Wisniowski
+    - area: 48931618.5903 km^2 s
+      coef: 3.6345513
+      frac: 0.85347903
+  - - - '157'
+      - Elio Rossi
+    - area: 49096641.2526 km^2 s
+      coef: 3.64680888
+      frac: 0.84232482
+  - - - '180'
+      - Michal Gierlach
+    - area: 49130713.2194 km^2 s
+      coef: 3.64933969
+      frac: 0.84007109
+  - - - '124'
+      - Paolo Facchini
+    - area: 49182916.5525 km^2 s
+      coef: 3.65321726
+      frac: 0.83664848
+  - - - '173'
+      - Paolo Zammarchi
+    - area: 49193630.5010 km^2 s
+      coef: 3.65401307
+      frac: 0.83595047
+  - - - '116'
+      - Ivan Centa
+    - area: 49297002.0425 km^2 s
+      coef: 3.66169132
+      frac: 0.82929024
+  - - - '127'
+      - Richárd Gabrieli
+    - area: 49322887.4981 km^2 s
+      coef: 3.66361404
+      frac: 0.82764278
+  - - - '166'
+      - Tiziano Trambaioli
+    - area: 49343940.4127 km^2 s
+      coef: 3.66517781
+      frac: 0.82630867
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - area: 49369549.6955 km^2 s
+      coef: 3.66708002
+      frac: 0.8246927
+  - - - '115'
+      - Alberto Castagna
+    - area: 49562393.2322 km^2 s
+      coef: 3.68140409
+      frac: 0.81275321
+  - - - '111'
+      - Marco Busetta
+    - area: 49730711.9330 km^2 s
+      coef: 3.6939065
+      frac: 0.80263552
+  - - - '137'
+      - Slawomir Kaczynski
+    - area: 49884230.1581 km^2 s
+      coef: 3.70530955
+      frac: 0.79362877
+  - - - '164'
+      - Anca Tabara
+    - area: 50246544.1347 km^2 s
+      coef: 3.73222157
+      frac: 0.77310783
+  - - - '105'
+      - Daniele Bevilacqua
+    - area: 50689710.9736 km^2 s
+      coef: 3.76513919
+      frac: 0.74920291
+  - - - '122'
+      - Angelo Dell’Aira
+    - area: 50940622.9559 km^2 s
+      coef: 3.78377648
+      frac: 0.73616428
+  - - - '109'
+      - Federico Brown Manzone
+    - area: 51416425.4890 km^2 s
+      coef: 3.81911822
+      frac: 0.71227993
+  - - - '170'
+      - Paolo Veratti
+    - area: 51943026.4508 km^2 s
+      coef: 3.85823318
+      frac: 0.68695153
+  - - - '171'
+      - Biagio Alberto Vitale
+    - area: 51946481.9604 km^2 s
+      coef: 3.85848985
+      frac: 0.68678876
+  - - - '113'
+      - Tommaso Carlini
+    - area: 52195915.1441 km^2 s
+      coef: 3.87701729
+      frac: 0.67514814
+  - - - '141'
+      - Albino Malli
+    - area: 53328675.4727 km^2 s
+      coef: 3.96115666
+      frac: 0.62467326
+  - - - '117'
+      - Gianfranco Crestani
+    - area: 53409003.1662 km^2 s
+      coef: 3.96712325
+      frac: 0.62122502
+  - - - '140'
+      - Maurizio Maina
+    - area: 53551259.4295 km^2 s
+      coef: 3.97768979
+      frac: 0.61515651
+  - - - '154'
+      - Stefano Pucci
+    - area: 53976465.6284 km^2 s
+      coef: 4.00927333
+      frac: 0.59729501
+  - - - '126'
+      - Alessandro Fuzzi
+    - area: 54474362.4304 km^2 s
+      coef: 4.0462562
+      frac: 0.57687051
+  - - - '139'
+      - Alessandro Madaluni
+    - area: 54822592.2968 km^2 s
+      coef: 4.07212207
+      frac: 0.56287449
+  - - - '129'
+      - Luciano Gallo
+    - area: 55691661.4264 km^2 s
+      coef: 4.13667494
+      frac: 0.52887869
+  - - - '121'
+      - Giorgio Darra
+    - area: 55761046.5845 km^2 s
+      coef: 4.14182875
+      frac: 0.52621784
+  - - - '155'
+      - Alfio Ragaglia
+    - area: 55875894.0822 km^2 s
+      coef: 4.15035941
+      frac: 0.52182989
+  - - - '146'
+      - Joachim Oberhauser
+    - area: 56065352.3442 km^2 s
+      coef: 4.16443202
+      frac: 0.51463493
+  - - - '142'
+      - Luca Mammucari
+    - area: 56140466.0917 km^2 s
+      coef: 4.17001133
+      frac: 0.51179711
+  - - - '168'
+      - Marco Valentini
+    - area: 56459075.4953 km^2 s
+      coef: 4.19367706
+      frac: 0.49985028
+  - - - '169'
+      - Alessandro Vallero
+    - area: 56482731.8423 km^2 s
+      coef: 4.19543421
+      frac: 0.49896895
+  - - - '153'
+      - Gianbasilio Profiti
+    - area: 56576199.8903 km^2 s
+      coef: 4.20237684
+      frac: 0.49549429
+  - - - '104'
+      - Loris Berta
+    - area: 57286828.7334 km^2 s
+      coef: 4.25516106
+      frac: 0.46945548
+  - - - '158'
+      - Antonio Ruta
+    - area: 57454619.9227 km^2 s
+      coef: 4.26762428
+      frac: 0.4634006
+  - - - '145'
+      - Federico Nevastro
+    - area: 57560474.6122 km^2 s
+      coef: 4.27548697
+      frac: 0.45959827
+  - - - '110'
+      - Klaudia Bulgakow
+    - area: 57648509.2943 km^2 s
+      coef: 4.28202603
+      frac: 0.4564462
+  - - - '133'
+      - Alessio Guidi
+    - area: 57660870.4917 km^2 s
+      coef: 4.2829442
+      frac: 0.45600434
+  - - - '150'
+      - Luca Paoletti
+    - area: 58507768.4838 km^2 s
+      coef: 4.34585023
+      frac: 0.42614368
+  - - - '128'
+      - Michele Gaiba
+    - area: 58536450.0428 km^2 s
+      coef: 4.34798065
+      frac: 0.42514611
+  - - - '120'
+      - Gabriele D'Arrigo
+    - area: 59176765.6552 km^2 s
+      coef: 4.39554212
+      frac: 0.40309508
+  - - - '165'
+      - Andrea Terenziani
+    - area: 60671634.4225 km^2 s
+      coef: 4.50657825
+      frac: 0.35312522
+  - - - '178'
+      - Marius Saigiu
+    - area: 64081885.5454 km^2 s
+      coef: 4.75988547
+      frac: 0.24570287
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - area: 64797696.5417 km^2 s
+      coef: 4.81305461
+      frac: 0.22413137
+  - - - '132'
+      - Jacek Górski
+    - area: 64865635.6327 km^2 s
+      coef: 4.818101
+      frac: 0.2220996
+  - - - '144'
+      - Riccardo Marchetto
+    - area: 65649814.4560 km^2 s
+      coef: 4.87634837
+      frac: 0.19883655
+  - - - '160'
+      - Giuseppe Simone
+    - area: 68093848.8913 km^2 s
+      coef: 5.05788679
+      frac: 0.12838862
+  - - - '143'
+      - Valerio Marchetti
+    - area: 69275739.5536 km^2 s
+      coef: 5.14567547
+      frac: 9.533072e-2
+  - - - '125'
+      - Grzegorz Fiema
+    - area: 69729867.7162 km^2 s
+      coef: 5.17940728
+      frac: 8.278872e-2
+  - - - '147'
+      - Francesco Orcese
+    - area: 69981763.0157 km^2 s
+      coef: 5.1981176
+      frac: 7.586881e-2
+  - - - '152'
+      - Alessandro Pompei
+    - area: 70718335.7180 km^2 s
+      coef: 5.25282888
+      frac: 5.578084e-2
+  - - - '107'
+      - Gabriele Bonafini
+    - area: 79223949.7027 km^2 s
+      coef: 5.88461036
+      frac: 0
+  - - - '151'
+      - Piergiorgio Pintossi
+    - area: 79381759.4863 km^2 s
+      coef: 5.89633218
+      frac: 0
+  - - - '167'
+      - Ionut Ulici
+    - area: 82051354.5547 km^2 s
+      coef: 6.09462483
+      frac: 0
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - area: 83123117.0914 km^2 s
+      coef: 6.17423339
+      frac: 0
+  - - - '130'
+      - Andrea Garolla
+    - area: 96878981.0755 km^2 s
+      coef: 7.19599386
+      frac: 0
+  - - - '161'
+      - Matteo Siragna
+    - area: 97222354.6602 km^2 s
+      coef: 7.22149902
+      frac: 0
+  - - - '102'
+      - Matteo Bacchiocchi
+    - area: 97360663.4555 km^2 s
+      coef: 7.23177234
+      frac: 0
+  - - - '135'
+      - Cristian Inverardi
+    - area: 100564082.2268 km^2 s
+      coef: 7.46971644
+      frac: 0
+  - - - '148'
+      - Luciano Pagnoni
+    - area: 103011074.1983 km^2 s
+      coef: 7.65147454
+      frac: 0
+  - - - '118'
+      - Igor D'Agostino
+    - area: 125251972.1619 km^2 s
+      coef: 9.30348784
+      frac: 0
+  - - - '131'
+      - Marco Gentilini
+    - area: 134575784.9241 km^2 s
+      coef: 9.99604363
+      frac: 0
+  - - - '176'
+      - Francesco Fontanesi
+    - area: 137695207.1658 km^2 s
+      coef: 10.22774862
+      frac: 0
+  - - - '174'
+      - Davide Zaltron
+    - area: 139516899.0444 km^2 s
+      coef: 10.36306056
+      frac: 0
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - area: 142328572.0105 km^2 s
+      coef: 10.5719065
+      frac: 0
+- - - - '119'
+      - Maria Antonietta D'Angela
+    - area: 8712350.9518 km^2 s
+      coef: 1.3263914
+      frac: 1
+  - - - '108'
+      - Michele Boschi
+    - area: 9171824.5335 km^2 s
+      coef: 1.39634288
+      frac: 0.8454838
+  - - - '111'
+      - Marco Busetta
+    - area: 9240679.5213 km^2 s
+      coef: 1.40682555
+      frac: 0.8304089
+  - - - '159'
+      - Krzysztof Schmidt
+    - area: 9247475.0310 km^2 s
+      coef: 1.40786011
+      frac: 0.82895778
+  - - - '146'
+      - Joachim Oberhauser
+    - area: 9258226.4127 km^2 s
+      coef: 1.40949693
+      frac: 0.8266744
+  - - - '171'
+      - Biagio Alberto Vitale
+    - area: 9277953.9130 km^2 s
+      coef: 1.4125003
+      frac: 0.82252326
+  - - - '155'
+      - Alfio Ragaglia
+    - area: 9280567.9766 km^2 s
+      coef: 1.41289827
+      frac: 0.82197685
+  - - - '141'
+      - Albino Malli
+    - area: 9306156.4640 km^2 s
+      coef: 1.41679393
+      frac: 0.81667157
+  - - - '180'
+      - Michal Gierlach
+    - area: 9326137.2392 km^2 s
+      coef: 1.41983586
+      frac: 0.81258179
+  - - - '177'
+      - Bogdan Bialka
+    - area: 9332154.5052 km^2 s
+      coef: 1.42075194
+      frac: 0.81135888
+  - - - '106'
+      - Christian Biasi
+    - area: 9373851.7693 km^2 s
+      coef: 1.42710004
+      frac: 0.80299046
+  - - - '116'
+      - Ivan Centa
+    - area: 9435119.7000 km^2 s
+      coef: 1.43642763
+      frac: 0.79100628
+  - - - '154'
+      - Stefano Pucci
+    - area: 9454928.1476 km^2 s
+      coef: 1.43944332
+      frac: 0.78720501
+  - - - '148'
+      - Luciano Pagnoni
+    - area: 9459114.7171 km^2 s
+      coef: 1.4400807
+      frac: 0.78640595
+  - - - '104'
+      - Loris Berta
+    - area: 9549446.4004 km^2 s
+      coef: 1.45383303
+      frac: 0.76951094
+  - - - '145'
+      - Federico Nevastro
+    - area: 9578882.5955 km^2 s
+      coef: 1.45831448
+      frac: 0.76413874
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - area: 9589983.2117 km^2 s
+      coef: 1.46000447
+      frac: 0.7621287
+  - - - '165'
+      - Andrea Terenziani
+    - area: 9602209.2537 km^2 s
+      coef: 1.46186579
+      frac: 0.75992465
+  - - - '156'
+      - Massimo Rapari
+    - area: 9636737.9640 km^2 s
+      coef: 1.46712253
+      frac: 0.75375379
+  - - - '173'
+      - Paolo Zammarchi
+    - area: 9667257.3021 km^2 s
+      coef: 1.47176888
+      frac: 0.74836318
+  - - - '130'
+      - Andrea Garolla
+    - area: 9707096.7862 km^2 s
+      coef: 1.47783415
+      frac: 0.74141197
+  - - - '105'
+      - Daniele Bevilacqua
+    - area: 9710826.3136 km^2 s
+      coef: 1.47840194
+      frac: 0.74076604
+  - - - '164'
+      - Anca Tabara
+    - area: 9712752.3452 km^2 s
+      coef: 1.47869516
+      frac: 0.74043278
+  - - - '170'
+      - Paolo Veratti
+    - area: 9715247.1215 km^2 s
+      coef: 1.47907498
+      frac: 0.74000142
+  - - - '126'
+      - Alessandro Fuzzi
+    - area: 9804619.7328 km^2 s
+      coef: 1.4926813
+      frac: 0.72477577
+  - - - '139'
+      - Alessandro Madaluni
+    - area: 9805881.1327 km^2 s
+      coef: 1.49287334
+      frac: 0.72456391
+  - - - '169'
+      - Alessandro Vallero
+    - area: 9869431.1851 km^2 s
+      coef: 1.50254837
+      frac: 0.71399345
+  - - - '132'
+      - Jacek Górski
+    - area: 9958057.7328 km^2 s
+      coef: 1.51604111
+      frac: 0.69956937
+  - - - '138'
+      - Marco Littamè
+    - area: 9966249.9860 km^2 s
+      coef: 1.51728832
+      frac: 0.69825364
+  - - - '172'
+      - Alessio Voltan
+    - area: 9975745.3134 km^2 s
+      coef: 1.51873391
+      frac: 0.69673221
+  - - - '153'
+      - Gianbasilio Profiti
+    - area: 9984764.1783 km^2 s
+      coef: 1.52010697
+      frac: 0.69529065
+  - - - '175'
+      - Mariusz Wisniowski
+    - area: 9985200.3039 km^2 s
+      coef: 1.52017336
+      frac: 0.69522103
+  - - - '109'
+      - Federico Brown Manzone
+    - area: 9998869.8526 km^2 s
+      coef: 1.52225445
+      frac: 0.69304284
+  - - - '115'
+      - Alberto Castagna
+    - area: 10035613.5034 km^2 s
+      coef: 1.5278484
+      frac: 0.68722574
+  - - - '168'
+      - Marco Valentini
+    - area: 10066815.5580 km^2 s
+      coef: 1.53259869
+      frac: 0.68232813
+  - - - '174'
+      - Davide Zaltron
+    - area: 10089908.7424 km^2 s
+      coef: 1.53611445
+      frac: 0.67872751
+  - - - '157'
+      - Elio Rossi
+    - area: 10108641.5603 km^2 s
+      coef: 1.53896639
+      frac: 0.6758215
+  - - - '101'
+      - Diego Ardissone
+    - area: 10198746.4534 km^2 s
+      coef: 1.5526842
+      frac: 0.66202085
+  - - - '124'
+      - Paolo Facchini
+    - area: 10234448.6455 km^2 s
+      coef: 1.55811959
+      frac: 0.65663027
+  - - - '129'
+      - Luciano Gallo
+    - area: 10250680.9541 km^2 s
+      coef: 1.56059084
+      frac: 0.65419336
+  - - - '161'
+      - Matteo Siragna
+    - area: 10265867.6375 km^2 s
+      coef: 1.5629029
+      frac: 0.65192117
+  - - - '166'
+      - Tiziano Trambaioli
+    - area: 10333958.1423 km^2 s
+      coef: 1.57326918
+      frac: 0.64182322
+  - - - '142'
+      - Luca Mammucari
+    - area: 10342740.7486 km^2 s
+      coef: 1.57460627
+      frac: 0.64053113
+  - - - '137'
+      - Slawomir Kaczynski
+    - area: 10371845.6568 km^2 s
+      coef: 1.57903728
+      frac: 0.63626571
+  - - - '151'
+      - Piergiorgio Pintossi
+    - area: 10372430.7299 km^2 s
+      coef: 1.57912635
+      frac: 0.63618023
+  - - - '150'
+      - Luca Paoletti
+    - area: 10397445.8130 km^2 s
+      coef: 1.58293471
+      frac: 0.63253451
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - area: 10679398.1908 km^2 s
+      coef: 1.62585989
+      frac: 0.59261017
+  - - - '128'
+      - Michele Gaiba
+    - area: 10681452.6116 km^2 s
+      coef: 1.62617266
+      frac: 0.59232656
+  - - - '117'
+      - Gianfranco Crestani
+    - area: 11015621.4630 km^2 s
+      coef: 1.67704741
+      frac: 0.54741833
+  - - - '135'
+      - Cristian Inverardi
+    - area: 11193198.1093 km^2 s
+      coef: 1.70408215
+      frac: 0.52444546
+  - - - '133'
+      - Alessio Guidi
+    - area: 11229533.5645 km^2 s
+      coef: 1.70961396
+      frac: 0.51981328
+  - - - '120'
+      - Gabriele D'Arrigo
+    - area: 11231652.8227 km^2 s
+      coef: 1.7099366
+      frac: 0.5195438
+  - - - '121'
+      - Giorgio Darra
+    - area: 11326138.3984 km^2 s
+      coef: 1.72432133
+      frac: 0.50760477
+  - - - '158'
+      - Antonio Ruta
+    - area: 11407311.3087 km^2 s
+      coef: 1.73667931
+      frac: 0.49746238
+  - - - '122'
+      - Angelo Dell’Aira
+    - area: 11484552.2717 km^2 s
+      coef: 1.74843868
+      frac: 0.48790543
+  - - - '127'
+      - Richárd Gabrieli
+    - area: 11776054.4071 km^2 s
+      coef: 1.79281774
+      frac: 0.45260838
+  - - - '102'
+      - Matteo Bacchiocchi
+    - area: 12224796.0783 km^2 s
+      coef: 1.86113536
+      frac: 0.4003838
+  - - - '140'
+      - Maurizio Maina
+    - area: 12568105.9059 km^2 s
+      coef: 1.91340176
+      frac: 0.36192273
+  - - - '113'
+      - Tommaso Carlini
+    - area: 12610943.7864 km^2 s
+      coef: 1.91992351
+      frac: 0.35720536
+  - - - '160'
+      - Giuseppe Simone
+    - area: 12716608.6729 km^2 s
+      coef: 1.93601021
+      frac: 0.34564262
+  - - - '178'
+      - Marius Saigiu
+    - area: 13605069.3300 km^2 s
+      coef: 2.07127182
+      frac: 0.25211675
+  - - - '176'
+      - Francesco Fontanesi
+    - area: 14053518.6232 km^2 s
+      coef: 2.13954493
+      frac: 0.20708896
+  - - - '118'
+      - Igor D'Agostino
+    - area: 14174753.9378 km^2 s
+      coef: 2.15800211
+      frac: 0.19513542
+  - - - '144'
+      - Riccardo Marchetto
+    - area: 14273996.8377 km^2 s
+      coef: 2.17311112
+      frac: 0.18541599
+  - - - '123'
+      - Sergio Di Fazio
+    - area: 14275336.8472 km^2 s
+      coef: 2.17331512
+      frac: 0.18528515
+  - - - '125'
+      - Grzegorz Fiema
+    - area: 14307413.3963 km^2 s
+      coef: 2.17819854
+      frac: 0.18215635
+  - - - '107'
+      - Gabriele Bonafini
+    - area: 14432003.6306 km^2 s
+      coef: 2.19716649
+      frac: 0.17005987
+  - - - '143'
+      - Valerio Marchetti
+    - area: 14509712.4478 km^2 s
+      coef: 2.20899709
+      frac: 0.16255959
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - area: 14727265.6260 km^2 s
+      coef: 2.24211796
+      frac: 0.14173783
+  - - - '152'
+      - Alessandro Pompei
+    - area: 14785962.3439 km^2 s
+      coef: 2.2510541
+      frac: 0.13616328
+  - - - '147'
+      - Francesco Orcese
+    - area: 15292421.1848 km^2 s
+      coef: 2.32815874
+      frac: 8.878538e-2
+  - - - '167'
+      - Ionut Ulici
+    - area: 15532383.7430 km^2 s
+      coef: 2.36469128
+      frac: 6.676439e-2
+  - - - '149'
+      - Alessandro Palma
+    - area: 26664320.9658 km^2 s
+      coef: 4.05944691
+      frac: 0
+  - - - '110'
+      - Klaudia Bulgakow
+    - area: 33469601.3815 km^2 s
+      coef: 5.09550084
+      frac: 0

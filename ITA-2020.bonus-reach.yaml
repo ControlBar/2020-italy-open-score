@@ -1,28 +1,3003 @@
 bolster:
+- max: 51.517078 km
+  mean: 40.078244 km
+  stdDev: 15.811798 km
+- max: 74.486014 km
+  mean: 64.063119 km
+  stdDev: 19.333467 km
 - null
-- null
-- null
-- null
-- null
-- null
+- max: 105.761993 km
+  mean: 81.858736 km
+  stdDev: 27.554219 km
+- max: 87.546415 km
+  mean: 67.810064 km
+  stdDev: 26.873746 km
+- max: 62.543034 km
+  mean: 58.487061 km
+  stdDev: 9.817981 km
 reach:
+- max: 51.517078 km
+  mean: 40.059147 km
+  stdDev: 15.854922 km
+- max: 74.486014 km
+  mean: 64.063119 km
+  stdDev: 19.333467 km
 - null
-- null
-- null
-- null
-- null
-- null
+- max: 105.761993 km
+  mean: 81.797439 km
+  stdDev: 27.727113 km
+- max: 87.546415 km
+  mean: 67.810064 km
+  stdDev: 26.873746 km
+- max: 62.543034 km
+  mean: 58.487061 km
+  stdDev: 9.817981 km
 reachRank:
+- - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 51.517078 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 51.517078 km
+  - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 51.517078 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 1
+      reach: 51.517078 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 51.517078 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 1
+      reach: 51.517078 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 51.517078 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 51.517078 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 51.517078 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 1
+      reach: 51.517078 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 51.517078 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 1
+      reach: 51.517078 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 51.517078 km
+  - - - '141'
+      - Albino Malli
+    - frac: 1
+      reach: 51.517078 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 51.517078 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 1
+      reach: 51.517078 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 51.517078 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 51.517078 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 51.517078 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 1
+      reach: 51.517078 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 51.517078 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 1
+      reach: 51.517078 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 1
+      reach: 51.517078 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 51.517078 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 1
+      reach: 51.517078 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 1
+      reach: 51.517078 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 51.517078 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 51.517078 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 51.517078 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 1
+      reach: 51.517078 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 1
+      reach: 51.517078 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 1
+      reach: 51.517078 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 51.517078 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 1
+      reach: 51.517078 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 0.93112963
+      reach: 47.969078 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 0.92798505
+      reach: 47.807078 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 0.9221035
+      reach: 47.504078 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 0.88811477
+      reach: 45.753078 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 0.85864882
+      reach: 44.235078 km
+  - - - '101'
+      - Diego Ardissone
+    - frac: 0.82706706
+      reach: 42.608078 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.8243301
+      reach: 42.467078 km
+  - - - '114'
+      - Mirco Casarini
+    - frac: 0.80398733
+      reach: 41.419078 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 0.79670819
+      reach: 41.044078 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.78065526
+      reach: 40.217078 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.77894709
+      reach: 40.129078 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 0.77277438
+      reach: 39.811078 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.71131903
+      reach: 36.645078 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 0.68513354
+      reach: 35.296078 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 0.52897173
+      reach: 27.251078 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.4188335
+      reach: 21.577078 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 0.40844859
+      reach: 21.042078 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 0.40431404
+      reach: 20.829078 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 0.35928043
+      reach: 18.509078 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 0.34905081
+      reach: 17.982078 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.34771145
+      reach: 17.913078 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.33783123
+      reach: 17.404078 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 0.28745959
+      reach: 14.809078 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.28417912
+      reach: 14.640078 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.27321189
+      reach: 14.075078 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.27280425
+      reach: 14.054078 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 0.23743734
+      reach: 12.232078 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 0.21730809
+      reach: 11.195078 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.2137947
+      reach: 11.014078 km
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - frac: 0.20665143
+      reach: 10.646078 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 0.15730857
+      reach: 8.104078 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 0.10258885
+      reach: 5.285078 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 7.036653e-2
+      reach: 3.625078 km
+- - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 74.486014 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 74.486014 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 1
+      reach: 74.486014 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 74.486014 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 74.486014 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 74.486014 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 74.486014 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 1
+      reach: 74.486014 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 74.486014 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 1
+      reach: 74.486014 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 74.486014 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 74.486014 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 1
+      reach: 74.486014 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 74.486014 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 74.486014 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 74.486014 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 74.486014 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 74.486014 km
+  - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 74.486014 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 1
+      reach: 74.486014 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 74.486014 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 74.486014 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 1
+      reach: 74.486014 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 1
+      reach: 74.486014 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 74.486014 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 74.486014 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 1
+      reach: 74.486014 km
+  - - - '141'
+      - Albino Malli
+    - frac: 1
+      reach: 74.486014 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 1
+      reach: 74.486014 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 1
+      reach: 74.486014 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 1
+      reach: 74.486014 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 74.486014 km
+  - - - '101'
+      - Diego Ardissone
+    - frac: 1
+      reach: 74.486014 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 1
+      reach: 74.486014 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 1
+      reach: 74.486014 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 1
+      reach: 74.486014 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 74.486014 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 1
+      reach: 74.486014 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 1
+      reach: 74.486014 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 1
+      reach: 74.486014 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.97756626
+      reach: 72.815014 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.97492147
+      reach: 72.618014 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 0.96329512
+      reach: 71.752014 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 0.92832211
+      reach: 69.147014 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 0.92797306
+      reach: 69.121014 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.92714068
+      reach: 69.059014 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.89675914
+      reach: 66.796014 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.88525363
+      reach: 65.939014 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.87636605
+      reach: 65.277014 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 0.87535915
+      reach: 65.202014 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 0.81283735
+      reach: 60.545014 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.80185542
+      reach: 59.727014 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.73330564
+      reach: 54.621014 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 0.72508933
+      reach: 54.009014 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 0.72423011
+      reach: 53.945014 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 0.72418983
+      reach: 53.942014 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.64519514
+      reach: 48.058014 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.57393344
+      reach: 42.750014 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.37586941
+      reach: 27.997014 km
+  - - - '114'
+      - Mirco Casarini
+    - frac: 0.34469577
+      reach: 25.675014 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.28711449
+      reach: 21.386014 km
+  - - - '104'
+      - Loris Berta
+    - frac: 0.2519938
+      reach: 18.770014 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 0.25053044
+      reach: 18.661014 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 0.23871614
+      reach: 17.781014 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 0.23007022
+      reach: 17.137014 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 0.17925532
+      reach: 13.352014 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 0.12746036
+      reach: 9.494014 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.10595296
+      reach: 7.892014 km
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 105.761993 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 105.761993 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 105.761993 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 105.761993 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 105.761993 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 105.761993 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 105.761993 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 105.761993 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 105.761993 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 105.761993 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 1
+      reach: 105.761993 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 105.761993 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 105.761993 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 105.761993 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 1
+      reach: 105.761993 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 105.761993 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 105.761993 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 105.761993 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 105.761993 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 105.761993 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 105.761993 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 1
+      reach: 105.761993 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 1
+      reach: 105.761993 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 105.761993 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 1
+      reach: 105.761993 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 0.99965016
+      reach: 105.724993 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 0.9989032
+      reach: 105.645993 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 0.9630302
+      reach: 101.851993 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.94537735
+      reach: 99.984993 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 0.93020177
+      reach: 98.379993 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 0.90744312
+      reach: 95.972993 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 0.89489608
+      reach: 94.645993 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 0.8831811
+      reach: 93.406993 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 0.88261379
+      reach: 93.346993 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 0.87355571
+      reach: 92.388993 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 0.87159849
+      reach: 92.181993 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 0.85274483
+      reach: 90.187993 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 0.83029821
+      reach: 87.813993 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.80829597
+      reach: 85.486993 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 0.80524195
+      reach: 85.163993 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 0.80410732
+      reach: 85.043993 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 0.79925681
+      reach: 84.530993 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.7988786
+      reach: 84.490993 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 0.79691192
+      reach: 84.282993 km
+  - - - '141'
+      - Albino Malli
+    - frac: 0.77343468
+      reach: 81.799993 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 0.75983811
+      reach: 80.361993 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 0.75641533
+      reach: 79.999993 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 0.75166882
+      reach: 79.497993 km
+  - - - '114'
+      - Mirco Casarini
+    - frac: 0.74710197
+      reach: 79.014993 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 0.73611503
+      reach: 77.852993 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.70347571
+      reach: 74.400993 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 0.62866623
+      reach: 66.488993 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.62641589
+      reach: 66.250993 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 0.62469505
+      reach: 66.068993 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.6219814
+      reach: 65.781993 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.62008091
+      reach: 65.580993 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.61554242
+      reach: 65.100993 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 0.60310884
+      reach: 63.785993 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 0.59649966
+      reach: 63.086993 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 0.58144699
+      reach: 61.494993 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 0.57827005
+      reach: 61.158993 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.57461089
+      reach: 60.771993 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.57364646
+      reach: 60.669993 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.56617686
+      reach: 59.879993 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 0.56160055
+      reach: 59.395993 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.55440514
+      reach: 58.634993 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 0.42222155
+      reach: 44.654993 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 0.42095456
+      reach: 44.520993 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.25481737
+      reach: 26.949993 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 0.15138702
+      reach: 16.010993 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 7.221869e-2
+      reach: 7.637993 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 5.773334e-2
+      reach: 6.105993 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 2.585043e-2
+      reach: 2.733993 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 2.581261e-2
+      reach: 2.729993 km
+- - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 87.546415 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 87.546415 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 87.546415 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 87.546415 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 87.546415 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 87.546415 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 87.546415 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 87.546415 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 1
+      reach: 87.546415 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 87.546415 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 1
+      reach: 87.546415 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 87.546415 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 87.546415 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 87.546415 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 87.546415 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 1
+      reach: 87.546415 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 87.546415 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 87.546415 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 1
+      reach: 87.546415 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 87.546415 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 1
+      reach: 87.546415 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 87.546415 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 87.546415 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 87.546415 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 87.546415 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 87.546415 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 87.546415 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 1
+      reach: 87.546415 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 1
+      reach: 87.546415 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 0.98960551
+      reach: 86.636415 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.96119773
+      reach: 84.149415 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.92382327
+      reach: 80.877415 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 0.9220642
+      reach: 80.723415 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 0.90864275
+      reach: 79.548415 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.90008729
+      reach: 78.799415 km
+  - - - '141'
+      - Albino Malli
+    - frac: 0.88615182
+      reach: 77.579415 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 0.88457551
+      reach: 77.441415 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 0.86876676
+      reach: 76.057415 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 0.86567126
+      reach: 75.786415 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 0.8533121
+      reach: 74.704415 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 0.85222696
+      reach: 74.609415 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 0.84878878
+      reach: 74.308415 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 0.83158648
+      reach: 72.802415 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.82339654
+      reach: 72.085415 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 0.82156894
+      reach: 71.925415 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 0.81548074
+      reach: 71.392415 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 0.80687958
+      reach: 70.639415 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 0.80661687
+      reach: 70.616415 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 0.78818093
+      reach: 69.002415 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 0.77844895
+      reach: 68.150415 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 0.77815197
+      reach: 68.124415 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 0.57703579
+      reach: 50.517415 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 0.56755511
+      reach: 49.687415 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 0.48780313
+      reach: 42.705415 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 0.43910896
+      reach: 38.442415 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.43647036
+      reach: 38.211415 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 0.43115889
+      reach: 37.746415 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 0.32044048
+      reach: 28.053415 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 0.30763584
+      reach: 26.932415 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 0.30121639
+      reach: 26.370415 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 0.2824492
+      reach: 24.727415 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 0.27621251
+      reach: 24.181415 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.18042332
+      reach: 15.795415 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 0.15744123
+      reach: 13.783415 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 0.15705286
+      reach: 13.749415 km
+  - - - '131'
+      - Marco Gentilini
+    - frac: 0.11698269
+      reach: 10.241415 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 0.10392676
+      reach: 9.098415 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 9.606807e-2
+      reach: 8.410415 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 8.54794e-2
+      reach: 7.483415 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 7.784916e-2
+      reach: 6.815415 km
+- - - - '111'
+      - Marco Busetta
+    - frac: 1
+      reach: 62.543034 km
+  - - - '159'
+      - Krzysztof Schmidt
+    - frac: 1
+      reach: 62.543034 km
+  - - - '171'
+      - Biagio Alberto Vitale
+    - frac: 1
+      reach: 62.543034 km
+  - - - '177'
+      - Bogdan Bialka
+    - frac: 1
+      reach: 62.543034 km
+  - - - '146'
+      - Joachim Oberhauser
+    - frac: 1
+      reach: 62.543034 km
+  - - - '106'
+      - Christian Biasi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '180'
+      - Michal Gierlach
+    - frac: 1
+      reach: 62.543034 km
+  - - - '155'
+      - Alfio Ragaglia
+    - frac: 1
+      reach: 62.543034 km
+  - - - '148'
+      - Luciano Pagnoni
+    - frac: 1
+      reach: 62.543034 km
+  - - - '141'
+      - Albino Malli
+    - frac: 1
+      reach: 62.543034 km
+  - - - '108'
+      - Michele Boschi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '154'
+      - Stefano Pucci
+    - frac: 1
+      reach: 62.543034 km
+  - - - '116'
+      - Ivan Centa
+    - frac: 1
+      reach: 62.543034 km
+  - - - '164'
+      - Anca Tabara
+    - frac: 1
+      reach: 62.543034 km
+  - - - '104'
+      - Loris Berta
+    - frac: 1
+      reach: 62.543034 km
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - frac: 1
+      reach: 62.543034 km
+  - - - '165'
+      - Andrea Terenziani
+    - frac: 1
+      reach: 62.543034 km
+  - - - '156'
+      - Massimo Rapari
+    - frac: 1
+      reach: 62.543034 km
+  - - - '145'
+      - Federico Nevastro
+    - frac: 1
+      reach: 62.543034 km
+  - - - '142'
+      - Luca Mammucari
+    - frac: 1
+      reach: 62.543034 km
+  - - - '132'
+      - Jacek Górski
+    - frac: 1
+      reach: 62.543034 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - frac: 1
+      reach: 62.543034 km
+  - - - '138'
+      - Marco Littamè
+    - frac: 1
+      reach: 62.543034 km
+  - - - '168'
+      - Marco Valentini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '172'
+      - Alessio Voltan
+    - frac: 1
+      reach: 62.543034 km
+  - - - '161'
+      - Matteo Siragna
+    - frac: 1
+      reach: 62.543034 km
+  - - - '153'
+      - Gianbasilio Profiti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '130'
+      - Andrea Garolla
+    - frac: 1
+      reach: 62.543034 km
+  - - - '128'
+      - Michele Gaiba
+    - frac: 1
+      reach: 62.543034 km
+  - - - '115'
+      - Alberto Castagna
+    - frac: 1
+      reach: 62.543034 km
+  - - - '173'
+      - Paolo Zammarchi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '166'
+      - Tiziano Trambaioli
+    - frac: 1
+      reach: 62.543034 km
+  - - - '174'
+      - Davide Zaltron
+    - frac: 1
+      reach: 62.543034 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - frac: 1
+      reach: 62.543034 km
+  - - - '157'
+      - Elio Rossi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '169'
+      - Alessandro Vallero
+    - frac: 1
+      reach: 62.543034 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '105'
+      - Daniele Bevilacqua
+    - frac: 1
+      reach: 62.543034 km
+  - - - '139'
+      - Alessandro Madaluni
+    - frac: 1
+      reach: 62.543034 km
+  - - - '150'
+      - Luca Paoletti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - frac: 1
+      reach: 62.543034 km
+  - - - '109'
+      - Federico Brown Manzone
+    - frac: 1
+      reach: 62.543034 km
+  - - - '170'
+      - Paolo Veratti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '129'
+      - Luciano Gallo
+    - frac: 1
+      reach: 62.543034 km
+  - - - '101'
+      - Diego Ardissone
+    - frac: 1
+      reach: 62.543034 km
+  - - - '124'
+      - Paolo Facchini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - frac: 1
+      reach: 62.543034 km
+  - - - '113'
+      - Tommaso Carlini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '160'
+      - Giuseppe Simone
+    - frac: 1
+      reach: 62.543034 km
+  - - - '123'
+      - Sergio Di Fazio
+    - frac: 1
+      reach: 62.543034 km
+  - - - '152'
+      - Alessandro Pompei
+    - frac: 1
+      reach: 62.543034 km
+  - - - '143'
+      - Valerio Marchetti
+    - frac: 1
+      reach: 62.543034 km
+  - - - '107'
+      - Gabriele Bonafini
+    - frac: 1
+      reach: 62.543034 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - frac: 1
+      reach: 62.543034 km
+  - - - '144'
+      - Riccardo Marchetto
+    - frac: 1
+      reach: 62.543034 km
+  - - - '118'
+      - Igor D'Agostino
+    - frac: 1
+      reach: 62.543034 km
+  - - - '176'
+      - Francesco Fontanesi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '178'
+      - Marius Saigiu
+    - frac: 1
+      reach: 62.543034 km
+  - - - '135'
+      - Cristian Inverardi
+    - frac: 1
+      reach: 62.543034 km
+  - - - '167'
+      - Ionut Ulici
+    - frac: 0.82503247
+      reach: 51.600034 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - frac: 0.82026775
+      reach: 51.302034 km
+  - - - '133'
+      - Alessio Guidi
+    - frac: 0.76942276
+      reach: 48.122034 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - frac: 0.73875588
+      reach: 46.204034 km
+  - - - '117'
+      - Gianfranco Crestani
+    - frac: 0.73197655
+      reach: 45.780034 km
+  - - - '158'
+      - Antonio Ruta
+    - frac: 0.73168874
+      reach: 45.762034 km
+  - - - '121'
+      - Giorgio Darra
+    - frac: 0.72932237
+      reach: 45.614034 km
+  - - - '127'
+      - Richárd Gabrieli
+    - frac: 0.70457142
+      reach: 44.066034 km
+  - - - '147'
+      - Francesco Orcese
+    - frac: 0.69595335
+      reach: 43.527034 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - frac: 0.6778698
+      reach: 42.396034 km
+  - - - '125'
+      - Grzegorz Fiema
+    - frac: 0.67761398
+      reach: 42.380034 km
+  - - - '140'
+      - Maurizio Maina
+    - frac: 0.66680542
+      reach: 41.704034 km
+  - - - '149'
+      - Alessandro Palma
+    - frac: 0.26687279
+      reach: 16.691034 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - frac: 0.16487902
+      reach: 10.312034 km
 nigh:
+- - - - '164'
+      - Anca Tabara
+    - togo:
+        distance: 3.548000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.969078 km
+  - - - '130'
+      - Andrea Garolla
+    - togo:
+        distance: 4.013000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.504078 km
+  - - - '174'
+      - Davide Zaltron
+    - togo:
+        distance: 3.710000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.807078 km
+  - - - '170'
+      - Paolo Veratti
+    - togo:
+        distance: 5.764000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 45.753078 km
+  - - - '178'
+      - Marius Saigiu
+    - togo:
+        distance: 7.282000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 44.235078 km
+  - - - '101'
+      - Diego Ardissone
+    - togo:
+        distance: 8.909000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.608078 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 9.050000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.467078 km
+  - - - '114'
+      - Mirco Casarini
+    - togo:
+        distance: 10.098000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 41.419078 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 11.300000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 40.217078 km
+  - - - '150'
+      - Luca Paoletti
+    - togo:
+        distance: 11.706000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 39.811078 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 11.388000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 40.129078 km
+  - - - '145'
+      - Federico Nevastro
+    - togo:
+        distance: 10.473000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 41.044078 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo:
+        distance: 16.221000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 35.296078 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 14.872000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 36.645078 km
+  - - - '142'
+      - Luca Mammucari
+    - togo:
+        distance: 24.266000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 27.251078 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 29.940000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 21.577078 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo:
+        distance: 30.688000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 20.829078 km
+  - - - '155'
+      - Alfio Ragaglia
+    - togo:
+        distance: 33.535000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.982078 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 33.604000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.913078 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo:
+        distance: 30.475000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 21.042078 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 33.008000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 18.509078 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 34.113000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.404078 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 36.877000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.640078 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 37.463000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.054078 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - togo:
+        distance: 36.708000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.809078 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 37.442000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.075078 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 39.285000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 12.232078 km
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - togo:
+        distance: 40.871000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 10.646078 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo:
+        distance: 40.322000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.195078 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 40.503000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.014078 km
+  - - - '156'
+      - Massimo Rapari
+    - togo:
+        distance: 43.413000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 8.104078 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 46.232000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 5.285078 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 47.892000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 3.625078 km
+- - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 1.671000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 72.815014 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo:
+        distance: 2.734000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 71.752014 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo:
+        distance: 5.339000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 69.147014 km
+  - - - '108'
+      - Michele Boschi
+    - togo:
+        distance: 5.365000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 69.121014 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 5.427000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 69.059014 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 1.868000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 72.618014 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 9.209000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.277014 km
+  - - - '161'
+      - Matteo Siragna
+    - togo:
+        distance: 9.284000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.202014 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 8.547000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.939014 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 7.690000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 66.796014 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 13.941000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 60.545014 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 14.759000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 59.727014 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 20.541000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 53.945014 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo:
+        distance: 20.544000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 53.942014 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo:
+        distance: 20.477000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 54.009014 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 19.865000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 54.621014 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 26.428000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.058014 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 31.736000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.750014 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 46.489000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 27.997014 km
+  - - - '114'
+      - Mirco Casarini
+    - togo:
+        distance: 48.811000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 25.675014 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 53.100000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 21.386014 km
+  - - - '104'
+      - Loris Berta
+    - togo:
+        distance: 55.716000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 18.770014 km
+  - - - '140'
+      - Maurizio Maina
+    - togo:
+        distance: 55.825000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 18.661014 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo:
+        distance: 56.705000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.781014 km
+  - - - '128'
+      - Michele Gaiba
+    - togo:
+        distance: 57.349000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 17.137014 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 61.134000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 13.352014 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 66.594000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 7.892014 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 64.992000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.494014 km
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '169'
+      - Alessandro Vallero
+    - togo:
+        distance: 0.037000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 105.724993 km
+  - - - '130'
+      - Andrea Garolla
+    - togo:
+        distance: 0.116000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 105.645993 km
+  - - - '108'
+      - Michele Boschi
+    - togo:
+        distance: 3.910000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 101.851993 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 5.777000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 99.984993 km
+  - - - '129'
+      - Luciano Gallo
+    - togo:
+        distance: 7.382000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 98.379993 km
+  - - - '173'
+      - Paolo Zammarchi
+    - togo:
+        distance: 9.789000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 95.972993 km
+  - - - '168'
+      - Marco Valentini
+    - togo:
+        distance: 11.116000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 94.645993 km
+  - - - '170'
+      - Paolo Veratti
+    - togo:
+        distance: 12.355000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 93.406993 km
+  - - - '126'
+      - Alessandro Fuzzi
+    - togo:
+        distance: 12.415000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 93.346993 km
+  - - - '137'
+      - Slawomir Kaczynski
+    - togo:
+        distance: 13.373000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 92.388993 km
+  - - - '164'
+      - Anca Tabara
+    - togo:
+        distance: 13.580000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 92.181993 km
+  - - - '127'
+      - Richárd Gabrieli
+    - togo:
+        distance: 15.574000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 90.187993 km
+  - - - '121'
+      - Giorgio Darra
+    - togo:
+        distance: 17.948000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 87.813993 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 20.275000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 85.486993 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 21.271000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 84.490993 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo:
+        distance: 21.479000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 84.282993 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo:
+        distance: 21.231000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 84.530993 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo:
+        distance: 20.718000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 85.043993 km
+  - - - '142'
+      - Luca Mammucari
+    - togo:
+        distance: 20.598000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 85.163993 km
+  - - - '141'
+      - Albino Malli
+    - togo:
+        distance: 23.962000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 81.799993 km
+  - - - '177'
+      - Bogdan Bialka
+    - togo:
+        distance: 26.264000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 79.497993 km
+  - - - '114'
+      - Mirco Casarini
+    - togo:
+        distance: 26.747000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 79.014993 km
+  - - - '156'
+      - Massimo Rapari
+    - togo:
+        distance: 25.400000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 80.361993 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo:
+        distance: 27.909000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 77.852993 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo:
+        distance: 25.762000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 79.999993 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 31.361000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 74.400993 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 39.511000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 66.250993 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 39.980000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.781993 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 40.181000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.580993 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo:
+        distance: 39.273000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 66.488993 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 39.693000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 66.068993 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 40.661000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 65.100993 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo:
+        distance: 41.976000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.785993 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo:
+        distance: 42.675000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 63.086993 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo:
+        distance: 44.267000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 61.494993 km
+  - - - '128'
+      - Michele Gaiba
+    - togo:
+        distance: 44.603000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 61.158993 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 45.092000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 60.669993 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 44.990000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 60.771993 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 45.882000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 59.879993 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 47.127000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 58.634993 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 46.366000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 59.395993 km
+  - - - '174'
+      - Davide Zaltron
+    - togo:
+        distance: 61.241000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 44.520993 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo:
+        distance: 61.107000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 44.654993 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 78.812000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 26.949993 km
+  - - - '116'
+      - Ivan Centa
+    - togo:
+        distance: 89.751000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 16.010993 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 98.124000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 7.637993 km
+  - - - '178'
+      - Marius Saigiu
+    - togo:
+        distance: 103.028000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 2.733993 km
+  - - - '175'
+      - Mariusz Wisniowski
+    - togo:
+        distance: 103.032000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 2.729993 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 99.656000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 6.105993 km
+- - - - '146'
+      - Joachim Oberhauser
+    - togo:
+        distance: 0.910000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 86.636415 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 3.397000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 84.149415 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 6.669000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 80.877415 km
+  - - - '169'
+      - Alessandro Vallero
+    - togo:
+        distance: 6.823000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 80.723415 km
+  - - - '140'
+      - Maurizio Maina
+    - togo:
+        distance: 7.998000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 79.548415 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 8.747000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 78.799415 km
+  - - - '141'
+      - Albino Malli
+    - togo:
+        distance: 9.967000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 77.579415 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo:
+        distance: 10.105000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 77.441415 km
+  - - - '142'
+      - Luca Mammucari
+    - togo:
+        distance: 12.842000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 74.704415 km
+  - - - '120'
+      - Gabriele D'Arrigo
+    - togo:
+        distance: 12.937000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 74.609415 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo:
+        distance: 11.760000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 75.786415 km
+  - - - '113'
+      - Tommaso Carlini
+    - togo:
+        distance: 13.238000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 74.308415 km
+  - - - '144'
+      - Riccardo Marchetto
+    - togo:
+        distance: 11.489000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 76.057415 km
+  - - - '150'
+      - Luca Paoletti
+    - togo:
+        distance: 15.621000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 71.925415 km
+  - - - '178'
+      - Marius Saigiu
+    - togo:
+        distance: 14.744000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 72.802415 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 15.461000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 72.085415 km
+  - - - '160'
+      - Giuseppe Simone
+    - togo:
+        distance: 16.930000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 70.616415 km
+  - - - '152'
+      - Alessandro Pompei
+    - togo:
+        distance: 16.907000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 70.639415 km
+  - - - '143'
+      - Valerio Marchetti
+    - togo:
+        distance: 16.154000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 71.392415 km
+  - - - '139'
+      - Alessandro Madaluni
+    - togo:
+        distance: 19.396000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 68.150415 km
+  - - - '165'
+      - Andrea Terenziani
+    - togo:
+        distance: 19.422000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 68.124415 km
+  - - - '109'
+      - Federico Brown Manzone
+    - togo:
+        distance: 18.544000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 69.002415 km
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - togo:
+        distance: 37.029000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.517415 km
+  - - - '132'
+      - Jacek Górski
+    - togo:
+        distance: 37.859000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.687415 km
+  - - - '107'
+      - Gabriele Bonafini
+    - togo:
+        distance: 44.841000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.705415 km
+  - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 49.335000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 38.211415 km
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - togo:
+        distance: 49.800000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 37.746415 km
+  - - - '151'
+      - Piergiorgio Pintossi
+    - togo:
+        distance: 49.104000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 38.442415 km
+  - - - '161'
+      - Matteo Siragna
+    - togo:
+        distance: 59.493000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 28.053415 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo:
+        distance: 60.614000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 26.932415 km
+  - - - '130'
+      - Andrea Garolla
+    - togo:
+        distance: 61.176000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 26.370415 km
+  - - - '135'
+      - Cristian Inverardi
+    - togo:
+        distance: 62.819000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 24.727415 km
+  - - - '148'
+      - Luciano Pagnoni
+    - togo:
+        distance: 63.365000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 24.181415 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 71.751000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 15.795415 km
+  - - - '156'
+      - Massimo Rapari
+    - togo:
+        distance: 73.797000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 13.749415 km
+  - - - '118'
+      - Igor D'Agostino
+    - togo:
+        distance: 73.763000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 13.783415 km
+  - - - '174'
+      - Davide Zaltron
+    - togo:
+        distance: 79.136000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 8.410415 km
+  - - - '123'
+      - Sergio Di Fazio
+    - togo:
+        distance: 80.731000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 6.815415 km
+  - - - '131'
+      - Marco Gentilini
+    - togo:
+        distance: 77.305000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 10.241415 km
+  - - - '176'
+      - Francesco Fontanesi
+    - togo:
+        distance: 78.448000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.098415 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 80.063000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 7.483415 km
+- - - - '167'
+      - Ionut Ulici
+    - togo:
+        distance: 10.943000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.600034 km
+  - - - '133'
+      - Alessio Guidi
+    - togo:
+        distance: 14.421000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.122034 km
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - togo:
+        distance: 11.241000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.302034 km
+  - - - '122'
+      - Angelo Dell’Aira
+    - togo:
+        distance: 16.339000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 46.204034 km
+  - - - '121'
+      - Giorgio Darra
+    - togo:
+        distance: 16.929000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 45.614034 km
+  - - - '158'
+      - Antonio Ruta
+    - togo:
+        distance: 16.781000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 45.762034 km
+  - - - '117'
+      - Gianfranco Crestani
+    - togo:
+        distance: 16.763000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 45.780034 km
+  - - - '127'
+      - Richárd Gabrieli
+    - togo:
+        distance: 18.477000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 44.066034 km
+  - - - '147'
+      - Francesco Orcese
+    - togo:
+        distance: 19.016000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 43.527034 km
+  - - - '102'
+      - Matteo Bacchiocchi
+    - togo:
+        distance: 20.147000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.396034 km
+  - - - '125'
+      - Grzegorz Fiema
+    - togo:
+        distance: 20.163000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 42.380034 km
+  - - - '140'
+      - Maurizio Maina
+    - togo:
+        distance: 20.839000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 41.704034 km
+  - - - '149'
+      - Alessandro Palma
+    - togo:
+        distance: 45.852000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 16.691034 km
+  - - - '110'
+      - Klaudia Bulgakow
+    - togo:
+        distance: 52.231000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 10.312034 km

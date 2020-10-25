@@ -1,36 +1,1896 @@
 minDistance: 5.000 km
 bestDistance:
+- 51.517078 km
+- 74.486014 km
 - null
-- null
-- null
-- null
-- null
-- null
+- 105.761993 km
+- 87.546415 km
+- 62.543034 km
 chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 521
+  - 52.1 km
+  sumOf: 1459
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 751
+  - 75.1 km
+  sumOf: 2207
 - null
-- null
-- null
-- null
-- null
-- null
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1061
+  - 106.1 km
+  sumOf: 3040
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 881
+  - 88.1 km
+  sumOf: 2624
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 631
+  - 63.1 km
+  sumOf: 1846
 landout:
+- 33
+- 28
 - 0
-- 0
-- 0
-- 0
-- 0
-- 0
+- 49
+- 41
+- 14
 lookahead:
+- 47
+- 80
 - null
-- null
-- null
-- null
-- null
-- null
+- 65
+- 64
+- 134
 difficulty:
+- - chunk: 0
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 4.8 km
+    down: 2
+    downs:
+    - -0.830 km
+    - -0.779 km
+    downers:
+    - - '176'
+      - Francesco Fontanesi
+    - - '123'
+      - Sergio Di Fazio
+    downward: 2
+    rel: 6.854e-4
+    frac: 7.3242e-4
+  - chunk: 81
+    startChunk: 8.1 km
+    endChunk: 8.2 km
+    endAhead: 12.9 km
+    down: 1
+    downs:
+    - 8.106 km
+    downers:
+    - - '156'
+      - Massimo Rapari
+    downward: 5
+    rel: 1.7135e-3
+    frac: 4.736328e-2
+  - chunk: 103
+    startChunk: 10.3 km
+    endChunk: 10.4 km
+    endAhead: 15.1 km
+    down: 2
+    downs:
+    - 10.383 km
+    - 10.390 km
+    downers:
+    - - '158'
+      - Antonio Ruta
+    - - '143'
+      - Valerio Marchetti
+    downward: 8
+    rel: 2.7416e-3
+    frac: 9.863281e-2
+  - chunk: 106
+    startChunk: 10.6 km
+    endChunk: 10.7 km
+    endAhead: 15.4 km
+    down: 1
+    downs:
+    - 10.649 km
+    downers:
+    - - '179'
+      - Charles Henrique Guimaraes Moura
+    downward: 6
+    rel: 2.0562e-3
+    frac: 0.10498047
+  - chunk: 111
+    startChunk: 11.1 km
+    endChunk: 11.2 km
+    endAhead: 15.9 km
+    down: 1
+    downs:
+    - 11.179 km
+    downers:
+    - - '118'
+      - Igor D'Agostino
+    downward: 5
+    rel: 1.7135e-3
+    frac: 0.11352539
+  - chunk: 130
+    startChunk: 13.0 km
+    endChunk: 13.1 km
+    endAhead: 17.8 km
+    down: 1
+    downs:
+    - 13.099 km
+    downers:
+    - - '133'
+      - Alessio Guidi
+    downward: 9
+    rel: 3.0843e-3
+    frac: 0.14697266
+  - chunk: 131
+    startChunk: 13.1 km
+    endChunk: 13.2 km
+    endAhead: 17.9 km
+    down: 2
+    downs:
+    - 13.110 km
+    - 13.112 km
+    downers:
+    - - '162'
+      - Arkadiusz Slusarczyk
+    - - '119'
+      - Maria Antonietta D'Angela
+    downward: 8
+    rel: 2.7416e-3
+    frac: 0.1496582
+  - chunk: 146
+    startChunk: 14.6 km
+    endChunk: 14.7 km
+    endAhead: 19.4 km
+    down: 1
+    downs:
+    - 14.644 km
+    downers:
+    - - '107'
+      - Gabriele Bonafini
+    downward: 7
+    rel: 2.3989e-3
+    frac: 0.18359375
+  - chunk: 172
+    startChunk: 17.2 km
+    endChunk: 17.3 km
+    endAhead: 22.0 km
+    down: 2
+    downs:
+    - 17.234 km
+    - 17.284 km
+    downers:
+    - - '152'
+      - Alessandro Pompei
+    - - '131'
+      - Marco Gentilini
+    downward: 7
+    rel: 2.3989e-3
+    frac: 0.23950195
+  - chunk: 173
+    startChunk: 17.3 km
+    endChunk: 17.4 km
+    endAhead: 22.1 km
+    down: 3
+    downs:
+    - 17.311 km
+    - 17.331 km
+    - 17.359 km
+    downers:
+    - - '136'
+      - Gbriel-Alexandru Ivan
+    - - '149'
+      - Alessandro Palma
+    - - '155'
+      - Alfio Ragaglia
+    downward: 5
+    rel: 1.7135e-3
+    frac: 0.24121094
+  - chunk: 184
+    startChunk: 18.4 km
+    endChunk: 18.5 km
+    endAhead: 23.2 km
+    down: 1
+    downs:
+    - 18.476 km
+    downers:
+    - - '148'
+      - Luciano Pagnoni
+    downward: 2
+    rel: 6.854e-4
+    frac: 0.2487793
+  - chunk: 212
+    startChunk: 21.2 km
+    endChunk: 21.3 km
+    endAhead: 26.0 km
+    down: 1
+    downs:
+    - 21.258 km
+    downers:
+    - - '144'
+      - Riccardo Marchetto
+    downward: 2
+    rel: 6.854e-4
+    frac: 0.25952148
+  - chunk: 256
+    startChunk: 25.6 km
+    endChunk: 25.7 km
+    endAhead: 30.4 km
+    down: 1
+    downs:
+    - 25.612 km
+    downers:
+    - - '142'
+      - Luca Mammucari
+    downward: 1
+    rel: 3.427e-4
+    frac: 0.27441406
+  - chunk: 351
+    startChunk: 35.1 km
+    endChunk: 35.2 km
+    endAhead: 39.9 km
+    down: 1
+    downs:
+    - 35.184 km
+    downers:
+    - - '167'
+      - Ionut Ulici
+    downward: 5
+    rel: 1.7135e-3
+    frac: 0.31835938
+  - chunk: 352
+    startChunk: 35.2 km
+    endChunk: 35.3 km
+    endAhead: 40.0 km
+    down: 1
+    downs:
+    - 35.204 km
+    downers:
+    - - '151'
+      - Piergiorgio Pintossi
+    downward: 4
+    rel: 1.3708e-3
+    frac: 0.31982422
+  - chunk: 386
+    startChunk: 38.6 km
+    endChunk: 38.7 km
+    endAhead: 43.4 km
+    down: 2
+    downs:
+    - 38.617 km
+    - 38.638 km
+    downers:
+    - - '145'
+      - Federico Nevastro
+    - - '135'
+      - Cristian Inverardi
+    downward: 7
+    rel: 2.3989e-3
+    frac: 0.38208008
+  - chunk: 387
+    startChunk: 38.7 km
+    endChunk: 38.8 km
+    endAhead: 43.5 km
+    down: 1
+    downs:
+    - 38.705 km
+    downers:
+    - - '150'
+      - Luca Paoletti
+    downward: 5
+    rel: 1.7135e-3
+    frac: 0.38378906
+  - chunk: 402
+    startChunk: 40.2 km
+    endChunk: 40.3 km
+    endAhead: 45.0 km
+    down: 1
+    downs:
+    - 40.205 km
+    downers:
+    - - '120'
+      - Gabriele D'Arrigo
+    downward: 5
+    rel: 1.7135e-3
+    frac: 0.40673828
+  - chunk: 403
+    startChunk: 40.3 km
+    endChunk: 40.4 km
+    endAhead: 45.1 km
+    down: 1
+    downs:
+    - 40.334 km
+    downers:
+    - - '114'
+      - Mirco Casarini
+    downward: 4
+    rel: 1.3708e-3
+    frac: 0.40820312
+  - chunk: 421
+    startChunk: 42.1 km
+    endChunk: 42.2 km
+    endAhead: 46.9 km
+    down: 1
+    downs:
+    - 42.115 km
+    downers:
+    - - '147'
+      - Francesco Orcese
+    downward: 4
+    rel: 1.3708e-3
+    frac: 0.43066406
+  - chunk: 426
+    startChunk: 42.6 km
+    endChunk: 42.7 km
+    endAhead: 47.4 km
+    down: 1
+    downs:
+    - 42.605 km
+    downers:
+    - - '101'
+      - Diego Ardissone
+    downward: 3
+    rel: 1.0281e-3
+    frac: 0.43603516
+  - chunk: 442
+    startChunk: 44.2 km
+    endChunk: 44.3 km
+    endAhead: 49.0 km
+    down: 1
+    downs:
+    - 44.234 km
+    downers:
+    - - '178'
+      - Marius Saigiu
+    downward: 5
+    rel: 1.7135e-3
+    frac: 0.46118164
+  - chunk: 456
+    startChunk: 45.6 km
+    endChunk: 45.7 km
+    endAhead: 50.4 km
+    down: 1
+    downs:
+    - 45.659 km
+    downers:
+    - - '170'
+      - Paolo Veratti
+    downward: 4
+    rel: 1.3708e-3
+    frac: 0.48046875
+  - chunk: 474
+    startChunk: 47.4 km
+    endChunk: 47.5 km
+    endAhead: 52.2 km
+    down: 1
+    downs:
+    - 47.449 km
+    downers:
+    - - '174'
+      - Davide Zaltron
+    downward: 3
+    rel: 1.0281e-3
+    frac: 0.49902344
+  - chunk: 475
+    startChunk: 47.5 km
+    endChunk: 47.6 km
+    endAhead: 52.3 km
+    down: 1
+    downs:
+    - 47.504 km
+    downers:
+    - - '130'
+      - Andrea Garolla
+    downward: 2
+    rel: 6.854e-4
+    frac: 0.49975586
+  - chunk: 476
+    startChunk: 47.6 km
+    endChunk: 47.7 km
+    endAhead: 52.4 km
+    down: 1
+    downs:
+    - 47.662 km
+    downers:
+    - - '164'
+      - Anca Tabara
+    downward: 1
+    rel: 3.427e-4
+    frac: 0.5
+- - chunk: 61
+    startChunk: 6.1 km
+    endChunk: 6.2 km
+    endAhead: 14.2 km
+    down: 1
+    downs:
+    - 6.181 km
+    downers:
+    - - '123'
+      - Sergio Di Fazio
+    downward: 3
+    rel: 6.7966e-4
+    frac: 2.978516e-2
+  - chunk: 64
+    startChunk: 6.4 km
+    endChunk: 6.5 km
+    endAhead: 14.5 km
+    down: 1
+    downs:
+    - 6.437 km
+    downers:
+    - - '119'
+      - Maria Antonietta D'Angela
+    downward: 2
+    rel: 4.531e-4
+    frac: 3.125e-2
+  - chunk: 133
+    startChunk: 13.3 km
+    endChunk: 13.4 km
+    endAhead: 21.4 km
+    down: 1
+    downs:
+    - 13.330 km
+    downers:
+    - - '118'
+      - Igor D'Agostino
+    downward: 6
+    rel: 1.35931e-3
+    frac: 8.081055e-2
+  - chunk: 158
+    startChunk: 15.8 km
+    endChunk: 15.9 km
+    endAhead: 23.9 km
+    down: 1
+    downs:
+    - 15.809 km
+    downers:
+    - - '128'
+      - Michele Gaiba
+    downward: 5
+    rel: 1.13276e-3
+    frac: 0.10913086
+  - chunk: 177
+    startChunk: 17.7 km
+    endChunk: 17.8 km
+    endAhead: 25.8 km
+    down: 1
+    downs:
+    - 17.772 km
+    downers:
+    - - '110'
+      - Klaudia Bulgakow
+    downward: 5
+    rel: 1.13276e-3
+    frac: 0.12744141
+  - chunk: 184
+    startChunk: 18.4 km
+    endChunk: 18.5 km
+    endAhead: 26.5 km
+    down: 2
+    downs:
+    - 18.476 km
+    - 18.500 km
+    downers:
+    - - '140'
+      - Maurizio Maina
+    - - '104'
+      - Loris Berta
+    downward: 4
+    rel: 9.0621e-4
+    frac: 0.13354492
+  - chunk: 212
+    startChunk: 21.2 km
+    endChunk: 21.3 km
+    endAhead: 29.3 km
+    down: 1
+    downs:
+    - 21.271 km
+    downers:
+    - - '125'
+      - Grzegorz Fiema
+    downward: 3
+    rel: 6.7966e-4
+    frac: 0.14941406
+  - chunk: 253
+    startChunk: 25.3 km
+    endChunk: 25.4 km
+    endAhead: 33.4 km
+    down: 1
+    downs:
+    - 25.329 km
+    downers:
+    - - '114'
+      - Mirco Casarini
+    downward: 2
+    rel: 4.531e-4
+    frac: 0.16796875
+  - chunk: 279
+    startChunk: 27.9 km
+    endChunk: 28.0 km
+    endAhead: 36.0 km
+    down: 1
+    downs:
+    - 27.996 km
+    downers:
+    - - '120'
+      - Gabriele D'Arrigo
+    downward: 1
+    rel: 2.2655e-4
+    frac: 0.17382812
+  - chunk: 404
+    startChunk: 40.4 km
+    endChunk: 40.5 km
+    endAhead: 48.5 km
+    down: 1
+    downs:
+    - 40.477 km
+    downers:
+    - - '107'
+      - Gabriele Bonafini
+    downward: 2
+    rel: 4.531e-4
+    frac: 0.19287109
+  - chunk: 480
+    startChunk: 48.0 km
+    endChunk: 48.1 km
+    endAhead: 56.1 km
+    down: 1
+    downs:
+    - 48.058 km
+    downers:
+    - - '167'
+      - Ionut Ulici
+    downward: 7
+    rel: 1.58586e-3
+    frac: 0.23535156
+  - chunk: 531
+    startChunk: 53.1 km
+    endChunk: 53.2 km
+    endAhead: 61.2 km
+    down: 1
+    downs:
+    - 53.138 km
+    downers:
+    - - '149'
+      - Alessandro Palma
+    downward: 6
+    rel: 1.35931e-3
+    frac: 0.3046875
+  - chunk: 536
+    startChunk: 53.6 km
+    endChunk: 53.7 km
+    endAhead: 61.7 km
+    down: 1
+    downs:
+    - 53.668 km
+    downers:
+    - - '160'
+      - Giuseppe Simone
+    downward: 5
+    rel: 1.13276e-3
+    frac: 0.31030273
+  - chunk: 539
+    startChunk: 53.9 km
+    endChunk: 54.0 km
+    endAhead: 62.0 km
+    down: 2
+    downs:
+    - 53.941 km
+    - 53.949 km
+    downers:
+    - - '165'
+      - Andrea Terenziani
+    - - '131'
+      - Marco Gentilini
+    downward: 4
+    rel: 9.0621e-4
+    frac: 0.31298828
+  - chunk: 545
+    startChunk: 54.5 km
+    endChunk: 54.6 km
+    endAhead: 62.6 km
+    down: 1
+    downs:
+    - 54.524 km
+    downers:
+    - - '152'
+      - Alessandro Pompei
+    downward: 2
+    rel: 4.531e-4
+    frac: 0.31591797
+  - chunk: 558
+    startChunk: 55.8 km
+    endChunk: 55.9 km
+    endAhead: 63.9 km
+    down: 1
+    downs:
+    - 55.834 km
+    downers:
+    - - '176'
+      - Francesco Fontanesi
+    downward: 1
+    rel: 2.2655e-4
+    frac: 0.31884766
+  - chunk: 639
+    startChunk: 63.9 km
+    endChunk: 64.0 km
+    endAhead: 72.0 km
+    down: 1
+    downs:
+    - 63.927 km
+    downers:
+    - - '158'
+      - Antonio Ruta
+    downward: 9
+    rel: 2.03897e-3
+    frac: 0.41699219
+  - chunk: 647
+    startChunk: 64.7 km
+    endChunk: 64.8 km
+    endAhead: 72.8 km
+    down: 1
+    downs:
+    - 64.765 km
+    downers:
+    - - '122'
+      - Angelo Dell’Aira
+    downward: 9
+    rel: 2.03897e-3
+    frac: 0.43286133
+  - chunk: 648
+    startChunk: 64.8 km
+    endChunk: 64.9 km
+    endAhead: 72.9 km
+    down: 1
+    downs:
+    - 64.816 km
+    downers:
+    - - '161'
+      - Matteo Siragna
+    downward: 8
+    rel: 1.81242e-3
+    frac: 0.43481445
+  - chunk: 649
+    startChunk: 64.9 km
+    endChunk: 65.0 km
+    endAhead: 73.0 km
+    down: 1
+    downs:
+    - 64.917 km
+    downers:
+    - - '144'
+      - Riccardo Marchetto
+    downward: 7
+    rel: 1.58586e-3
+    frac: 0.4362793
+  - chunk: 672
+    startChunk: 67.2 km
+    endChunk: 67.3 km
+    endAhead: 75.3 km
+    down: 1
+    downs:
+    - 67.280 km
+    downers:
+    - - '133'
+      - Alessio Guidi
+    downward: 6
+    rel: 1.35931e-3
+    frac: 0.4675293
+  - chunk: 685
+    startChunk: 68.5 km
+    endChunk: 68.6 km
+    endAhead: 76.6 km
+    down: 1
+    downs:
+    - 68.515 km
+    downers:
+    - - '147'
+      - Francesco Orcese
+    downward: 5
+    rel: 1.13276e-3
+    frac: 0.48242188
+  - chunk: 689
+    startChunk: 68.9 km
+    endChunk: 69.0 km
+    endAhead: 77.0 km
+    down: 1
+    downs:
+    - 68.978 km
+    downers:
+    - - '108'
+      - Michele Boschi
+    downward: 4
+    rel: 9.0621e-4
+    frac: 0.48583984
+  - chunk: 691
+    startChunk: 69.1 km
+    endChunk: 69.2 km
+    endAhead: 77.2 km
+    down: 1
+    downs:
+    - 69.148 km
+    downers:
+    - - '113'
+      - Tommaso Carlini
+    downward: 3
+    rel: 6.7966e-4
+    frac: 0.48730469
+  - chunk: 717
+    startChunk: 71.7 km
+    endChunk: 71.8 km
+    endAhead: 79.8 km
+    down: 1
+    downs:
+    - 71.754 km
+    downers:
+    - - '139'
+      - Alessandro Madaluni
+    downward: 2
+    rel: 4.531e-4
+    frac: 0.49902344
+  - chunk: 721
+    startChunk: 72.1 km
+    endChunk: 72.2 km
+    endAhead: 80.2 km
+    down: 1
+    downs:
+    - 72.161 km
+    downers:
+    - - '135'
+      - Cristian Inverardi
+    downward: 1
+    rel: 2.2655e-4
+    frac: 0.5
 - null
-- null
-- null
-- null
-- null
-- null
+- - chunk: 11
+    startChunk: 1.1 km
+    endChunk: 1.2 km
+    endAhead: 7.7 km
+    down: 1
+    downs:
+    - 1.179 km
+    downers:
+    - - '131'
+      - Marco Gentilini
+    downward: 4
+    rel: 6.5789e-4
+    frac: 7.8125e-3
+  - chunk: 26
+    startChunk: 2.6 km
+    endChunk: 2.7 km
+    endAhead: 9.2 km
+    down: 2
+    downs:
+    - 2.644 km
+    - 2.649 km
+    downers:
+    - - '175'
+      - Mariusz Wisniowski
+    - - '178'
+      - Marius Saigiu
+    downward: 3
+    rel: 4.9342e-4
+    frac: 1.538086e-2
+  - chunk: 48
+    startChunk: 4.8 km
+    endChunk: 4.9 km
+    endAhead: 11.4 km
+    down: 1
+    downs:
+    - 4.866 km
+    downers:
+    - - '118'
+      - Igor D'Agostino
+    downward: 1
+    rel: 1.6447e-4
+    frac: 1.879883e-2
+  - chunk: 153
+    startChunk: 15.3 km
+    endChunk: 15.4 km
+    endAhead: 21.9 km
+    down: 1
+    downs:
+    - 15.393 km
+    downers:
+    - - '116'
+      - Ivan Centa
+    downward: 1
+    rel: 1.6447e-4
+    frac: 2.954102e-2
+  - chunk: 240
+    startChunk: 24.0 km
+    endChunk: 24.1 km
+    endAhead: 30.6 km
+    down: 1
+    downs:
+    - 24.076 km
+    downers:
+    - - '119'
+      - Maria Antonietta D'Angela
+    downward: 1
+    rel: 1.6447e-4
+    frac: 4.02832e-2
+  - chunk: 443
+    startChunk: 44.3 km
+    endChunk: 44.4 km
+    endAhead: 50.9 km
+    down: 2
+    downs:
+    - 44.348 km
+    - 44.393 km
+    downers:
+    - - '117'
+      - Gianfranco Crestani
+    - - '174'
+      - Davide Zaltron
+    downward: 2
+    rel: 3.2895e-4
+    frac: 6.176758e-2
+  - chunk: 585
+    startChunk: 58.5 km
+    endChunk: 58.6 km
+    endAhead: 65.1 km
+    down: 1
+    downs:
+    - 58.596 km
+    downers:
+    - - '123'
+      - Sergio Di Fazio
+    downward: 9
+    rel: 1.48026e-3
+    frac: 0.13256836
+  - chunk: 586
+    startChunk: 58.6 km
+    endChunk: 58.7 km
+    endAhead: 65.2 km
+    down: 3
+    downs:
+    - 58.631 km
+    - 58.639 km
+    - 58.653 km
+    downers:
+    - - '149'
+      - Alessandro Palma
+    - - '167'
+      - Ionut Ulici
+    - - '147'
+      - Francesco Orcese
+    downward: 10
+    rel: 1.64474e-3
+    frac: 0.13427734
+  - chunk: 599
+    startChunk: 59.9 km
+    endChunk: 60.0 km
+    endAhead: 66.5 km
+    down: 1
+    downs:
+    - 59.959 km
+    downers:
+    - - '125'
+      - Grzegorz Fiema
+    downward: 11
+    rel: 1.80921e-3
+    frac: 0.15551758
+  - chunk: 602
+    startChunk: 60.2 km
+    endChunk: 60.3 km
+    endAhead: 66.8 km
+    down: 1
+    downs:
+    - 60.232 km
+    downers:
+    - - '128'
+      - Michele Gaiba
+    downward: 10
+    rel: 1.64474e-3
+    frac: 0.16040039
+  - chunk: 613
+    startChunk: 61.3 km
+    endChunk: 61.4 km
+    endAhead: 67.9 km
+    down: 1
+    downs:
+    - 61.379 km
+    downers:
+    - - '136'
+      - Gbriel-Alexandru Ivan
+    downward: 9
+    rel: 1.48026e-3
+    frac: 0.17675781
+  - chunk: 625
+    startChunk: 62.5 km
+    endChunk: 62.6 km
+    endAhead: 69.1 km
+    down: 1
+    downs:
+    - 62.545 km
+    downers:
+    - - '143'
+      - Valerio Marchetti
+    downward: 8
+    rel: 1.31579e-3
+    frac: 0.19238281
+  - chunk: 637
+    startChunk: 63.7 km
+    endChunk: 63.8 km
+    endAhead: 70.3 km
+    down: 1
+    downs:
+    - 63.792 km
+    downers:
+    - - '148'
+      - Luciano Pagnoni
+    downward: 7
+    rel: 1.15132e-3
+    frac: 0.20629883
+  - chunk: 650
+    startChunk: 65.0 km
+    endChunk: 65.1 km
+    endAhead: 71.6 km
+    down: 2
+    downs:
+    - 65.059 km
+    - 65.098 km
+    downers:
+    - - '152'
+      - Alessandro Pompei
+    - - '176'
+      - Francesco Fontanesi
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.21899414
+  - chunk: 653
+    startChunk: 65.3 km
+    endChunk: 65.4 km
+    endAhead: 71.9 km
+    down: 1
+    downs:
+    - 65.301 km
+    downers:
+    - - '151'
+      - Piergiorgio Pintossi
+    downward: 4
+    rel: 6.5789e-4
+    frac: 0.22094727
+  - chunk: 654
+    startChunk: 65.4 km
+    endChunk: 65.5 km
+    endAhead: 72.0 km
+    down: 1
+    downs:
+    - 65.454 km
+    downers:
+    - - '122'
+      - Angelo Dell’Aira
+    downward: 3
+    rel: 4.9342e-4
+    frac: 0.22143555
+  - chunk: 655
+    startChunk: 65.5 km
+    endChunk: 65.6 km
+    endAhead: 72.1 km
+    down: 1
+    downs:
+    - 65.582 km
+    downers:
+    - - '144'
+      - Riccardo Marchetto
+    downward: 2
+    rel: 3.2895e-4
+    frac: 0.22192383
+  - chunk: 656
+    startChunk: 65.6 km
+    endChunk: 65.7 km
+    endAhead: 72.2 km
+    down: 1
+    downs:
+    - 65.661 km
+    downers:
+    - - '107'
+      - Gabriele Bonafini
+    downward: 1
+    rel: 1.6447e-4
+    frac: 0.22192383
+  - chunk: 742
+    startChunk: 74.2 km
+    endChunk: 74.3 km
+    endAhead: 80.8 km
+    down: 1
+    downs:
+    - 74.294 km
+    downers:
+    - - '135'
+      - Cristian Inverardi
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.26196289
+  - chunk: 763
+    startChunk: 76.3 km
+    endChunk: 76.4 km
+    endAhead: 82.9 km
+    down: 3
+    downs:
+    - 76.358 km
+    - 76.371 km
+    - 76.389 km
+    downers:
+    - - '160'
+      - Giuseppe Simone
+    - - '139'
+      - Alessandro Madaluni
+    - - '156'
+      - Massimo Rapari
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.28173828
+  - chunk: 783
+    startChunk: 78.3 km
+    endChunk: 78.4 km
+    endAhead: 84.9 km
+    down: 1
+    downs:
+    - 78.398 km
+    downers:
+    - - '114'
+      - Mirco Casarini
+    downward: 9
+    rel: 1.48026e-3
+    frac: 0.29858398
+  - chunk: 786
+    startChunk: 78.6 km
+    endChunk: 78.7 km
+    endAhead: 85.2 km
+    down: 1
+    downs:
+    - 78.698 km
+    downers:
+    - - '177'
+      - Bogdan Bialka
+    downward: 8
+    rel: 1.31579e-3
+    frac: 0.30273438
+  - chunk: 812
+    startChunk: 81.2 km
+    endChunk: 81.3 km
+    endAhead: 87.8 km
+    down: 1
+    downs:
+    - 81.225 km
+    downers:
+    - - '141'
+      - Albino Malli
+    downward: 8
+    rel: 1.31579e-3
+    frac: 0.33300781
+  - chunk: 837
+    startChunk: 83.7 km
+    endChunk: 83.8 km
+    endAhead: 90.3 km
+    down: 1
+    downs:
+    - 83.781 km
+    downers:
+    - - '142'
+      - Luca Mammucari
+    downward: 8
+    rel: 1.31579e-3
+    frac: 0.36181641
+  - chunk: 840
+    startChunk: 84.0 km
+    endChunk: 84.1 km
+    endAhead: 90.6 km
+    down: 1
+    downs:
+    - 84.093 km
+    downers:
+    - - '102'
+      - Matteo Bacchiocchi
+    downward: 7
+    rel: 1.15132e-3
+    frac: 0.36523438
+  - chunk: 842
+    startChunk: 84.2 km
+    endChunk: 84.3 km
+    endAhead: 90.8 km
+    down: 4
+    downs:
+    - 84.226 km
+    - 84.254 km
+    - 84.270 km
+    - 84.287 km
+    downers:
+    - - '165'
+      - Andrea Terenziani
+    - - '113'
+      - Tommaso Carlini
+    - - '133'
+      - Alessio Guidi
+    - - '120'
+      - Gabriele D'Arrigo
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.3671875
+  - chunk: 875
+    startChunk: 87.5 km
+    endChunk: 87.6 km
+    endAhead: 94.1 km
+    down: 1
+    downs:
+    - 87.516 km
+    downers:
+    - - '121'
+      - Giorgio Darra
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.38671875
+  - chunk: 901
+    startChunk: 90.1 km
+    endChunk: 90.2 km
+    endAhead: 96.7 km
+    down: 1
+    downs:
+    - 90.189 km
+    downers:
+    - - '127'
+      - Richárd Gabrieli
+    downward: 7
+    rel: 1.15132e-3
+    frac: 0.41259766
+  - chunk: 921
+    startChunk: 92.1 km
+    endChunk: 92.2 km
+    endAhead: 98.7 km
+    down: 1
+    downs:
+    - 92.182 km
+    downers:
+    - - '164'
+      - Anca Tabara
+    downward: 7
+    rel: 1.15132e-3
+    frac: 0.43310547
+  - chunk: 922
+    startChunk: 92.2 km
+    endChunk: 92.3 km
+    endAhead: 98.8 km
+    down: 1
+    downs:
+    - 92.203 km
+    downers:
+    - - '137'
+      - Slawomir Kaczynski
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.43432617
+  - chunk: 932
+    startChunk: 93.2 km
+    endChunk: 93.3 km
+    endAhead: 99.8 km
+    down: 1
+    downs:
+    - 93.295 km
+    downers:
+    - - '126'
+      - Alessandro Fuzzi
+    downward: 6
+    rel: 9.8684e-4
+    frac: 0.44311523
+  - chunk: 933
+    startChunk: 93.3 km
+    endChunk: 93.4 km
+    endAhead: 99.9 km
+    down: 1
+    downs:
+    - 93.307 km
+    downers:
+    - - '170'
+      - Paolo Veratti
+    downward: 5
+    rel: 8.2237e-4
+    frac: 0.44384766
+  - chunk: 945
+    startChunk: 94.5 km
+    endChunk: 94.6 km
+    endAhead: 101.1 km
+    down: 1
+    downs:
+    - 94.573 km
+    downers:
+    - - '168'
+      - Marco Valentini
+    downward: 4
+    rel: 6.5789e-4
+    frac: 0.4519043
+  - chunk: 959
+    startChunk: 95.9 km
+    endChunk: 96.0 km
+    endAhead: 102.5 km
+    down: 1
+    downs:
+    - 95.902 km
+    downers:
+    - - '173'
+      - Paolo Zammarchi
+    downward: 4
+    rel: 6.5789e-4
+    frac: 0.46020508
+  - chunk: 981
+    startChunk: 98.1 km
+    endChunk: 98.2 km
+    endAhead: 104.7 km
+    down: 1
+    downs:
+    - 98.177 km
+    downers:
+    - - '129'
+      - Luciano Gallo
+    downward: 3
+    rel: 4.9342e-4
+    frac: 0.47094727
+  - chunk: 993
+    startChunk: 99.3 km
+    endChunk: 99.4 km
+    endAhead: 105.9 km
+    down: 1
+    downs:
+    - 99.329 km
+    downers:
+    - - '158'
+      - Antonio Ruta
+    downward: 4
+    rel: 6.5789e-4
+    frac: 0.47900391
+  - chunk: 1015
+    startChunk: 101.5 km
+    endChunk: 101.6 km
+    endAhead: 108.1 km
+    down: 1
+    downs:
+    - 101.587 km
+    downers:
+    - - '108'
+      - Michele Boschi
+    downward: 3
+    rel: 4.9342e-4
+    frac: 0.48974609
+  - chunk: 1046
+    startChunk: 104.6 km
+    endChunk: 104.7 km
+    endAhead: 111.2 km
+    down: 2
+    downs:
+    - 104.645 km
+    - 104.648 km
+    downers:
+    - - '130'
+      - Andrea Garolla
+    - - '169'
+      - Alessandro Vallero
+    downward: 2
+    rel: 3.2895e-4
+    frac: 0.5
+- - chunk: 63
+    startChunk: 6.3 km
+    endChunk: 6.4 km
+    endAhead: 12.8 km
+    down: 3
+    downs:
+    - 6.313 km
+    - 6.322 km
+    - 6.322 km
+    downers:
+    - - '119'
+      - Maria Antonietta D'Angela
+    - - '176'
+      - Francesco Fontanesi
+    - - '131'
+      - Marco Gentilini
+    downward: 5
+    rel: 9.5274e-4
+    frac: 5.957031e-2
+  - chunk: 67
+    startChunk: 6.7 km
+    endChunk: 6.8 km
+    endAhead: 13.2 km
+    down: 2
+    downs:
+    - 6.735 km
+    - 6.751 km
+    downers:
+    - - '123'
+      - Sergio Di Fazio
+    - - '174'
+      - Davide Zaltron
+    downward: 2
+    rel: 3.811e-4
+    frac: 6.103516e-2
+  - chunk: 137
+    startChunk: 13.7 km
+    endChunk: 13.8 km
+    endAhead: 20.2 km
+    down: 2
+    downs:
+    - 13.728 km
+    - 13.743 km
+    downers:
+    - - '118'
+      - Igor D'Agostino
+    - - '156'
+      - Massimo Rapari
+    downward: 3
+    rel: 5.7165e-4
+    frac: 9.570312e-2
+  - chunk: 147
+    startChunk: 14.7 km
+    endChunk: 14.8 km
+    endAhead: 21.2 km
+    down: 1
+    downs:
+    - 14.731 km
+    downers:
+    - - '149'
+      - Alessandro Palma
+    downward: 1
+    rel: 1.9055e-4
+    frac: 9.765625e-2
+  - chunk: 241
+    startChunk: 24.1 km
+    endChunk: 24.2 km
+    endAhead: 30.6 km
+    down: 1
+    downs:
+    - 24.187 km
+    downers:
+    - - '148'
+      - Luciano Pagnoni
+    downward: 5
+    rel: 9.5274e-4
+    frac: 0.14135742
+  - chunk: 247
+    startChunk: 24.7 km
+    endChunk: 24.8 km
+    endAhead: 31.2 km
+    down: 1
+    downs:
+    - 24.732 km
+    downers:
+    - - '135'
+      - Cristian Inverardi
+    downward: 4
+    rel: 7.622e-4
+    frac: 0.14599609
+  - chunk: 259
+    startChunk: 25.9 km
+    endChunk: 26.0 km
+    endAhead: 32.4 km
+    down: 1
+    downs:
+    - 25.953 km
+    downers:
+    - - '130'
+      - Andrea Garolla
+    downward: 3
+    rel: 5.7165e-4
+    frac: 0.15283203
+  - chunk: 268
+    startChunk: 26.8 km
+    endChunk: 26.9 km
+    endAhead: 33.3 km
+    down: 1
+    downs:
+    - 26.854 km
+    downers:
+    - - '102'
+      - Matteo Bacchiocchi
+    downward: 2
+    rel: 3.811e-4
+    frac: 0.15625
+  - chunk: 280
+    startChunk: 28.0 km
+    endChunk: 28.1 km
+    endAhead: 34.5 km
+    down: 1
+    downs:
+    - 28.018 km
+    downers:
+    - - '161'
+      - Matteo Siragna
+    downward: 1
+    rel: 1.9055e-4
+    frac: 0.15844727
+  - chunk: 365
+    startChunk: 36.5 km
+    endChunk: 36.6 km
+    endAhead: 43.0 km
+    down: 1
+    downs:
+    - 36.524 km
+    downers:
+    - - '151'
+      - Piergiorgio Pintossi
+    downward: 4
+    rel: 7.622e-4
+    frac: 0.1953125
+  - chunk: 366
+    startChunk: 36.6 km
+    endChunk: 36.7 km
+    endAhead: 43.1 km
+    down: 1
+    downs:
+    - 36.644 km
+    downers:
+    - - '136'
+      - Gbriel-Alexandru Ivan
+    downward: 3
+    rel: 5.7165e-4
+    frac: 0.19580078
+  - chunk: 372
+    startChunk: 37.2 km
+    endChunk: 37.3 km
+    endAhead: 43.7 km
+    down: 1
+    downs:
+    - 37.255 km
+    downers:
+    - - '167'
+      - Ionut Ulici
+    downward: 2
+    rel: 3.811e-4
+    frac: 0.19824219
+  - chunk: 420
+    startChunk: 42.0 km
+    endChunk: 42.1 km
+    endAhead: 48.5 km
+    down: 1
+    downs:
+    - 42.023 km
+    downers:
+    - - '107'
+      - Gabriele Bonafini
+    downward: 1
+    rel: 1.9055e-4
+    frac: 0.20727539
+  - chunk: 490
+    startChunk: 49.0 km
+    endChunk: 49.1 km
+    endAhead: 55.5 km
+    down: 1
+    downs:
+    - 49.010 km
+    downers:
+    - - '132'
+      - Jacek Górski
+    downward: 2
+    rel: 3.811e-4
+    frac: 0.22973633
+  - chunk: 500
+    startChunk: 50.0 km
+    endChunk: 50.1 km
+    endAhead: 56.5 km
+    down: 1
+    downs:
+    - 50.080 km
+    downers:
+    - - '162'
+      - Arkadiusz Slusarczyk
+    downward: 1
+    rel: 1.9055e-4
+    frac: 0.23168945
+  - chunk: 677
+    startChunk: 67.7 km
+    endChunk: 67.8 km
+    endAhead: 74.2 km
+    down: 1
+    downs:
+    - 67.716 km
+    downers:
+    - - '109'
+      - Federico Brown Manzone
+    downward: 9
+    rel: 1.71494e-3
+    frac: 0.31323242
+  - chunk: 678
+    startChunk: 67.8 km
+    endChunk: 67.9 km
+    endAhead: 74.3 km
+    down: 1
+    downs:
+    - 67.886 km
+    downers:
+    - - '165'
+      - Andrea Terenziani
+    downward: 8
+    rel: 1.52439e-3
+    frac: 0.31469727
+  - chunk: 679
+    startChunk: 67.9 km
+    endChunk: 68.0 km
+    endAhead: 74.4 km
+    down: 1
+    downs:
+    - 67.906 km
+    downers:
+    - - '139'
+      - Alessandro Madaluni
+    downward: 10
+    rel: 1.90549e-3
+    frac: 0.31665039
+  - chunk: 684
+    startChunk: 68.4 km
+    endChunk: 68.5 km
+    endAhead: 74.9 km
+    down: 2
+    downs:
+    - 68.447 km
+    - 68.459 km
+    downers:
+    - - '143'
+      - Valerio Marchetti
+    - - '152'
+      - Alessandro Pompei
+    downward: 11
+    rel: 2.09604e-3
+    frac: 0.32592773
+  - chunk: 696
+    startChunk: 69.6 km
+    endChunk: 69.7 km
+    endAhead: 76.1 km
+    down: 1
+    downs:
+    - 69.635 km
+    downers:
+    - - '160'
+      - Giuseppe Simone
+    downward: 9
+    rel: 1.71494e-3
+    frac: 0.34667969
+  - chunk: 711
+    startChunk: 71.1 km
+    endChunk: 71.2 km
+    endAhead: 77.6 km
+    down: 1
+    downs:
+    - 71.192 km
+    downers:
+    - - '125'
+      - Grzegorz Fiema
+    downward: 10
+    rel: 1.90549e-3
+    frac: 0.37158203
+  - chunk: 716
+    startChunk: 71.6 km
+    endChunk: 71.7 km
+    endAhead: 78.1 km
+    down: 2
+    downs:
+    - 71.624 km
+    - 71.660 km
+    downers:
+    - - '178'
+      - Marius Saigiu
+    - - '150'
+      - Luca Paoletti
+    downward: 9
+    rel: 1.71494e-3
+    frac: 0.38012695
+  - chunk: 742
+    startChunk: 74.2 km
+    endChunk: 74.3 km
+    endAhead: 80.7 km
+    down: 3
+    downs:
+    - 74.211 km
+    - 74.221 km
+    - 74.223 km
+    downers:
+    - - '144'
+      - Riccardo Marchetto
+    - - '113'
+      - Tommaso Carlini
+    - - '110'
+      - Klaudia Bulgakow
+    downward: 11
+    rel: 2.09604e-3
+    frac: 0.42236328
+  - chunk: 745
+    startChunk: 74.5 km
+    endChunk: 74.6 km
+    endAhead: 81.0 km
+    down: 1
+    downs:
+    - 74.524 km
+    downers:
+    - - '120'
+      - Gabriele D'Arrigo
+    downward: 8
+    rel: 1.52439e-3
+    frac: 0.42700195
+  - chunk: 747
+    startChunk: 74.7 km
+    endChunk: 74.8 km
+    endAhead: 81.2 km
+    down: 1
+    downs:
+    - 74.709 km
+    downers:
+    - - '142'
+      - Luca Mammucari
+    downward: 7
+    rel: 1.33384e-3
+    frac: 0.4296875
+  - chunk: 767
+    startChunk: 76.7 km
+    endChunk: 76.8 km
+    endAhead: 83.2 km
+    down: 1
+    downs:
+    - 76.749 km
+    downers:
+    - - '117'
+      - Gianfranco Crestani
+    downward: 6
+    rel: 1.14329e-3
+    frac: 0.45263672
+  - chunk: 772
+    startChunk: 77.2 km
+    endChunk: 77.3 km
+    endAhead: 83.7 km
+    down: 1
+    downs:
+    - 77.238 km
+    downers:
+    - - '141'
+      - Albino Malli
+    downward: 6
+    rel: 1.14329e-3
+    frac: 0.45751953
+  - chunk: 783
+    startChunk: 78.3 km
+    endChunk: 78.4 km
+    endAhead: 84.8 km
+    down: 1
+    downs:
+    - 78.397 km
+    downers:
+    - - '133'
+      - Alessio Guidi
+    downward: 5
+    rel: 9.5274e-4
+    frac: 0.46801758
+  - chunk: 793
+    startChunk: 79.3 km
+    endChunk: 79.4 km
+    endAhead: 85.8 km
+    down: 1
+    downs:
+    - 79.394 km
+    downers:
+    - - '140'
+      - Maurizio Maina
+    downward: 4
+    rel: 7.622e-4
+    frac: 0.47558594
+  - chunk: 803
+    startChunk: 80.3 km
+    endChunk: 80.4 km
+    endAhead: 86.8 km
+    down: 1
+    downs:
+    - 80.368 km
+    downers:
+    - - '169'
+      - Alessandro Vallero
+    downward: 4
+    rel: 7.622e-4
+    frac: 0.48193359
+  - chunk: 805
+    startChunk: 80.5 km
+    endChunk: 80.6 km
+    endAhead: 87.0 km
+    down: 1
+    downs:
+    - 80.586 km
+    downers:
+    - - '147'
+      - Francesco Orcese
+    downward: 3
+    rel: 5.7165e-4
+    frac: 0.4831543
+  - chunk: 835
+    startChunk: 83.5 km
+    endChunk: 83.6 km
+    endAhead: 90.0 km
+    down: 1
+    downs:
+    - 83.562 km
+    downers:
+    - - '122'
+      - Angelo Dell’Aira
+    downward: 2
+    rel: 3.811e-4
+    frac: 0.49438477
+  - chunk: 864
+    startChunk: 86.4 km
+    endChunk: 86.5 km
+    endAhead: 92.9 km
+    down: 1
+    downs:
+    - 86.497 km
+    downers:
+    - - '146'
+      - Joachim Oberhauser
+    downward: 1
+    rel: 1.9055e-4
+    frac: 0.5
+- - chunk: 103
+    startChunk: 10.3 km
+    endChunk: 10.4 km
+    endAhead: 23.8 km
+    down: 1
+    downs:
+    - 10.319 km
+    downers:
+    - - '110'
+      - Klaudia Bulgakow
+    downward: 2
+    rel: 5.4171e-4
+    frac: 4.907227e-2
+  - chunk: 160
+    startChunk: 16.0 km
+    endChunk: 16.1 km
+    endAhead: 29.5 km
+    down: 1
+    downs:
+    - 16.052 km
+    downers:
+    - - '149'
+      - Alessandro Palma
+    downward: 1
+    rel: 2.7086e-4
+    frac: 6.445312e-2
+  - chunk: 415
+    startChunk: 41.5 km
+    endChunk: 41.6 km
+    endAhead: 55.0 km
+    down: 1
+    downs:
+    - 41.513 km
+    downers:
+    - - '140'
+      - Maurizio Maina
+    downward: 12
+    rel: 3.25027e-3
+    frac: 0.39135742
+  - chunk: 423
+    startChunk: 42.3 km
+    endChunk: 42.4 km
+    endAhead: 55.8 km
+    down: 2
+    downs:
+    - 42.365 km
+    - 42.392 km
+    downers:
+    - - '125'
+      - Grzegorz Fiema
+    - - '102'
+      - Matteo Bacchiocchi
+    downward: 11
+    rel: 2.97941e-3
+    frac: 0.4152832
+  - chunk: 428
+    startChunk: 42.8 km
+    endChunk: 42.9 km
+    endAhead: 56.3 km
+    down: 1
+    downs:
+    - 42.835 km
+    downers:
+    - - '147'
+      - Francesco Orcese
+    downward: 9
+    rel: 2.4377e-3
+    frac: 0.42749023
+  - chunk: 440
+    startChunk: 44.0 km
+    endChunk: 44.1 km
+    endAhead: 57.5 km
+    down: 1
+    downs:
+    - 44.065 km
+    downers:
+    - - '127'
+      - Richárd Gabrieli
+    downward: 8
+    rel: 2.16685e-3
+    frac: 0.45336914
+  - chunk: 446
+    startChunk: 44.6 km
+    endChunk: 44.7 km
+    endAhead: 58.1 km
+    down: 1
+    downs:
+    - 44.690 km
+    downers:
+    - - '117'
+      - Gianfranco Crestani
+    downward: 7
+    rel: 1.89599e-3
+    frac: 0.46484375
+  - chunk: 453
+    startChunk: 45.3 km
+    endChunk: 45.4 km
+    endAhead: 58.8 km
+    down: 2
+    downs:
+    - 45.333 km
+    - 45.353 km
+    downers:
+    - - '158'
+      - Antonio Ruta
+    - - '121'
+      - Giorgio Darra
+    downward: 6
+    rel: 1.62514e-3
+    frac: 0.47607422
+  - chunk: 456
+    startChunk: 45.6 km
+    endChunk: 45.7 km
+    endAhead: 59.1 km
+    down: 2
+    downs:
+    - 45.609 km
+    - 45.641 km
+    downers:
+    - - '122'
+      - Angelo Dell’Aira
+    - - '119'
+      - Maria Antonietta D'Angela
+    downward: 4
+    rel: 1.08342e-3
+    frac: 0.47949219
+  - chunk: 476
+    startChunk: 47.6 km
+    endChunk: 47.7 km
+    endAhead: 61.1 km
+    down: 1
+    downs:
+    - 47.644 km
+    downers:
+    - - '133'
+      - Alessio Guidi
+    downward: 2
+    rel: 5.4171e-4
+    frac: 0.49023438
+  - chunk: 512
+    startChunk: 51.2 km
+    endChunk: 51.3 km
+    endAhead: 64.7 km
+    down: 1
+    downs:
+    - 51.206 km
+    downers:
+    - - '167'
+      - Ionut Ulici
+    downward: 1
+    rel: 2.7086e-4
+    frac: 0.5

@@ -1,7 +1,1782 @@
 areas:
+- - - - '115'
+      - Alberto Castagna
+    - areaFlown: 6927142.0566 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 501902.9680 km^2 s
+  - - - '141'
+      - Albino Malli
+    - areaFlown: 7072230.1548 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 844465.0010 km^2 s
+  - - - '126'
+      - Alessandro Fuzzi
+    - areaFlown: 7403471.3465 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 536752.2471 km^2 s
+  - - - '139'
+      - Alessandro Madaluni
+    - areaFlown: 7376574.2032 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1093792.2822 km^2 s
+  - - - '149'
+      - Alessandro Palma
+    - areaFlown: 1662371.3387 km^2 s
+      areaAfterLanding: 13857744.7749 km^2 s
+      areaBeforeStart: 473891.6294 km^2 s
+  - - - '152'
+      - Alessandro Pompei
+    - areaFlown: 2933466.4777 km^2 s
+      areaAfterLanding: 14280730.8773 km^2 s
+      areaBeforeStart: 606668.9667 km^2 s
+  - - - '169'
+      - Alessandro Vallero
+    - areaFlown: 6746355.8095 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 795717.7343 km^2 s
+  - - - '133'
+      - Alessio Guidi
+    - areaFlown: 2819340.9202 km^2 s
+      areaAfterLanding: 17203970.3045 km^2 s
+      areaBeforeStart: 247097.1240 km^2 s
+  - - - '172'
+      - Alessio Voltan
+    - areaFlown: 6972693.4197 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 650719.0367 km^2 s
+  - - - '155'
+      - Alfio Ragaglia
+    - areaFlown: 1673328.8379 km^2 s
+      areaAfterLanding: 13800894.2387 km^2 s
+      areaBeforeStart: 203830.8729 km^2 s
+  - - - '164'
+      - Anca Tabara
+    - areaFlown: 8671721.5912 km^2 s
+      areaAfterLanding: 154481.9805 km^2 s
+      areaBeforeStart: 563634.9771 km^2 s
+  - - - '130'
+      - Andrea Garolla
+    - areaFlown: 7760878.9353 km^2 s
+      areaAfterLanding: 197628.2049 km^2 s
+      areaBeforeStart: 395363.3553 km^2 s
+  - - - '165'
+      - Andrea Terenziani
+    - areaFlown: 6967413.0188 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 758381.8476 km^2 s
+  - - - '122'
+      - Angelo Dell’Aira
+    - areaFlown: 7084559.3108 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 783990.0799 km^2 s
+  - - - '158'
+      - Antonio Ruta
+    - areaFlown: 1626005.8849 km^2 s
+      areaAfterLanding: 20131910.4699 km^2 s
+      areaBeforeStart: 232342.2525 km^2 s
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - areaFlown: 3258542.3632 km^2 s
+      areaAfterLanding: 16536060.4954 km^2 s
+      areaBeforeStart: 254868.1134 km^2 s
+  - - - '171'
+      - Biagio Alberto Vitale
+    - areaFlown: 6825917.9417 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 448123.8981 km^2 s
+  - - - '177'
+      - Bogdan Bialka
+    - areaFlown: 6963805.2456 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 803098.8022 km^2 s
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - areaFlown: 1104929.3358 km^2 s
+      areaAfterLanding: 20499399.2547 km^2 s
+      areaBeforeStart: 328323.4431 km^2 s
+  - - - '106'
+      - Christian Biasi
+    - areaFlown: 6879476.5472 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 801295.5829 km^2 s
+  - - - '135'
+      - Cristian Inverardi
+    - areaFlown: 6823229.6546 km^2 s
+      areaAfterLanding: 1591495.8970 km^2 s
+      areaBeforeStart: 357748.4243 km^2 s
+  - - - '105'
+      - Daniele Bevilacqua
+    - areaFlown: 7022762.4963 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 653166.3491 km^2 s
+  - - - '174'
+      - Davide Zaltron
+    - areaFlown: 12162406.5611 km^2 s
+      areaAfterLanding: 168911.1916 km^2 s
+      areaBeforeStart: 2327782.7267 km^2 s
+  - - - '101'
+      - Diego Ardissone
+    - areaFlown: 6488153.3847 km^2 s
+      areaAfterLanding: 974021.4571 km^2 s
+      areaBeforeStart: 1324256.7128 km^2 s
+  - - - '157'
+      - Elio Rossi
+    - areaFlown: 6956536.1975 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 652171.6012 km^2 s
+  - - - '109'
+      - Federico Brown Manzone
+    - areaFlown: 6768844.5186 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 668169.4985 km^2 s
+  - - - '145'
+      - Federico Nevastro
+    - areaFlown: 7261897.0310 km^2 s
+      areaAfterLanding: 1346024.0307 km^2 s
+      areaBeforeStart: 856224.0106 km^2 s
+  - - - '147'
+      - Francesco Orcese
+    - areaFlown: 11299411.0056 km^2 s
+      areaAfterLanding: 1005096.5095 km^2 s
+      areaBeforeStart: 348998.6207 km^2 s
+  - - - '107'
+      - Gabriele Bonafini
+    - areaFlown: 1658645.6197 km^2 s
+      areaAfterLanding: 16688671.7649 km^2 s
+      areaBeforeStart: 579262.5587 km^2 s
+  - - - '120'
+      - Gabriele D'Arrigo
+    - areaFlown: 7696575.8067 km^2 s
+      areaAfterLanding: 1566994.5765 km^2 s
+      areaBeforeStart: 202763.7189 km^2 s
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - areaFlown: 3275827.7806 km^2 s
+      areaAfterLanding: 11397196.4714 km^2 s
+      areaBeforeStart: 489597.4725 km^2 s
+  - - - '153'
+      - Gianbasilio Profiti
+    - areaFlown: 6894654.1621 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 371059.7793 km^2 s
+  - - - '117'
+      - Gianfranco Crestani
+    - areaFlown: 6996888.7706 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 699583.4874 km^2 s
+  - - - '121'
+      - Giorgio Darra
+    - areaFlown: 7059896.7440 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 470665.5638 km^2 s
+  - - - '160'
+      - Giuseppe Simone
+    - areaFlown: 9285317.9557 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 273735.0650 km^2 s
+  - - - '118'
+      - Igor D'Agostino
+    - areaFlown: 1382517.7597 km^2 s
+      areaAfterLanding: 18939308.6337 km^2 s
+      areaBeforeStart: 332341.1088 km^2 s
+  - - - '167'
+      - Ionut Ulici
+    - areaFlown: 9449536.0184 km^2 s
+      areaAfterLanding: 2714246.9589 km^2 s
+      areaBeforeStart: 657638.8616 km^2 s
+  - - - '116'
+      - Ivan Centa
+    - areaFlown: 7202067.0860 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 501917.9210 km^2 s
+  - - - '146'
+      - Joachim Oberhauser
+    - areaFlown: 6810395.6112 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 477879.3328 km^2 s
+  - - - '110'
+      - Klaudia Bulgakow
+    - areaFlown: 8242209.1597 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 461956.9169 km^2 s
+  - - - '104'
+      - Loris Berta
+    - areaFlown: 7014179.3769 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 804263.5327 km^2 s
+  - - - '142'
+      - Luca Mammucari
+    - areaFlown: 3959388.5098 km^2 s
+      areaAfterLanding: 7226150.3414 km^2 s
+      areaBeforeStart: 849871.8956 km^2 s
+  - - - '150'
+      - Luca Paoletti
+    - areaFlown: 7417955.4329 km^2 s
+      areaAfterLanding: 1681619.1560 km^2 s
+      areaBeforeStart: 259262.0685 km^2 s
+  - - - '129'
+      - Luciano Gallo
+    - areaFlown: 8594637.0288 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 672375.3349 km^2 s
+  - - - '148'
+      - Luciano Pagnoni
+    - areaFlown: 3262825.8201 km^2 s
+      areaAfterLanding: 11557070.8940 km^2 s
+      areaBeforeStart: 335639.3329 km^2 s
+  - - - '111'
+      - Marco Busetta
+    - areaFlown: 6870881.2571 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 515311.1618 km^2 s
+  - - - '131'
+      - Marco Gentilini
+    - areaFlown: 3360194.5407 km^2 s
+      areaAfterLanding: 13370542.4641 km^2 s
+      areaBeforeStart: 406382.2789 km^2 s
+  - - - '138'
+      - Marco Littamè
+    - areaFlown: 6807265.7977 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 342461.5907 km^2 s
+  - - - '168'
+      - Marco Valentini
+    - areaFlown: 6882340.6625 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 375702.0538 km^2 s
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - areaFlown: 4048153.6248 km^2 s
+      areaAfterLanding: 17223274.0111 km^2 s
+      areaBeforeStart: 2717157.8158 km^2 s
+  - - - '178'
+      - Marius Saigiu
+    - areaFlown: 8592409.6076 km^2 s
+      areaAfterLanding: 650746.6717 km^2 s
+      areaBeforeStart: 1995309.1439 km^2 s
+  - - - '156'
+      - Massimo Rapari
+    - areaFlown: 575354.9958 km^2 s
+      areaAfterLanding: 23128645.6733 km^2 s
+      areaBeforeStart: 237048.8614 km^2 s
+  - - - '102'
+      - Matteo Bacchiocchi
+    - areaFlown: 7129797.0310 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 868420.1329 km^2 s
+  - - - '161'
+      - Matteo Siragna
+    - areaFlown: 6955005.3081 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 244637.4834 km^2 s
+  - - - '140'
+      - Maurizio Maina
+    - areaFlown: 7131515.8721 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1120328.4413 km^2 s
+  - - - '108'
+      - Michele Boschi
+    - areaFlown: 7731974.8571 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 544533.6870 km^2 s
+  - - - '128'
+      - Michele Gaiba
+    - areaFlown: 8043121.2514 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 838020.2456 km^2 s
+  - - - '114'
+      - Mirco Casarini
+    - areaFlown: 6918721.5516 km^2 s
+      areaAfterLanding: 1251357.3219 km^2 s
+      areaBeforeStart: 843840.1657 km^2 s
+  - - - '124'
+      - Paolo Facchini
+    - areaFlown: 6920561.3765 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 732105.3763 km^2 s
+  - - - '170'
+      - Paolo Veratti
+    - areaFlown: 6887793.8321 km^2 s
+      areaAfterLanding: 407716.7471 km^2 s
+      areaBeforeStart: 345195.8020 km^2 s
+  - - - '173'
+      - Paolo Zammarchi
+    - areaFlown: 6902328.0963 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 527571.1355 km^2 s
+  - - - '151'
+      - Piergiorgio Pintossi
+    - areaFlown: 6023279.0200 km^2 s
+      areaAfterLanding: 3228983.7169 km^2 s
+      areaBeforeStart: 270094.4103 km^2 s
+  - - - '144'
+      - Riccardo Marchetto
+    - areaFlown: 4581570.2031 km^2 s
+      areaAfterLanding: 11000544.9100 km^2 s
+      areaBeforeStart: 404942.9481 km^2 s
+  - - - '127'
+      - Richárd Gabrieli
+    - areaFlown: 7016553.2167 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 452098.7746 km^2 s
+  - - - '123'
+      - Sergio Di Fazio
+    - areaFlown: 124787.8085 km^2 s
+      areaAfterLanding: 26229859.8015 km^2 s
+      areaBeforeStart: 336088.7478 km^2 s
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - areaFlown: 8440991.9993 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 402177.3403 km^2 s
+  - - - '137'
+      - Slawomir Kaczynski
+    - areaFlown: 6950995.7795 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 334996.4881 km^2 s
+  - - - '154'
+      - Stefano Pucci
+    - areaFlown: 7000858.0173 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 415806.0243 km^2 s
+  - - - '166'
+      - Tiziano Trambaioli
+    - areaFlown: 7039308.5233 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 303159.5406 km^2 s
+  - - - '113'
+      - Tommaso Carlini
+    - areaFlown: 8583566.2908 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 704305.8155 km^2 s
+  - - - '143'
+      - Valerio Marchetti
+    - areaFlown: 1100636.4599 km^2 s
+      areaAfterLanding: 19952381.3530 km^2 s
+      areaBeforeStart: 295589.9274 km^2 s
+- - - - '115'
+      - Alberto Castagna
+    - areaFlown: 20695220.0979 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '141'
+      - Albino Malli
+    - areaFlown: 28347550.7402 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1688518.0989 km^2 s
+  - - - '126'
+      - Alessandro Fuzzi
+    - areaFlown: 20813567.7629 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '139'
+      - Alessandro Madaluni
+    - areaFlown: 26288749.1429 km^2 s
+      areaAfterLanding: 130428.4830 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '149'
+      - Alessandro Palma
+    - areaFlown: 23070492.7321 km^2 s
+      areaAfterLanding: 6885770.7806 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '152'
+      - Alessandro Pompei
+    - areaFlown: 31354328.0777 km^2 s
+      areaAfterLanding: 3800924.8948 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '169'
+      - Alessandro Vallero
+    - areaFlown: 20893451.4095 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '133'
+      - Alessio Guidi
+    - areaFlown: 33317582.5747 km^2 s
+      areaAfterLanding: 60887.6435 km^2 s
+      areaBeforeStart: 8150481.4615 km^2 s
+  - - - '172'
+      - Alessio Voltan
+    - areaFlown: 19875471.0119 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '155'
+      - Alfio Ragaglia
+    - areaFlown: 19755051.0311 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 669191.0605 km^2 s
+  - - - '164'
+      - Anca Tabara
+    - areaFlown: 23337161.6651 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '130'
+      - Andrea Garolla
+    - areaFlown: 31209035.0419 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1327784.5800 km^2 s
+  - - - '165'
+      - Andrea Terenziani
+    - areaFlown: 21955109.8764 km^2 s
+      areaAfterLanding: 7364536.7795 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '122'
+      - Angelo Dell’Aira
+    - areaFlown: 20033180.0817 km^2 s
+      areaAfterLanding: 1274684.8689 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '158'
+      - Antonio Ruta
+    - areaFlown: 22284391.6619 km^2 s
+      areaAfterLanding: 1031877.4037 km^2 s
+      areaBeforeStart: 171702.7477 km^2 s
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - areaFlown: 22869502.4524 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 557229.0067 km^2 s
+  - - - '171'
+      - Biagio Alberto Vitale
+    - areaFlown: 22316778.8013 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '177'
+      - Bogdan Bialka
+    - areaFlown: 20654779.2359 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '106'
+      - Christian Biasi
+    - areaFlown: 19688167.1083 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '135'
+      - Cristian Inverardi
+    - areaFlown: 26917690.3717 km^2 s
+      areaAfterLanding: 48722.3607 km^2 s
+      areaBeforeStart: 7687865.5295 km^2 s
+  - - - '105'
+      - Daniele Bevilacqua
+    - areaFlown: 22611415.6858 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '174'
+      - Davide Zaltron
+    - areaFlown: 24457693.6278 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 620539.1779 km^2 s
+  - - - '101'
+      - Diego Ardissone
+    - areaFlown: 26484645.6484 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 9443374.4149 km^2 s
+  - - - '157'
+      - Elio Rossi
+    - areaFlown: 20412322.1518 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '109'
+      - Federico Brown Manzone
+    - areaFlown: 19740138.8049 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '145'
+      - Federico Nevastro
+    - areaFlown: 22977073.5995 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 7655346.2735 km^2 s
+  - - - '176'
+      - Francesco Fontanesi
+    - areaFlown: 33766931.8806 km^2 s
+      areaAfterLanding: 3391277.0984 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '147'
+      - Francesco Orcese
+    - areaFlown: 30954679.8899 km^2 s
+      areaAfterLanding: 513919.4634 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '107'
+      - Gabriele Bonafini
+    - areaFlown: 18675453.9292 km^2 s
+      areaAfterLanding: 17574371.2975 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - areaFlown: 31107273.4110 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 8020514.5805 km^2 s
+  - - - '153'
+      - Gianbasilio Profiti
+    - areaFlown: 23261281.5804 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1977243.7792 km^2 s
+  - - - '117'
+      - Gianfranco Crestani
+    - areaFlown: 19744724.2992 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '121'
+      - Giorgio Darra
+    - areaFlown: 26728938.2784 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 186258.1121 km^2 s
+  - - - '160'
+      - Giuseppe Simone
+    - areaFlown: 31818876.7816 km^2 s
+      areaAfterLanding: 7316579.2869 km^2 s
+      areaBeforeStart: 3766699.0402 km^2 s
+  - - - '125'
+      - Grzegorz Fiema
+    - areaFlown: 6685698.7887 km^2 s
+      areaAfterLanding: 49199927.7293 km^2 s
+      areaBeforeStart: 7817231.7427 km^2 s
+  - - - '167'
+      - Ionut Ulici
+    - areaFlown: 23114650.6487 km^2 s
+      areaAfterLanding: 12187202.2642 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '116'
+      - Ivan Centa
+    - areaFlown: 23273292.2607 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '132'
+      - Jacek Górski
+    - areaFlown: 20130571.3300 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '146'
+      - Joachim Oberhauser
+    - areaFlown: 19702804.1196 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '110'
+      - Klaudia Bulgakow
+    - areaFlown: 7834705.2973 km^2 s
+      areaAfterLanding: 56107140.0820 km^2 s
+      areaBeforeStart: 15335746.1370 km^2 s
+  - - - '159'
+      - Krzysztof Schmidt
+    - areaFlown: 19780424.4627 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '142'
+      - Luca Mammucari
+    - areaFlown: 20291260.2754 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '150'
+      - Luca Paoletti
+    - areaFlown: 20831439.5882 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '129'
+      - Luciano Gallo
+    - areaFlown: 23081148.3257 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 8101727.1450 km^2 s
+  - - - '148'
+      - Luciano Pagnoni
+    - areaFlown: 24866335.2146 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 8164007.0152 km^2 s
+  - - - '111'
+      - Marco Busetta
+    - areaFlown: 20102927.7969 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '131'
+      - Marco Gentilini
+    - areaFlown: 21033036.4737 km^2 s
+      areaAfterLanding: 7362386.0789 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '138'
+      - Marco Littamè
+    - areaFlown: 19662009.2960 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 35097.7222 km^2 s
+  - - - '168'
+      - Marco Valentini
+    - areaFlown: 20266554.8620 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - areaFlown: 1672654.5261 km^2 s
+      areaAfterLanding: 77383011.3484 km^2 s
+      areaBeforeStart: 18030261.2563 km^2 s
+  - - - '178'
+      - Marius Saigiu
+    - areaFlown: 24421882.0031 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '175'
+      - Mariusz Wisniowski
+    - areaFlown: 19771820.7976 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '156'
+      - Massimo Rapari
+    - areaFlown: 22678018.1245 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '102'
+      - Matteo Bacchiocchi
+    - areaFlown: 25129670.5143 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '161'
+      - Matteo Siragna
+    - areaFlown: 20845878.2674 km^2 s
+      areaAfterLanding: 1503992.5543 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '180'
+      - Michal Gierlach
+    - areaFlown: 20108389.3904 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '108'
+      - Michele Boschi
+    - areaFlown: 19477098.7643 km^2 s
+      areaAfterLanding: 502244.1365 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '124'
+      - Paolo Facchini
+    - areaFlown: 19762628.5814 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '170'
+      - Paolo Veratti
+    - areaFlown: 22416940.8140 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '173'
+      - Paolo Zammarchi
+    - areaFlown: 20348084.3973 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '151'
+      - Piergiorgio Pintossi
+    - areaFlown: 23224056.8174 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 751959.9365 km^2 s
+  - - - '144'
+      - Riccardo Marchetto
+    - areaFlown: 35755599.7186 km^2 s
+      areaAfterLanding: 1479790.9556 km^2 s
+      areaBeforeStart: 1352484.5842 km^2 s
+  - - - '127'
+      - Richárd Gabrieli
+    - areaFlown: 20581174.0142 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '123'
+      - Sergio Di Fazio
+    - areaFlown: 1178157.2575 km^2 s
+      areaAfterLanding: 73704707.3462 km^2 s
+      areaBeforeStart: 7823677.1982 km^2 s
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - areaFlown: 20500075.3064 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '137'
+      - Slawomir Kaczynski
+    - areaFlown: 19968260.0774 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '154'
+      - Stefano Pucci
+    - areaFlown: 20357492.2696 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1669677.9331 km^2 s
+  - - - '166'
+      - Tiziano Trambaioli
+    - areaFlown: 22761022.7385 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '113'
+      - Tommaso Carlini
+    - areaFlown: 21243771.0485 km^2 s
+      areaAfterLanding: 497387.9555 km^2 s
+      areaBeforeStart: 293756.8458 km^2 s
+  - - - '143'
+      - Valerio Marchetti
+    - areaFlown: 29300884.6570 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 8274992.0849 km^2 s
 - []
-- []
-- []
-- []
-- []
-- []
+- - - - '115'
+      - Alberto Castagna
+    - areaFlown: 44852227.7522 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 507294.9808 km^2 s
+  - - - '141'
+      - Albino Malli
+    - areaFlown: 37839185.7616 km^2 s
+      areaAfterLanding: 12052737.1526 km^2 s
+      areaBeforeStart: 22666.8800 km^2 s
+  - - - '126'
+      - Alessandro Fuzzi
+    - areaFlown: 44331568.3843 km^2 s
+      areaAfterLanding: 3235437.4315 km^2 s
+      areaBeforeStart: 2288093.0145 km^2 s
+  - - - '139'
+      - Alessandro Madaluni
+    - areaFlown: 43246969.0216 km^2 s
+      areaAfterLanding: 16350389.7374 km^2 s
+      areaBeforeStart: 277927.8932 km^2 s
+  - - - '149'
+      - Alessandro Palma
+    - areaFlown: 31784498.8544 km^2 s
+      areaAfterLanding: 46620738.2831 km^2 s
+      areaBeforeStart: 189356.4355 km^2 s
+  - - - '152'
+      - Alessandro Pompei
+    - areaFlown: 42235651.6594 km^2 s
+      areaAfterLanding: 34705289.2568 km^2 s
+      areaBeforeStart: 169772.3583 km^2 s
+  - - - '169'
+      - Alessandro Vallero
+    - areaFlown: 46021914.2128 km^2 s
+      areaAfterLanding: 28.7371 km^2 s
+      areaBeforeStart: 1783892.0070 km^2 s
+  - - - '133'
+      - Alessio Guidi
+    - areaFlown: 44867245.9060 km^2 s
+      areaAfterLanding: 9497632.7625 km^2 s
+      areaBeforeStart: 238495.9492 km^2 s
+  - - - '172'
+      - Alessio Voltan
+    - areaFlown: 44915996.0421 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 140395.7020 km^2 s
+  - - - '155'
+      - Alfio Ragaglia
+    - areaFlown: 44717130.2210 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 277669.8879 km^2 s
+  - - - '164'
+      - Anca Tabara
+    - areaFlown: 44418861.4174 km^2 s
+      areaAfterLanding: 3871141.9598 km^2 s
+      areaBeforeStart: 160013.4836 km^2 s
+  - - - '130'
+      - Andrea Garolla
+    - areaFlown: 49960185.6922 km^2 s
+      areaAfterLanding: 282.4591 km^2 s
+      areaBeforeStart: 169943.8334 km^2 s
+  - - - '165'
+      - Andrea Terenziani
+    - areaFlown: 46041865.5396 km^2 s
+      areaAfterLanding: 9461945.8549 km^2 s
+      areaBeforeStart: 1589426.9919 km^2 s
+  - - - '122'
+      - Angelo Dell’Aira
+    - areaFlown: 26267188.6969 km^2 s
+      areaAfterLanding: 33890739.0758 km^2 s
+      areaBeforeStart: 111080.7256 km^2 s
+  - - - '158'
+      - Antonio Ruta
+    - areaFlown: 46966411.3411 km^2 s
+      areaAfterLanding: 700558.3163 km^2 s
+      areaBeforeStart: 2472664.6331 km^2 s
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - areaFlown: 47056683.9591 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 101096.4944 km^2 s
+  - - - '171'
+      - Biagio Alberto Vitale
+    - areaFlown: 44721060.0424 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 81489.8653 km^2 s
+  - - - '177'
+      - Bogdan Bialka
+    - areaFlown: 35552739.4687 km^2 s
+      areaAfterLanding: 14479757.7913 km^2 s
+      areaBeforeStart: 374702.7567 km^2 s
+  - - - '106'
+      - Christian Biasi
+    - areaFlown: 44797849.2263 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 52126.3973 km^2 s
+  - - - '135'
+      - Cristian Inverardi
+    - areaFlown: 33097120.2248 km^2 s
+      areaAfterLanding: 20645212.7565 km^2 s
+      areaBeforeStart: 61914.1519 km^2 s
+  - - - '105'
+      - Daniele Bevilacqua
+    - areaFlown: 47002820.6760 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 120767.3734 km^2 s
+  - - - '174'
+      - Davide Zaltron
+    - areaFlown: 13743525.9950 km^2 s
+      areaAfterLanding: 78727073.0153 km^2 s
+      areaBeforeStart: 32467.0171 km^2 s
+  - - - '157'
+      - Elio Rossi
+    - areaFlown: 44513098.4422 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 277647.4583 km^2 s
+  - - - '109'
+      - Federico Brown Manzone
+    - areaFlown: 45489247.6796 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 81587.0020 km^2 s
+  - - - '145'
+      - Federico Nevastro
+    - areaFlown: 45826135.7623 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 22671.9152 km^2 s
+  - - - '176'
+      - Francesco Fontanesi
+    - areaFlown: 43815699.4223 km^2 s
+      areaAfterLanding: 33072529.0179 km^2 s
+      areaBeforeStart: 2582116.5109 km^2 s
+  - - - '147'
+      - Francesco Orcese
+    - areaFlown: 47477343.0907 km^2 s
+      areaAfterLanding: 42488514.1880 km^2 s
+      areaBeforeStart: 238491.1334 km^2 s
+  - - - '107'
+      - Gabriele Bonafini
+    - areaFlown: 43995459.2757 km^2 s
+      areaAfterLanding: 32769936.5865 km^2 s
+      areaBeforeStart: 650896.7473 km^2 s
+  - - - '120'
+      - Gabriele D'Arrigo
+    - areaFlown: 44132375.1285 km^2 s
+      areaAfterLanding: 8629016.1861 km^2 s
+      areaBeforeStart: 110881.2959 km^2 s
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - areaFlown: 35407582.9973 km^2 s
+      areaAfterLanding: 41133885.8987 km^2 s
+      areaBeforeStart: 3223497.9135 km^2 s
+  - - - '153'
+      - Gianbasilio Profiti
+    - areaFlown: 44901158.3088 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 199262.7633 km^2 s
+  - - - '117'
+      - Gianfranco Crestani
+    - areaFlown: 14656308.9339 km^2 s
+      areaAfterLanding: 78382928.2004 km^2 s
+      areaBeforeStart: 189463.5354 km^2 s
+  - - - '121'
+      - Giorgio Darra
+    - areaFlown: 44715100.6646 km^2 s
+      areaAfterLanding: 6761945.7097 km^2 s
+      areaBeforeStart: 71709.1244 km^2 s
+  - - - '160'
+      - Giuseppe Simone
+    - areaFlown: 44053514.8537 km^2 s
+      areaAfterLanding: 13931526.6369 km^2 s
+      areaBeforeStart: 307000.6628 km^2 s
+  - - - '125'
+      - Grzegorz Fiema
+    - areaFlown: 42942802.8727 km^2 s
+      areaAfterLanding: 42681389.9920 km^2 s
+      areaBeforeStart: 827281.4647 km^2 s
+  - - - '167'
+      - Ionut Ulici
+    - areaFlown: 52219235.1539 km^2 s
+      areaAfterLanding: 44190024.1603 km^2 s
+      areaBeforeStart: 759085.6421 km^2 s
+  - - - '116'
+      - Ivan Centa
+    - areaFlown: 722815.3741 km^2 s
+      areaAfterLanding: 169090088.0086 km^2 s
+      areaBeforeStart: 81527.7253 km^2 s
+  - - - '132'
+      - Jacek Górski
+    - areaFlown: 44749952.0376 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 52095.8852 km^2 s
+  - - - '146'
+      - Joachim Oberhauser
+    - areaFlown: 44531949.9278 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 3047.9982 km^2 s
+  - - - '110'
+      - Klaudia Bulgakow
+    - areaFlown: 54326251.8952 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 551901.6597 km^2 s
+  - - - '159'
+      - Krzysztof Schmidt
+    - areaFlown: 44694069.1344 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 91378.2179 km^2 s
+  - - - '104'
+      - Loris Berta
+    - areaFlown: 49436634.0402 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 81453.6597 km^2 s
+  - - - '142'
+      - Luca Mammucari
+    - areaFlown: 39896133.5439 km^2 s
+      areaAfterLanding: 8906143.0298 km^2 s
+      areaBeforeStart: 267921.4638 km^2 s
+  - - - '129'
+      - Luciano Gallo
+    - areaFlown: 45387753.0128 km^2 s
+      areaAfterLanding: 1143898.8927 km^2 s
+      areaBeforeStart: 2957491.3873 km^2 s
+  - - - '148'
+      - Luciano Pagnoni
+    - areaFlown: 29792292.1877 km^2 s
+      areaAfterLanding: 36986365.7713 km^2 s
+      areaBeforeStart: 297225.7168 km^2 s
+  - - - '111'
+      - Marco Busetta
+    - areaFlown: 44546413.6384 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 140347.5128 km^2 s
+  - - - '138'
+      - Marco Littamè
+    - areaFlown: 44551063.7943 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 130566.7387 km^2 s
+  - - - '168'
+      - Marco Valentini
+    - areaFlown: 42753942.2102 km^2 s
+      areaAfterLanding: 2593800.8848 km^2 s
+      areaBeforeStart: 238414.0874 km^2 s
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - areaFlown: 7180856.2754 km^2 s
+      areaAfterLanding: 130383986.4124 km^2 s
+      areaBeforeStart: 867090.5712 km^2 s
+  - - - '156'
+      - Massimo Rapari
+    - areaFlown: 41925266.5962 km^2 s
+      areaAfterLanding: 13542754.0434 km^2 s
+      areaBeforeStart: 238438.1630 km^2 s
+  - - - '102'
+      - Matteo Bacchiocchi
+    - areaFlown: 46742081.5974 km^2 s
+      areaAfterLanding: 9010216.2692 km^2 s
+      areaBeforeStart: 42256.4882 km^2 s
+  - - - '161'
+      - Matteo Siragna
+    - areaFlown: 46962736.7144 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 160078.1113 km^2 s
+  - - - '140'
+      - Maurizio Maina
+    - areaFlown: 50534733.4839 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 444754.8009 km^2 s
+  - - - '180'
+      - Michal Gierlach
+    - areaFlown: 45373743.9235 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 52127.4496 km^2 s
+  - - - '108'
+      - Michele Boschi
+    - areaFlown: 44950646.2429 km^2 s
+      areaAfterLanding: 320917.2579 km^2 s
+      areaBeforeStart: 52078.0030 km^2 s
+  - - - '128'
+      - Michele Gaiba
+    - areaFlown: 29573225.7554 km^2 s
+      areaAfterLanding: 41760693.1549 km^2 s
+      areaBeforeStart: 2486008.2865 km^2 s
+  - - - '114'
+      - Mirco Casarini
+    - areaFlown: 45349188.8729 km^2 s
+      areaAfterLanding: 15017225.8820 km^2 s
+      areaBeforeStart: 326821.7172 km^2 s
+  - - - '124'
+      - Paolo Facchini
+    - areaFlown: 44903246.3564 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 169844.3673 km^2 s
+  - - - '170'
+      - Paolo Veratti
+    - areaFlown: 43836108.4115 km^2 s
+      areaAfterLanding: 3204240.1455 km^2 s
+      areaBeforeStart: 42271.0006 km^2 s
+  - - - '173'
+      - Paolo Zammarchi
+    - areaFlown: 46024351.5641 km^2 s
+      areaAfterLanding: 2011482.2978 km^2 s
+      areaBeforeStart: 52080.1066 km^2 s
+  - - - '151'
+      - Piergiorgio Pintossi
+    - areaFlown: 31681489.8641 km^2 s
+      areaAfterLanding: 32376337.0831 km^2 s
+      areaBeforeStart: 582174.0056 km^2 s
+  - - - '144'
+      - Riccardo Marchetto
+    - areaFlown: 43382925.2664 km^2 s
+      areaAfterLanding: 33552519.4992 km^2 s
+      areaBeforeStart: 395468.8659 km^2 s
+  - - - '127'
+      - Richárd Gabrieli
+    - areaFlown: 46635532.5983 km^2 s
+      areaAfterLanding: 5091431.4229 km^2 s
+      areaBeforeStart: 91352.3929 km^2 s
+  - - - '123'
+      - Sergio Di Fazio
+    - areaFlown: 34412333.5227 km^2 s
+      areaAfterLanding: 45127244.8744 km^2 s
+      areaBeforeStart: 395189.4264 km^2 s
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - areaFlown: 48104186.2295 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 150206.2083 km^2 s
+  - - - '137'
+      - Slawomir Kaczynski
+    - areaFlown: 43247050.2178 km^2 s
+      areaAfterLanding: 3754025.7485 km^2 s
+      areaBeforeStart: 101161.8470 km^2 s
+  - - - '154'
+      - Stefano Pucci
+    - areaFlown: 46414789.8666 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 228731.8205 km^2 s
+  - - - '166'
+      - Tiziano Trambaioli
+    - areaFlown: 46405217.1666 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 209103.0201 km^2 s
+  - - - '113'
+      - Tommaso Carlini
+    - areaFlown: 44713220.3218 km^2 s
+      areaAfterLanding: 9684287.4977 km^2 s
+      areaBeforeStart: 189394.6820 km^2 s
+  - - - '143'
+      - Valerio Marchetti
+    - areaFlown: 40074951.9134 km^2 s
+      areaAfterLanding: 38228443.6483 km^2 s
+      areaBeforeStart: 160016.7146 km^2 s
+- - - - '115'
+      - Alberto Castagna
+    - areaFlown: 49562393.2322 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '141'
+      - Albino Malli
+    - areaFlown: 51144880.1618 km^2 s
+      areaAfterLanding: 2183795.3109 km^2 s
+      areaBeforeStart: 421637.7102 km^2 s
+  - - - '126'
+      - Alessandro Fuzzi
+    - areaFlown: 54474362.4304 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '139'
+      - Alessandro Madaluni
+    - areaFlown: 46552556.9931 km^2 s
+      areaAfterLanding: 8270035.3037 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '152'
+      - Alessandro Pompei
+    - areaFlown: 64434625.9457 km^2 s
+      areaAfterLanding: 6283709.7723 km^2 s
+      areaBeforeStart: 23818705.7146 km^2 s
+  - - - '169'
+      - Alessandro Vallero
+    - areaFlown: 55459359.3123 km^2 s
+      areaAfterLanding: 1023372.5300 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '133'
+      - Alessio Guidi
+    - areaFlown: 55978966.2507 km^2 s
+      areaAfterLanding: 1681904.2410 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '172'
+      - Alessio Voltan
+    - areaFlown: 48775928.2061 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '155'
+      - Alfio Ragaglia
+    - areaFlown: 55875894.0822 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 21474099.2253 km^2 s
+  - - - '164'
+      - Anca Tabara
+    - areaFlown: 50246544.1347 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '130'
+      - Andrea Garolla
+    - areaFlown: 14608285.9134 km^2 s
+      areaAfterLanding: 82270695.1621 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '165'
+      - Andrea Terenziani
+    - areaFlown: 52379412.5820 km^2 s
+      areaAfterLanding: 8292221.8405 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '122'
+      - Angelo Dell’Aira
+    - areaFlown: 50686950.0369 km^2 s
+      areaAfterLanding: 253672.9190 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '158'
+      - Antonio Ruta
+    - areaFlown: 57454619.9227 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - areaFlown: 34656049.4938 km^2 s
+      areaAfterLanding: 30141647.0479 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '171'
+      - Biagio Alberto Vitale
+    - areaFlown: 51946481.9604 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '177'
+      - Bogdan Bialka
+    - areaFlown: 48455450.0542 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '106'
+      - Christian Biasi
+    - areaFlown: 48637263.7918 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '135'
+      - Cristian Inverardi
+    - areaFlown: 13814967.8034 km^2 s
+      areaAfterLanding: 86749114.4234 km^2 s
+      areaBeforeStart: 21449461.1065 km^2 s
+  - - - '105'
+      - Daniele Bevilacqua
+    - areaFlown: 50689710.9736 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '174'
+      - Davide Zaltron
+    - areaFlown: 1849470.0036 km^2 s
+      areaAfterLanding: 137667429.0408 km^2 s
+      areaBeforeStart: 21787066.4062 km^2 s
+  - - - '157'
+      - Elio Rossi
+    - areaFlown: 49096641.2526 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '109'
+      - Federico Brown Manzone
+    - areaFlown: 43856981.5638 km^2 s
+      areaAfterLanding: 7559443.9252 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '145'
+      - Federico Nevastro
+    - areaFlown: 57560474.6122 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 21395639.2959 km^2 s
+  - - - '176'
+      - Francesco Fontanesi
+    - areaFlown: 2411104.7845 km^2 s
+      areaAfterLanding: 135284102.3813 km^2 s
+      areaBeforeStart: 22421363.1603 km^2 s
+  - - - '147'
+      - Francesco Orcese
+    - areaFlown: 69004065.6445 km^2 s
+      areaAfterLanding: 977697.3712 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '107'
+      - Gabriele Bonafini
+    - areaFlown: 35022797.4252 km^2 s
+      areaAfterLanding: 44201152.2775 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '120'
+      - Gabriele D'Arrigo
+    - areaFlown: 55497592.9987 km^2 s
+      areaAfterLanding: 3679172.6565 km^2 s
+      areaBeforeStart: 3444547.5771 km^2 s
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - areaFlown: 28604893.2881 km^2 s
+      areaAfterLanding: 54518223.8033 km^2 s
+      areaBeforeStart: 1833115.6265 km^2 s
+  - - - '153'
+      - Gianbasilio Profiti
+    - areaFlown: 56576199.8903 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 244285.7313 km^2 s
+  - - - '117'
+      - Gianfranco Crestani
+    - areaFlown: 51164316.9056 km^2 s
+      areaAfterLanding: 2244686.2606 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '121'
+      - Giorgio Darra
+    - areaFlown: 55761046.5845 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 182802.6214 km^2 s
+  - - - '160'
+      - Giuseppe Simone
+    - areaFlown: 61793030.9828 km^2 s
+      areaAfterLanding: 6300817.9085 km^2 s
+      areaBeforeStart: 3881351.0547 km^2 s
+  - - - '125'
+      - Grzegorz Fiema
+    - areaFlown: 64475043.7382 km^2 s
+      areaAfterLanding: 5254823.9780 km^2 s
+      areaBeforeStart: 1423869.3619 km^2 s
+  - - - '118'
+      - Igor D'Agostino
+    - areaFlown: 5643992.2250 km^2 s
+      areaAfterLanding: 119607979.9369 km^2 s
+      areaBeforeStart: 21792882.8120 km^2 s
+  - - - '167'
+      - Ionut Ulici
+    - areaFlown: 28546488.9288 km^2 s
+      areaAfterLanding: 53504865.6259 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '116'
+      - Ivan Centa
+    - areaFlown: 49297002.0425 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '132'
+      - Jacek Górski
+    - areaFlown: 33357602.7935 km^2 s
+      areaAfterLanding: 31508032.8392 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '146'
+      - Joachim Oberhauser
+    - areaFlown: 56047148.3874 km^2 s
+      areaAfterLanding: 18203.9568 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '110'
+      - Klaudia Bulgakow
+    - areaFlown: 54608340.7856 km^2 s
+      areaAfterLanding: 3040168.5087 km^2 s
+      areaBeforeStart: 22214843.9764 km^2 s
+  - - - '159'
+      - Krzysztof Schmidt
+    - areaFlown: 48793307.7386 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '104'
+      - Loris Berta
+    - areaFlown: 57286828.7334 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '142'
+      - Luca Mammucari
+    - areaFlown: 52515129.4228 km^2 s
+      areaAfterLanding: 3625336.6689 km^2 s
+      areaBeforeStart: 21426632.9623 km^2 s
+  - - - '150'
+      - Luca Paoletti
+    - areaFlown: 53143621.4025 km^2 s
+      areaAfterLanding: 5364147.0813 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '129'
+      - Luciano Gallo
+    - areaFlown: 55691661.4264 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '148'
+      - Luciano Pagnoni
+    - areaFlown: 14747422.5724 km^2 s
+      areaAfterLanding: 88263651.6259 km^2 s
+      areaBeforeStart: 73660.3990 km^2 s
+  - - - '111'
+      - Marco Busetta
+    - areaFlown: 49730711.9330 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '131'
+      - Marco Gentilini
+    - areaFlown: 3205185.4744 km^2 s
+      areaAfterLanding: 131370599.4497 km^2 s
+      areaBeforeStart: 21534198.1488 km^2 s
+  - - - '138'
+      - Marco Littamè
+    - areaFlown: 47513129.8572 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '168'
+      - Marco Valentini
+    - areaFlown: 56459075.4953 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - areaFlown: 1416976.8670 km^2 s
+      areaAfterLanding: 140911595.1435 km^2 s
+      areaBeforeStart: 23127959.5399 km^2 s
+  - - - '178'
+      - Marius Saigiu
+    - areaFlown: 59303142.7416 km^2 s
+      areaAfterLanding: 4778742.8038 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '175'
+      - Mariusz Wisniowski
+    - areaFlown: 48931618.5903 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '102'
+      - Matteo Bacchiocchi
+    - areaFlown: 16594602.5961 km^2 s
+      areaAfterLanding: 80766060.8594 km^2 s
+      areaBeforeStart: 21639350.6879 km^2 s
+  - - - '161'
+      - Matteo Siragna
+    - areaFlown: 19416056.8543 km^2 s
+      areaAfterLanding: 77806297.8059 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '140'
+      - Maurizio Maina
+    - areaFlown: 52145063.5785 km^2 s
+      areaAfterLanding: 1406195.8510 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '180'
+      - Michal Gierlach
+    - areaFlown: 49130713.2194 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '108'
+      - Michele Boschi
+    - areaFlown: 48894462.4958 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '128'
+      - Michele Gaiba
+    - areaFlown: 58536450.0428 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1097101.1595 km^2 s
+  - - - '124'
+      - Paolo Facchini
+    - areaFlown: 49182916.5525 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '170'
+      - Paolo Veratti
+    - areaFlown: 51943026.4508 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '173'
+      - Paolo Zammarchi
+    - areaFlown: 49193630.5010 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '151'
+      - Piergiorgio Pintossi
+    - areaFlown: 26376769.7451 km^2 s
+      areaAfterLanding: 53004989.7412 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '144'
+      - Riccardo Marchetto
+    - areaFlown: 62748148.1183 km^2 s
+      areaAfterLanding: 2901666.3377 km^2 s
+      areaBeforeStart: 22365903.2162 km^2 s
+  - - - '127'
+      - Richárd Gabrieli
+    - areaFlown: 49322887.4981 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 817110.7368 km^2 s
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - areaFlown: 49369549.6955 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '137'
+      - Slawomir Kaczynski
+    - areaFlown: 49884230.1581 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '154'
+      - Stefano Pucci
+    - areaFlown: 53976465.6284 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 3211767.8903 km^2 s
+  - - - '166'
+      - Tiziano Trambaioli
+    - areaFlown: 49343940.4127 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '113'
+      - Tommaso Carlini
+    - areaFlown: 48343547.1493 km^2 s
+      areaAfterLanding: 3852367.9948 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '143'
+      - Valerio Marchetti
+    - areaFlown: 63539290.1194 km^2 s
+      areaAfterLanding: 5736449.4342 km^2 s
+      areaBeforeStart: 22472547.7848 km^2 s
+- - - - '115'
+      - Alberto Castagna
+    - areaFlown: 10035613.5034 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 681088.6365 km^2 s
+  - - - '141'
+      - Albino Malli
+    - areaFlown: 9306156.4640 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 664625.5203 km^2 s
+  - - - '126'
+      - Alessandro Fuzzi
+    - areaFlown: 9804619.7328 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 802103.6083 km^2 s
+  - - - '139'
+      - Alessandro Madaluni
+    - areaFlown: 9805881.1327 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '149'
+      - Alessandro Palma
+    - areaFlown: 1128139.5505 km^2 s
+      areaAfterLanding: 25536181.4153 km^2 s
+      areaBeforeStart: 735664.6872 km^2 s
+  - - - '152'
+      - Alessandro Pompei
+    - areaFlown: 14785962.3439 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 665796.6360 km^2 s
+  - - - '169'
+      - Alessandro Vallero
+    - areaFlown: 9869431.1851 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 704773.7492 km^2 s
+  - - - '133'
+      - Alessio Guidi
+    - areaFlown: 8703552.2056 km^2 s
+      areaAfterLanding: 2525981.3589 km^2 s
+      areaBeforeStart: 722288.2322 km^2 s
+  - - - '172'
+      - Alessio Voltan
+    - areaFlown: 9975745.3134 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 605468.0816 km^2 s
+  - - - '155'
+      - Alfio Ragaglia
+    - areaFlown: 9280567.9766 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 579222.8586 km^2 s
+  - - - '164'
+      - Anca Tabara
+    - areaFlown: 9712752.3452 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 711922.8010 km^2 s
+  - - - '130'
+      - Andrea Garolla
+    - areaFlown: 9707096.7862 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 631414.4858 km^2 s
+  - - - '165'
+      - Andrea Terenziani
+    - areaFlown: 9602209.2537 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 573244.7795 km^2 s
+  - - - '122'
+      - Angelo Dell’Aira
+    - areaFlown: 8241975.0087 km^2 s
+      areaAfterLanding: 3242577.2630 km^2 s
+      areaBeforeStart: 681253.3339 km^2 s
+  - - - '158'
+      - Antonio Ruta
+    - areaFlown: 7986925.7641 km^2 s
+      areaAfterLanding: 3420385.5446 km^2 s
+      areaBeforeStart: 757239.8540 km^2 s
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - areaFlown: 10679398.1908 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 745090.9816 km^2 s
+  - - - '171'
+      - Biagio Alberto Vitale
+    - areaFlown: 9277953.9130 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 614721.6864 km^2 s
+  - - - '177'
+      - Bogdan Bialka
+    - areaFlown: 9332154.5052 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '106'
+      - Christian Biasi
+    - areaFlown: 9373851.7693 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 654202.4834 km^2 s
+  - - - '135'
+      - Cristian Inverardi
+    - areaFlown: 11193198.1093 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1448093.0828 km^2 s
+  - - - '105'
+      - Daniele Bevilacqua
+    - areaFlown: 9710826.3136 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 662071.2614 km^2 s
+  - - - '174'
+      - Davide Zaltron
+    - areaFlown: 10089908.7424 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 604632.8093 km^2 s
+  - - - '101'
+      - Diego Ardissone
+    - areaFlown: 10198746.4534 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 885425.6370 km^2 s
+  - - - '157'
+      - Elio Rossi
+    - areaFlown: 10108641.5603 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 678392.0084 km^2 s
+  - - - '109'
+      - Federico Brown Manzone
+    - areaFlown: 9998869.8526 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 589071.7335 km^2 s
+  - - - '145'
+      - Federico Nevastro
+    - areaFlown: 9578882.5955 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 555290.0909 km^2 s
+  - - - '176'
+      - Francesco Fontanesi
+    - areaFlown: 14053518.6232 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 973948.2516 km^2 s
+  - - - '147'
+      - Francesco Orcese
+    - areaFlown: 10900265.5079 km^2 s
+      areaAfterLanding: 4392155.6769 km^2 s
+      areaBeforeStart: 695025.6930 km^2 s
+  - - - '107'
+      - Gabriele Bonafini
+    - areaFlown: 14432003.6306 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 776774.2438 km^2 s
+  - - - '120'
+      - Gabriele D'Arrigo
+    - areaFlown: 11231652.8227 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - areaFlown: 14727265.6260 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1703851.4188 km^2 s
+  - - - '153'
+      - Gianbasilio Profiti
+    - areaFlown: 9984764.1783 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 681771.0841 km^2 s
+  - - - '117'
+      - Gianfranco Crestani
+    - areaFlown: 7602569.6792 km^2 s
+      areaAfterLanding: 3413051.7838 km^2 s
+      areaBeforeStart: 648057.9017 km^2 s
+  - - - '121'
+      - Giorgio Darra
+    - areaFlown: 7845154.6354 km^2 s
+      areaAfterLanding: 3480983.7630 km^2 s
+      areaBeforeStart: 668625.4018 km^2 s
+  - - - '160'
+      - Giuseppe Simone
+    - areaFlown: 12716608.6729 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '125'
+      - Grzegorz Fiema
+    - areaFlown: 9369429.2896 km^2 s
+      areaAfterLanding: 4937984.1067 km^2 s
+      areaBeforeStart: 574114.2602 km^2 s
+  - - - '118'
+      - Igor D'Agostino
+    - areaFlown: 14174753.9378 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '167'
+      - Ionut Ulici
+    - areaFlown: 14077888.8993 km^2 s
+      areaAfterLanding: 1454494.8437 km^2 s
+      areaBeforeStart: 1211614.9142 km^2 s
+  - - - '116'
+      - Ivan Centa
+    - areaFlown: 9435119.7000 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 582406.3079 km^2 s
+  - - - '132'
+      - Jacek Górski
+    - areaFlown: 9958057.7328 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 671170.8374 km^2 s
+  - - - '146'
+      - Joachim Oberhauser
+    - areaFlown: 9258226.4127 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 581964.5129 km^2 s
+  - - - '110'
+      - Klaudia Bulgakow
+    - areaFlown: 333907.5210 km^2 s
+      areaAfterLanding: 33135693.8605 km^2 s
+      areaBeforeStart: 1121923.1199 km^2 s
+  - - - '159'
+      - Krzysztof Schmidt
+    - areaFlown: 9247475.0310 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 617288.4182 km^2 s
+  - - - '104'
+      - Loris Berta
+    - areaFlown: 9549446.4004 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 724643.4292 km^2 s
+  - - - '142'
+      - Luca Mammucari
+    - areaFlown: 10342740.7486 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 753019.1490 km^2 s
+  - - - '150'
+      - Luca Paoletti
+    - areaFlown: 10397445.8130 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 642500.3063 km^2 s
+  - - - '129'
+      - Luciano Gallo
+    - areaFlown: 10250680.9541 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 567482.8981 km^2 s
+  - - - '148'
+      - Luciano Pagnoni
+    - areaFlown: 9459114.7171 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 775863.2917 km^2 s
+  - - - '111'
+      - Marco Busetta
+    - areaFlown: 9240679.5213 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 634419.4123 km^2 s
+  - - - '138'
+      - Marco Littamè
+    - areaFlown: 9966249.9860 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 621583.8769 km^2 s
+  - - - '168'
+      - Marco Valentini
+    - areaFlown: 10066815.5580 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 632090.4775 km^2 s
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - areaFlown: 7177559.8128 km^2 s
+      areaAfterLanding: 1534791.1390 km^2 s
+      areaBeforeStart: 1551700.3130 km^2 s
+  - - - '178'
+      - Marius Saigiu
+    - areaFlown: 13605069.3300 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 602460.7548 km^2 s
+  - - - '175'
+      - Mariusz Wisniowski
+    - areaFlown: 9985200.3039 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 637729.0450 km^2 s
+  - - - '156'
+      - Massimo Rapari
+    - areaFlown: 9636737.9640 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 731474.1080 km^2 s
+  - - - '102'
+      - Matteo Bacchiocchi
+    - areaFlown: 7294645.7660 km^2 s
+      areaAfterLanding: 4930150.3123 km^2 s
+      areaBeforeStart: 651885.1856 km^2 s
+  - - - '161'
+      - Matteo Siragna
+    - areaFlown: 10265867.6375 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 782575.7567 km^2 s
+  - - - '140'
+      - Maurizio Maina
+    - areaFlown: 7293462.1049 km^2 s
+      areaAfterLanding: 5274643.8010 km^2 s
+      areaBeforeStart: 732459.7943 km^2 s
+  - - - '180'
+      - Michal Gierlach
+    - areaFlown: 9326137.2392 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 684606.4388 km^2 s
+  - - - '108'
+      - Michele Boschi
+    - areaFlown: 9171824.5335 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 664510.7605 km^2 s
+  - - - '128'
+      - Michele Gaiba
+    - areaFlown: 10681452.6116 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 651746.4677 km^2 s
+  - - - '124'
+      - Paolo Facchini
+    - areaFlown: 10234448.6455 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 728096.2011 km^2 s
+  - - - '170'
+      - Paolo Veratti
+    - areaFlown: 9715247.1215 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 754484.4379 km^2 s
+  - - - '173'
+      - Paolo Zammarchi
+    - areaFlown: 9667257.3021 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 651997.6969 km^2 s
+  - - - '151'
+      - Piergiorgio Pintossi
+    - areaFlown: 10372430.7299 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 565785.4392 km^2 s
+  - - - '144'
+      - Riccardo Marchetto
+    - areaFlown: 14273996.8377 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1054758.2293 km^2 s
+  - - - '127'
+      - Richárd Gabrieli
+    - areaFlown: 7629357.3820 km^2 s
+      areaAfterLanding: 4146697.0251 km^2 s
+      areaBeforeStart: 688268.4746 km^2 s
+  - - - '123'
+      - Sergio Di Fazio
+    - areaFlown: 14275336.8472 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 0.0000 km^2 s
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - areaFlown: 9589983.2117 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 698525.2324 km^2 s
+  - - - '137'
+      - Slawomir Kaczynski
+    - areaFlown: 10371845.6568 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 637905.2589 km^2 s
+  - - - '154'
+      - Stefano Pucci
+    - areaFlown: 9454928.1476 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 721515.5115 km^2 s
+  - - - '166'
+      - Tiziano Trambaioli
+    - areaFlown: 10333958.1423 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 661363.0722 km^2 s
+  - - - '113'
+      - Tommaso Carlini
+    - areaFlown: 12610943.7864 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 735385.3602 km^2 s
+  - - - '143'
+      - Valerio Marchetti
+    - areaFlown: 14509712.4478 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 1068002.9841 km^2 s

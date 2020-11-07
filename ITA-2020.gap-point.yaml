@@ -45,7 +45,29 @@ validityWorking:
       extra: 74.486014 km
       flown: 74.486014 km
   stop: null
-- null
+- time:
+    nominalTime: 1.500000 h
+    ssBestTime: 2.907516 h
+    gsBestTime: 2.922927 h
+    nominalDistance: 45.0 km
+    reachMax:
+      extra: 73.846626 km
+      flown: 73.846626 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 76
+    present: 76
+  distance:
+    sum: 4387.0 km
+    flying: 76
+    area: 30.3269939
+    nominalGoal: 0.3
+    nominalDistance: 45.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 73.846626 km
+      flown: 73.846626 km
+  stop: null
 - time:
     nominalTime: 1.500000 h
     ssBestTime: 4.532814 h
@@ -126,7 +148,11 @@ validity:
   distance: 1
   task: 1
   stop: null
-- null
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+  stop: null
 - time: 1
   launch: 1
   distance: 1
@@ -175,7 +201,22 @@ allocation:
     distance: 383.839
     leading: 215.7
   taskPoints: 1000
-- null
+- goalRatio: 0.57894737
+  weight:
+    effort: 0
+    arrival: 0
+    time: 0.39239995
+    reach: 0.39630777
+    distance: 0.39630777
+    leading: 0.21129228
+  points:
+    effort: 0
+    arrival: 0
+    time: 392.4
+    reach: 396.308
+    distance: 396.308
+    leading: 211.3
+  taskPoints: 1000
 - goalRatio: 0.32894737
   weight:
     effort: 0
@@ -6125,7 +6166,2933 @@ score:
       subtotal: 40.669
       landedMade: 6.437 km
       stoppedAlt: -4022.000 m
-- []
+- - - - '138'
+      - Marco Littamè
+    - place: '1'
+      total: 989.325
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 381.7
+        reach: 396.308
+        distance: 396.308
+        leading: 211.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:29.263139837067Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:50.153731072945Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.922470 h
+        gsElapsed: 2.930598 h
+        ssVelocity: 24.57 km / h
+        gsVelocity: 24.50 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 989.325
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '146'
+      - Joachim Oberhauser
+    - place: '2'
+      total: 973.632
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 386
+        reach: 396.308
+        distance: 396.308
+        leading: 191.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:14.877589605494Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:35.47799173984Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.922389 h
+        gsElapsed: 2.926522 h
+        ssVelocity: 24.57 km / h
+        gsVelocity: 24.53 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 973.632
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - place: '3'
+      total: 971.287
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 389.6
+        reach: 396.308
+        distance: 396.308
+        leading: 185.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:07.621873075242Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:26.316307826809Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.921860 h
+        gsElapsed: 2.923977 h
+        ssVelocity: 24.57 km / h
+        gsVelocity: 24.55 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 971.287
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '145'
+      - Federico Nevastro
+    - place: '4'
+      total: 965.561
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 392.4
+        reach: 396.308
+        distance: 396.308
+        leading: 176.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:55.477500372854Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:22.535475598845Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.907516 h
+        gsElapsed: 2.922927 h
+        ssVelocity: 24.69 km / h
+        gsVelocity: 24.56 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 965.561
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '106'
+      - Christian Biasi
+    - place: '5'
+      total: 965.097
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 390.3
+        reach: 396.308
+        distance: 396.308
+        leading: 178.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:17.095023216845Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:24.965707139432Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.918853 h
+        gsElapsed: 2.923602 h
+        ssVelocity: 24.60 km / h
+        gsVelocity: 24.56 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 965.097
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - place: '6'
+      total: 934.953
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 352.3
+        reach: 396.308
+        distance: 396.308
+        leading: 186.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.641699868244Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:43.946965644399Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.972307 h
+        gsElapsed: 2.978874 h
+        ssVelocity: 24.15 km / h
+        gsVelocity: 24.10 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 934.953
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '108'
+      - Michele Boschi
+    - place: 7=
+      total: 932.934
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 354.4
+        reach: 396.308
+        distance: 396.308
+        leading: 182.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:19.615724411206Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:27.799135785561Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.968940 h
+        gsElapsed: 2.974389 h
+        ssVelocity: 24.18 km / h
+        gsVelocity: 24.14 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 932.934
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - place: 7=
+      total: 932.882
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 348
+        reach: 396.308
+        distance: 396.308
+        leading: 188.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:35.333113532963Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:16.751459563959Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.978172 h
+        gsElapsed: 2.987987 h
+        ssVelocity: 24.11 km / h
+        gsVelocity: 24.03 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 932.882
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '115'
+      - Alberto Castagna
+    - place: 9=
+      total: 931.941
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 346.3
+        reach: 396.308
+        distance: 396.308
+        leading: 189.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:31:53.553594103335Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:30.488595706104Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.960260 h
+        gsElapsed: 2.991802 h
+        ssVelocity: 24.25 km / h
+        gsVelocity: 24.00 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 931.941
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '180'
+      - Michal Gierlach
+    - place: 9=
+      total: 931.923
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 354.5
+        reach: 396.308
+        distance: 396.308
+        leading: 181.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.269544872464Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:27.575226886606Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.967863 h
+        gsElapsed: 2.974326 h
+        ssVelocity: 24.19 km / h
+        gsVelocity: 24.14 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 931.923
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - place: 9=
+      total: 931.644
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 344.2
+        reach: 396.308
+        distance: 396.308
+        leading: 191.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:19.688310897226Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:47.735780125684Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.991124 h
+        gsElapsed: 2.996593 h
+        ssVelocity: 24.00 km / h
+        gsVelocity: 23.96 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 931.644
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '132'
+      - Jacek Górski
+    - place: '12'
+      total: 928.787
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 346.4
+        reach: 396.308
+        distance: 396.308
+        leading: 186
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:18.364570825277Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:29.248625544196Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.986357 h
+        gsElapsed: 2.991458 h
+        ssVelocity: 24.04 km / h
+        gsVelocity: 24.00 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 928.787
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '124'
+      - Paolo Facchini
+    - place: 13=
+      total: 924.007
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 349.8
+        reach: 396.308
+        distance: 396.308
+        leading: 177.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:31.322815636347Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:02.32097290815Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.975277 h
+        gsElapsed: 2.983978 h
+        ssVelocity: 24.13 km / h
+        gsVelocity: 24.06 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 924.007
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '168'
+      - Marco Valentini
+    - place: 13=
+      total: 923.768
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 348.8
+        reach: 396.308
+        distance: 396.308
+        leading: 178.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:36.207578882104Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:10.552887846748Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.976207 h
+        gsElapsed: 2.986265 h
+        ssVelocity: 24.12 km / h
+        gsVelocity: 24.04 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 923.768
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '155'
+      - Alfio Ragaglia
+    - place: 15=
+      total: 923.29
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 345.4
+        reach: 396.308
+        distance: 396.308
+        leading: 181.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:17.00331589262Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:37.6753468442Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.989076 h
+        gsElapsed: 2.993799 h
+        ssVelocity: 24.02 km / h
+        gsVelocity: 23.98 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 923.29
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '109'
+      - Federico Brown Manzone
+    - place: 15=
+      total: 923.047
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 350.7
+        reach: 396.308
+        distance: 396.308
+        leading: 176.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:04.287729437745Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:56.135589362568Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.981069 h
+        gsElapsed: 2.982260 h
+        ssVelocity: 24.08 km / h
+        gsVelocity: 24.07 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 923.047
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '104'
+      - Loris Berta
+    - place: '17'
+      total: 922.379
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 343
+        reach: 396.308
+        distance: 396.308
+        leading: 183.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:37.884016188341Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:57.391386857833Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.988752 h
+        gsElapsed: 2.999275 h
+        ssVelocity: 24.02 km / h
+        gsVelocity: 23.94 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 922.379
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - place: '18'
+      total: 921.36
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 352
+        reach: 396.308
+        distance: 396.308
+        leading: 173
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:31:01.027439592294Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:45.715189375521Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.962413 h
+        gsElapsed: 2.979365 h
+        ssVelocity: 24.23 km / h
+        gsVelocity: 24.10 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 921.36
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '161'
+      - Matteo Siragna
+    - place: '19'
+      total: 915.921
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 346.1
+        reach: 396.308
+        distance: 396.308
+        leading: 173.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.10986551037Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:32.132076670397Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.985840 h
+        gsElapsed: 2.992259 h
+        ssVelocity: 24.04 km / h
+        gsVelocity: 23.99 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 915.921
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - place: 20=
+      total: 904.446
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 331.8
+        reach: 396.308
+        distance: 396.308
+        leading: 176.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:49.299283885549Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:36.46781403649Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.013102 h
+        gsElapsed: 3.026797 h
+        ssVelocity: 23.83 km / h
+        gsVelocity: 23.72 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 904.446
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - place: 20=
+      total: 904.415
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 331.8
+        reach: 396.308
+        distance: 396.308
+        leading: 176.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:49.315820483831Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:36.460133604038Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.013096 h
+        gsElapsed: 3.026794 h
+        ssVelocity: 23.83 km / h
+        gsVelocity: 23.72 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 904.415
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '117'
+      - Gianfranco Crestani
+    - place: '22'
+      total: 903.329
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 330.5
+        reach: 396.308
+        distance: 396.308
+        leading: 176.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:47.904721290237Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:48.07093335623Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.016713 h
+        gsElapsed: 3.030020 h
+        ssVelocity: 23.80 km / h
+        gsVelocity: 23.69 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 903.329
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '130'
+      - Andrea Garolla
+    - place: '23'
+      total: 899.252
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 327
+        reach: 396.308
+        distance: 396.308
+        leading: 176
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:31:15.157291914208Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:32:21.713315906516Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.018488 h
+        gsElapsed: 3.039365 h
+        ssVelocity: 23.78 km / h
+        gsVelocity: 23.62 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 899.252
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '154'
+      - Stefano Pucci
+    - place: '24'
+      total: 897.93
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 330.8
+        reach: 396.308
+        distance: 396.308
+        leading: 170.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:18.176376507927Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:45.736553571713Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.024322 h
+        gsElapsed: 3.029371 h
+        ssVelocity: 23.74 km / h
+        gsVelocity: 23.70 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 897.93
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '121'
+      - Giorgio Darra
+    - place: '25'
+      total: 896.177
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 298.3
+        reach: 396.308
+        distance: 396.308
+        leading: 201.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:28.933131834573Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:37:25.157298171382Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.115618 h
+        gsElapsed: 3.123655 h
+        ssVelocity: 23.04 km / h
+        gsVelocity: 22.98 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 896.177
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - place: '26'
+      total: 895.098
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 326.8
+        reach: 396.308
+        distance: 396.308
+        leading: 172
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:09.957217567104Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:32:23.601856983336Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.037124 h
+        gsElapsed: 3.039889 h
+        ssVelocity: 23.64 km / h
+        gsVelocity: 23.62 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 895.098
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '150'
+      - Luca Paoletti
+    - place: '27'
+      total: 893.882
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 329.8
+        reach: 396.308
+        distance: 396.308
+        leading: 167.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:32.449920365837Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:54.492168077892Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.022790 h
+        gsElapsed: 3.031803 h
+        ssVelocity: 23.75 km / h
+        gsVelocity: 23.68 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 893.882
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - place: 28=
+      total: 892.469
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 317.3
+        reach: 396.308
+        distance: 396.308
+        leading: 178.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:40.698832102173Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:33:58.186024684385Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.054858 h
+        gsElapsed: 3.066163 h
+        ssVelocity: 23.50 km / h
+        gsVelocity: 23.41 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 892.469
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '157'
+      - Elio Rossi
+    - place: 28=
+      total: 892.1
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 342.3
+        reach: 396.308
+        distance: 396.308
+        leading: 153.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:53.238580474494Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:30:03.196127301099Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.986099 h
+        gsElapsed: 3.000888 h
+        ssVelocity: 24.04 km / h
+        gsVelocity: 23.92 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 892.1
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '169'
+      - Alessandro Vallero
+    - place: 28=
+      total: 891.71
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 323.6
+        reach: 396.308
+        distance: 396.308
+        leading: 171.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:14.884054114817Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:32:54.864129287022Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.044439 h
+        gsElapsed: 3.048573 h
+        ssVelocity: 23.58 km / h
+        gsVelocity: 23.55 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 891.71
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '148'
+      - Luciano Pagnoni
+    - place: '31'
+      total: 890.235
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 329.7
+        reach: 396.308
+        distance: 396.308
+        leading: 164.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.646462404279Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:55.459054987141Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.021059 h
+        gsElapsed: 3.032072 h
+        ssVelocity: 23.76 km / h
+        gsVelocity: 23.68 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 890.235
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '129'
+      - Luciano Gallo
+    - place: '32'
+      total: 889.49
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 331.4
+        reach: 396.308
+        distance: 396.308
+        leading: 161.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:27.061339962931Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:40.199457554666Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.020316 h
+        gsElapsed: 3.027833 h
+        ssVelocity: 23.77 km / h
+        gsVelocity: 23.71 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 889.49
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '141'
+      - Albino Malli
+    - place: '33'
+      total: 887.675
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 307.5
+        reach: 396.308
+        distance: 396.308
+        leading: 183.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:31.124956784882Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:35:42.473076256172Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.086486 h
+        gsElapsed: 3.095131 h
+        ssVelocity: 23.26 km / h
+        gsVelocity: 23.19 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 887.675
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - place: '34'
+      total: 887.28
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 320.9
+        reach: 396.308
+        distance: 396.308
+        leading: 170.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:19.544132846359Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:33:21.409489550633Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.050518 h
+        gsElapsed: 3.055947 h
+        ssVelocity: 23.53 km / h
+        gsVelocity: 23.49 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 887.28
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '116'
+      - Ivan Centa
+    - place: '35'
+      total: 885.099
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 311.1
+        reach: 396.308
+        distance: 396.308
+        leading: 177.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.775581739577Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:35:02.810892003915Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.073065 h
+        gsElapsed: 3.084114 h
+        ssVelocity: 23.36 km / h
+        gsVelocity: 23.28 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 885.099
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '177'
+      - Bogdan Bialka
+    - place: '36'
+      total: 881.868
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 295.5
+        reach: 396.308
+        distance: 396.308
+        leading: 190.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:24.504207215326Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:37:58.309207673343Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.126057 h
+        gsElapsed: 3.132864 h
+        ssVelocity: 22.97 km / h
+        gsVelocity: 22.92 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 881.868
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '158'
+      - Antonio Ruta
+    - place: '37'
+      total: 877.274
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 315.1
+        reach: 396.308
+        distance: 396.308
+        leading: 165.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:25.758196220102Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:34:20.185431647292Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.065119 h
+        gsElapsed: 3.072274 h
+        ssVelocity: 23.42 km / h
+        gsVelocity: 23.37 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 877.274
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '135'
+      - Cristian Inverardi
+    - place: '38'
+      total: 867.636
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 290.3
+        reach: 396.308
+        distance: 396.308
+        leading: 181
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:26.901201037525Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:38:58.89456950168Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.142220 h
+        gsElapsed: 3.149693 h
+        ssVelocity: 22.85 km / h
+        gsVelocity: 22.79 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 867.636
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '174'
+      - Davide Zaltron
+    - place: '39'
+      total: 862.718
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 295.5
+        reach: 396.308
+        distance: 396.308
+        leading: 170.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:31.579729063278Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:37:57.457607794391Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.123855 h
+        gsElapsed: 3.132627 h
+        ssVelocity: 22.98 km / h
+        gsVelocity: 22.92 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 862.718
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '113'
+      - Tommaso Carlini
+    - place: '40'
+      total: 860.526
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 293.9
+        reach: 396.308
+        distance: 396.308
+        leading: 170.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.353387126533Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:38:16.387053395082Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.131398 h
+        gsElapsed: 3.137885 h
+        ssVelocity: 22.93 km / h
+        gsVelocity: 22.88 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 860.526
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '156'
+      - Massimo Rapari
+    - place: '41'
+      total: 857.149
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 305.3
+        reach: 396.308
+        distance: 396.308
+        leading: 155.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:34.193528036692Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:36:06.180224345981Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.092219 h
+        gsElapsed: 3.101717 h
+        ssVelocity: 23.22 km / h
+        gsVelocity: 23.15 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 857.149
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '164'
+      - Anca Tabara
+    - place: '42'
+      total: 799.115
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 245
+        reach: 396.308
+        distance: 396.308
+        leading: 157.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:22.028795434065Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:48:59.486601569132Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.310405 h
+        gsElapsed: 3.316524 h
+        ssVelocity: 21.69 km / h
+        gsVelocity: 21.65 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 799.115
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - place: '43'
+      total: 721.258
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 169.6
+        reach: 396.308
+        distance: 396.308
+        leading: 155.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:20.571882972155Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T15:09:15.568845840662Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.648610 h
+        gsElapsed: 3.654325 h
+        ssVelocity: 19.68 km / h
+        gsVelocity: 19.65 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 721.258
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '160'
+      - Giuseppe Simone
+    - place: '44'
+      total: 620.115
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 141.5
+        reach: 396.308
+        distance: 396.308
+        leading: 82.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:45.297789202126Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T15:17:49.62372716526Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.784535 h
+        gsElapsed: 3.797118 h
+        ssVelocity: 18.97 km / h
+        gsVelocity: 18.91 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 620.115
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '172'
+      - Alessio Voltan
+    - place: '45'
+      total: 555.784
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 383.852
+        distance: 383.852
+        leading: 171.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:33:03.335269657996Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 71.526 km
+        flown: 71.526 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 555.784
+      landedMade: 69.479 km
+      stoppedAlt: 305.000 m
+  - - - '165'
+      - Andrea Terenziani
+    - place: '46'
+      total: 541.056
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 392.696
+        distance: 392.696
+        leading: 148.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:32.211557124059Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 73.174 km
+        flown: 73.174 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 541.056
+      landedMade: 73.165 km
+      stoppedAlt: 525.000 m
+  - - - '133'
+      - Alessio Guidi
+    - place: '47'
+      total: 411.177
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 324.239
+        distance: 324.239
+        leading: 86.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:59.71469544097Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 60.418 km
+        flown: 60.418 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 411.177
+      landedMade: 60.143 km
+      stoppedAlt: 410.000 m
+  - - - '142'
+      - Luca Mammucari
+    - place: '48'
+      total: 403.972
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 314.193
+        distance: 314.193
+        leading: 89.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:57.645231704917Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 58.546 km
+        flown: 58.546 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 403.972
+      landedMade: 58.021 km
+      stoppedAlt: -4888.000 m
+  - - - '176'
+      - Francesco Fontanesi
+    - place: '49'
+      total: 396.55
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 321.771
+        distance: 321.771
+        leading: 74.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:44.635694691361Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 59.958 km
+        flown: 59.958 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 396.55
+      landedMade: 59.623 km
+      stoppedAlt: 241.000 m
+  - - - '140'
+      - Maurizio Maina
+    - place: '50'
+      total: 396.1
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 304.404
+        distance: 304.404
+        leading: 91.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:27.508042532086Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 56.722 km
+        flown: 56.722 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 396.1
+      landedMade: 56.629 km
+      stoppedAlt: 227.000 m
+  - - - '125'
+      - Grzegorz Fiema
+    - place: '51'
+      total: 393.451
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 324.513
+        distance: 324.513
+        leading: 68.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:41.656864600448Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 60.469 km
+        flown: 60.469 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 393.451
+      landedMade: 60.285 km
+      stoppedAlt: 263.000 m
+  - - - '149'
+      - Alessandro Palma
+    - place: '52'
+      total: 377.081
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 304.694
+        distance: 304.694
+        leading: 72.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:24.181014916884Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 56.776 km
+        flown: 56.776 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 377.081
+      landedMade: 56.310 km
+      stoppedAlt: 237.000 m
+  - - - '147'
+      - Francesco Orcese
+    - place: '53'
+      total: 353.189
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 315.062
+        distance: 315.062
+        leading: 38.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:22.453273929429Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 58.708 km
+        flown: 58.708 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 353.189
+      landedMade: 58.670 km
+      stoppedAlt: 254.000 m
+  - - - '122'
+      - Angelo Dell’Aira
+    - place: '54'
+      total: 339.559
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 279.374
+        distance: 279.374
+        leading: 60.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:24.387369268456Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 52.058 km
+        flown: 52.058 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 339.559
+      landedMade: 51.996 km
+      stoppedAlt: 0.000 m
+  - - - '139'
+      - Alessandro Madaluni
+    - place: '55'
+      total: 335.16
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 312.325
+        distance: 312.325
+        leading: 22.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.888820569164Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 58.198 km
+        flown: 58.198 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 335.16
+      landedMade: 58.202 km
+      stoppedAlt: 237.000 m
+  - - - '127'
+      - Richárd Gabrieli
+    - place: 56=
+      total: 319.887
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 319.887
+        distance: 319.887
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T12:03:02.709730956601Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 59.607 km
+        flown: 59.607 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 319.887
+      landedMade: 59.422 km
+      stoppedAlt: 344.000 m
+  - - - '102'
+      - Matteo Bacchiocchi
+    - place: 56=
+      total: 319.703
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 279.015
+        distance: 279.015
+        leading: 40.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:50.293394811462Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.991 km
+        flown: 51.991 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 319.703
+      landedMade: 51.164 km
+      stoppedAlt: 241.000 m
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - place: '58'
+      total: 317.622
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 287.408
+        distance: 287.408
+        leading: 30.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:59.141536942916Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 53.555 km
+        flown: 53.555 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 317.622
+      landedMade: 52.221 km
+      stoppedAlt: 252.000 m
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - place: '59'
+      total: 296.153
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 278.934
+        distance: 278.934
+        leading: 17.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:17.711876114514Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.976 km
+        flown: 51.976 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 296.153
+      landedMade: 50.971 km
+      stoppedAlt: 251.000 m
+  - - - '144'
+      - Riccardo Marchetto
+    - place: '60'
+      total: 288.927
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 288.927
+        distance: 288.927
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:50.801799621426Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 53.838 km
+        flown: 53.838 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 288.927
+      landedMade: 53.809 km
+      stoppedAlt: 642.000 m
+  - - - '167'
+      - Ionut Ulici
+    - place: '61'
+      total: 277.984
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 277.984
+        distance: 277.984
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:59.997302811711Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.799 km
+        flown: 51.799 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 277.984
+      landedMade: 50.187 km
+      stoppedAlt: 257.000 m
+  - - - '173'
+      - Paolo Zammarchi
+    - place: 62=
+      total: 267.383
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 251.36
+        distance: 251.36
+        leading: 16
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:05.381971048066Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 46.838 km
+        flown: 46.838 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 267.383
+      landedMade: 46.824 km
+      stoppedAlt: 238.000 m
+  - - - '111'
+      - Marco Busetta
+    - place: 62=
+      total: 267.177
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 251.527
+        distance: 251.527
+        leading: 15.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:27.579267214436Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 46.869 km
+        flown: 46.869 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 267.177
+      landedMade: 46.831 km
+      stoppedAlt: 236.000 m
+  - - - '123'
+      - Sergio Di Fazio
+    - place: 62=
+      total: 266.714
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 266.714
+        distance: 266.714
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:34:25.965178254249Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.699 km
+        flown: 49.699 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 266.714
+      landedMade: 49.270 km
+      stoppedAlt: 243.000 m
+  - - - '107'
+      - Gabriele Bonafini
+    - place: '65'
+      total: 263.28
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 263.28
+        distance: 263.28
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:52.771188614512Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.059 km
+        flown: 49.059 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 263.28
+      landedMade: 48.972 km
+      stoppedAlt: 237.000 m
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - place: '66'
+      total: 253.507
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 253.507
+        distance: 253.507
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:45:52.601726359551Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 47.238 km
+        flown: 47.238 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 253.507
+      landedMade: 47.044 km
+      stoppedAlt: 197.000 m
+  - - - '110'
+      - Klaudia Bulgakow
+    - place: '67'
+      total: 248.527
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 248.527
+        distance: 248.527
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:33:44.985829210675Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 46.310 km
+        flown: 46.310 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 248.527
+      landedMade: 46.141 km
+      stoppedAlt: 234.000 m
+  - - - '170'
+      - Paolo Veratti
+    - place: '68'
+      total: 247.799
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 245.645
+        distance: 245.645
+        leading: 2.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.203904979466Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 45.773 km
+        flown: 45.773 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 247.799
+      landedMade: 45.774 km
+      stoppedAlt: 267.000 m
+  - - - '143'
+      - Valerio Marchetti
+    - place: '69'
+      total: 246.16
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 246.16
+        distance: 246.16
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:49:01.355108180167Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 45.869 km
+        flown: 45.869 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 246.16
+      landedMade: 45.665 km
+      stoppedAlt: 259.000 m
+  - - - '131'
+      - Marco Gentilini
+    - place: '70'
+      total: 239.323
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 239.323
+        distance: 239.323
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:34.256932043027Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.595 km
+        flown: 44.595 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 239.323
+      landedMade: 44.444 km
+      stoppedAlt: 280.000 m
+  - - - '118'
+      - Igor D'Agostino
+    - place: '71'
+      total: 237.906
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 237.906
+        distance: 237.906
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:33:25.71676229967Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.331 km
+        flown: 44.331 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 237.906
+      landedMade: 44.162 km
+      stoppedAlt: 251.000 m
+  - - - '114'
+      - Mirco Casarini
+    - place: '72'
+      total: 144
+      jump: 95.422 s
+      penalties:
+        adds: []
+        muls: []
+        resets:
+        - penalty-reset: 144
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 224.726
+        distance: 224.726
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:28:24.577691272403Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 41.875 km
+        flown: 41.875 km
+      demeritReset: 80.726
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets:
+        - penalty-reset: 144
+      penaltyReason: ''
+      subtotal: 224.726
+      landedMade: 41.196 km
+      stoppedAlt: 0.000 m
+  - - - '178'
+      - Marius Saigiu
+    - place: 73=
+      total: 26.833
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 26.833
+        distance: 26.833
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: 2020-08-05T11:08:17.205733439407Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 3.909 km
+        flown: 3.909 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 26.833
+      landedMade: 2.059 km
+      stoppedAlt: 393.000 m
+  - - - '175'
+      - Mariusz Wisniowski
+    - place: 73=
+      total: 26.833
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 26.833
+        distance: 26.833
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: 2020-08-05T11:08:16.21976134784Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 3.907 km
+        flown: 3.907 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 26.833
+      landedMade: 3.019 km
+      stoppedAlt: 383.000 m
+  - - - '128'
+      - Michele Gaiba
+    - place: 73=
+      total: 26.833
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 26.833
+        distance: 26.833
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: 2020-08-05T11:08:16.638220099122Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 3.907 km
+        flown: 3.907 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 26.833
+      landedMade: 2.034 km
+      stoppedAlt: 394.000 m
 - - - - '111'
       - Marco Busetta
     - place: '1'
@@ -20817,7 +23784,2933 @@ scoreDf:
       subtotal: 40.669
       landedMade: 6.437 km
       stoppedAlt: -4022.000 m
-- []
+- - - - '138'
+      - Marco Littamè
+    - place: '1'
+      total: 989.325
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 381.7
+        reach: 396.308
+        distance: 396.308
+        leading: 211.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:29.263139837067Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:50.153731072945Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.922470 h
+        gsElapsed: 2.930598 h
+        ssVelocity: 24.57 km / h
+        gsVelocity: 24.50 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 989.325
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '146'
+      - Joachim Oberhauser
+    - place: '2'
+      total: 973.632
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 386
+        reach: 396.308
+        distance: 396.308
+        leading: 191.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:14.877589605494Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:35.47799173984Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.922389 h
+        gsElapsed: 2.926522 h
+        ssVelocity: 24.57 km / h
+        gsVelocity: 24.53 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 973.632
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '171'
+      - Biagio Alberto Vitale
+    - place: '3'
+      total: 971.287
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 389.6
+        reach: 396.308
+        distance: 396.308
+        leading: 185.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:07.621873075242Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:26.316307826809Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.921860 h
+        gsElapsed: 2.923977 h
+        ssVelocity: 24.57 km / h
+        gsVelocity: 24.55 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 971.287
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '145'
+      - Federico Nevastro
+    - place: '4'
+      total: 965.561
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 392.4
+        reach: 396.308
+        distance: 396.308
+        leading: 176.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:55.477500372854Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:22.535475598845Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.907516 h
+        gsElapsed: 2.922927 h
+        ssVelocity: 24.69 km / h
+        gsVelocity: 24.56 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 965.561
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '106'
+      - Christian Biasi
+    - place: '5'
+      total: 965.097
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 390.3
+        reach: 396.308
+        distance: 396.308
+        leading: 178.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:17.095023216845Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:25:24.965707139432Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.918853 h
+        gsElapsed: 2.923602 h
+        ssVelocity: 24.60 km / h
+        gsVelocity: 24.56 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 965.097
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '159'
+      - Krzysztof Schmidt
+    - place: '6'
+      total: 934.953
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 352.3
+        reach: 396.308
+        distance: 396.308
+        leading: 186.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.641699868244Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:43.946965644399Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.972307 h
+        gsElapsed: 2.978874 h
+        ssVelocity: 24.15 km / h
+        gsVelocity: 24.10 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 934.953
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '108'
+      - Michele Boschi
+    - place: 7=
+      total: 932.934
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 354.4
+        reach: 396.308
+        distance: 396.308
+        leading: 182.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:19.615724411206Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:27.799135785561Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.968940 h
+        gsElapsed: 2.974389 h
+        ssVelocity: 24.18 km / h
+        gsVelocity: 24.14 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 932.934
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '166'
+      - Tiziano Trambaioli
+    - place: 7=
+      total: 932.882
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 348
+        reach: 396.308
+        distance: 396.308
+        leading: 188.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:35.333113532963Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:16.751459563959Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.978172 h
+        gsElapsed: 2.987987 h
+        ssVelocity: 24.11 km / h
+        gsVelocity: 24.03 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 932.882
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '115'
+      - Alberto Castagna
+    - place: 9=
+      total: 931.941
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 346.3
+        reach: 396.308
+        distance: 396.308
+        leading: 189.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:31:53.553594103335Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:30.488595706104Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.960260 h
+        gsElapsed: 2.991802 h
+        ssVelocity: 24.25 km / h
+        gsVelocity: 24.00 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 931.941
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '180'
+      - Michal Gierlach
+    - place: 9=
+      total: 931.923
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 354.5
+        reach: 396.308
+        distance: 396.308
+        leading: 181.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.269544872464Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:27.575226886606Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.967863 h
+        gsElapsed: 2.974326 h
+        ssVelocity: 24.19 km / h
+        gsVelocity: 24.14 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 931.923
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '153'
+      - Gianbasilio Profiti
+    - place: 9=
+      total: 931.644
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 344.2
+        reach: 396.308
+        distance: 396.308
+        leading: 191.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:19.688310897226Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:47.735780125684Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.991124 h
+        gsElapsed: 2.996593 h
+        ssVelocity: 24.00 km / h
+        gsVelocity: 23.96 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 931.644
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '132'
+      - Jacek Górski
+    - place: '12'
+      total: 928.787
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 346.4
+        reach: 396.308
+        distance: 396.308
+        leading: 186
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:18.364570825277Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:29.248625544196Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.986357 h
+        gsElapsed: 2.991458 h
+        ssVelocity: 24.04 km / h
+        gsVelocity: 24.00 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 928.787
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '124'
+      - Paolo Facchini
+    - place: 13=
+      total: 924.007
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 349.8
+        reach: 396.308
+        distance: 396.308
+        leading: 177.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:31.322815636347Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:02.32097290815Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.975277 h
+        gsElapsed: 2.983978 h
+        ssVelocity: 24.13 km / h
+        gsVelocity: 24.06 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 924.007
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '168'
+      - Marco Valentini
+    - place: 13=
+      total: 923.768
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 348.8
+        reach: 396.308
+        distance: 396.308
+        leading: 178.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:36.207578882104Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:10.552887846748Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.976207 h
+        gsElapsed: 2.986265 h
+        ssVelocity: 24.12 km / h
+        gsVelocity: 24.04 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 923.768
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '155'
+      - Alfio Ragaglia
+    - place: 15=
+      total: 923.29
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 345.4
+        reach: 396.308
+        distance: 396.308
+        leading: 181.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:17.00331589262Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:37.6753468442Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.989076 h
+        gsElapsed: 2.993799 h
+        ssVelocity: 24.02 km / h
+        gsVelocity: 23.98 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 923.29
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '109'
+      - Federico Brown Manzone
+    - place: 15=
+      total: 923.047
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 350.7
+        reach: 396.308
+        distance: 396.308
+        leading: 176.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:04.287729437745Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:56.135589362568Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.981069 h
+        gsElapsed: 2.982260 h
+        ssVelocity: 24.08 km / h
+        gsVelocity: 24.07 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 923.047
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '104'
+      - Loris Berta
+    - place: '17'
+      total: 922.379
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 343
+        reach: 396.308
+        distance: 396.308
+        leading: 183.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:37.884016188341Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:57.391386857833Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.988752 h
+        gsElapsed: 2.999275 h
+        ssVelocity: 24.02 km / h
+        gsVelocity: 23.94 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 922.379
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '137'
+      - Slawomir Kaczynski
+    - place: '18'
+      total: 921.36
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 352
+        reach: 396.308
+        distance: 396.308
+        leading: 173
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:31:01.027439592294Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:28:45.715189375521Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.962413 h
+        gsElapsed: 2.979365 h
+        ssVelocity: 24.23 km / h
+        gsVelocity: 24.10 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 921.36
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '161'
+      - Matteo Siragna
+    - place: '19'
+      total: 915.921
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 346.1
+        reach: 396.308
+        distance: 396.308
+        leading: 173.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.10986551037Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:29:32.132076670397Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.985840 h
+        gsElapsed: 2.992259 h
+        ssVelocity: 24.04 km / h
+        gsVelocity: 23.99 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 915.921
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - place: 20=
+      total: 904.446
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 331.8
+        reach: 396.308
+        distance: 396.308
+        leading: 176.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:49.299283885549Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:36.46781403649Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.013102 h
+        gsElapsed: 3.026797 h
+        ssVelocity: 23.83 km / h
+        gsVelocity: 23.72 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 904.446
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - place: 20=
+      total: 904.415
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 331.8
+        reach: 396.308
+        distance: 396.308
+        leading: 176.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:49.315820483831Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:36.460133604038Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.013096 h
+        gsElapsed: 3.026794 h
+        ssVelocity: 23.83 km / h
+        gsVelocity: 23.72 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 904.415
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '117'
+      - Gianfranco Crestani
+    - place: '22'
+      total: 903.329
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 330.5
+        reach: 396.308
+        distance: 396.308
+        leading: 176.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:47.904721290237Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:48.07093335623Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.016713 h
+        gsElapsed: 3.030020 h
+        ssVelocity: 23.80 km / h
+        gsVelocity: 23.69 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 903.329
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '130'
+      - Andrea Garolla
+    - place: '23'
+      total: 899.252
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 327
+        reach: 396.308
+        distance: 396.308
+        leading: 176
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:31:15.157291914208Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:32:21.713315906516Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.018488 h
+        gsElapsed: 3.039365 h
+        ssVelocity: 23.78 km / h
+        gsVelocity: 23.62 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 899.252
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '154'
+      - Stefano Pucci
+    - place: '24'
+      total: 897.93
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 330.8
+        reach: 396.308
+        distance: 396.308
+        leading: 170.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:18.176376507927Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:45.736553571713Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.024322 h
+        gsElapsed: 3.029371 h
+        ssVelocity: 23.74 km / h
+        gsVelocity: 23.70 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 897.93
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '121'
+      - Giorgio Darra
+    - place: '25'
+      total: 896.177
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 298.3
+        reach: 396.308
+        distance: 396.308
+        leading: 201.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:28.933131834573Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:37:25.157298171382Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.115618 h
+        gsElapsed: 3.123655 h
+        ssVelocity: 23.04 km / h
+        gsVelocity: 22.98 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 896.177
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '126'
+      - Alessandro Fuzzi
+    - place: '26'
+      total: 895.098
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 326.8
+        reach: 396.308
+        distance: 396.308
+        leading: 172
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:09.957217567104Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:32:23.601856983336Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.037124 h
+        gsElapsed: 3.039889 h
+        ssVelocity: 23.64 km / h
+        gsVelocity: 23.62 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 895.098
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '150'
+      - Luca Paoletti
+    - place: '27'
+      total: 893.882
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 329.8
+        reach: 396.308
+        distance: 396.308
+        leading: 167.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:32.449920365837Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:54.492168077892Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.022790 h
+        gsElapsed: 3.031803 h
+        ssVelocity: 23.75 km / h
+        gsVelocity: 23.68 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 893.882
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '151'
+      - Piergiorgio Pintossi
+    - place: 28=
+      total: 892.469
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 317.3
+        reach: 396.308
+        distance: 396.308
+        leading: 178.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:40.698832102173Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:33:58.186024684385Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.054858 h
+        gsElapsed: 3.066163 h
+        ssVelocity: 23.50 km / h
+        gsVelocity: 23.41 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 892.469
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '157'
+      - Elio Rossi
+    - place: 28=
+      total: 892.1
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 342.3
+        reach: 396.308
+        distance: 396.308
+        leading: 153.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:53.238580474494Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:30:03.196127301099Z
+        ssDistance: 71.791 km
+        ssElapsed: 2.986099 h
+        gsElapsed: 3.000888 h
+        ssVelocity: 24.04 km / h
+        gsVelocity: 23.92 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 892.1
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '169'
+      - Alessandro Vallero
+    - place: 28=
+      total: 891.71
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 323.6
+        reach: 396.308
+        distance: 396.308
+        leading: 171.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:14.884054114817Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:32:54.864129287022Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.044439 h
+        gsElapsed: 3.048573 h
+        ssVelocity: 23.58 km / h
+        gsVelocity: 23.55 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 891.71
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '148'
+      - Luciano Pagnoni
+    - place: '31'
+      total: 890.235
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 329.7
+        reach: 396.308
+        distance: 396.308
+        leading: 164.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.646462404279Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:55.459054987141Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.021059 h
+        gsElapsed: 3.032072 h
+        ssVelocity: 23.76 km / h
+        gsVelocity: 23.68 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 890.235
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '129'
+      - Luciano Gallo
+    - place: '32'
+      total: 889.49
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 331.4
+        reach: 396.308
+        distance: 396.308
+        leading: 161.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:27.061339962931Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:31:40.199457554666Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.020316 h
+        gsElapsed: 3.027833 h
+        ssVelocity: 23.77 km / h
+        gsVelocity: 23.71 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 889.49
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '141'
+      - Albino Malli
+    - place: '33'
+      total: 887.675
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 307.5
+        reach: 396.308
+        distance: 396.308
+        leading: 183.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:31.124956784882Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:35:42.473076256172Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.086486 h
+        gsElapsed: 3.095131 h
+        ssVelocity: 23.26 km / h
+        gsVelocity: 23.19 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 887.675
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '105'
+      - Daniele Bevilacqua
+    - place: '34'
+      total: 887.28
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 320.9
+        reach: 396.308
+        distance: 396.308
+        leading: 170.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:19.544132846359Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:33:21.409489550633Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.050518 h
+        gsElapsed: 3.055947 h
+        ssVelocity: 23.53 km / h
+        gsVelocity: 23.49 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 887.28
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '116'
+      - Ivan Centa
+    - place: '35'
+      total: 885.099
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 311.1
+        reach: 396.308
+        distance: 396.308
+        leading: 177.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.775581739577Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:35:02.810892003915Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.073065 h
+        gsElapsed: 3.084114 h
+        ssVelocity: 23.36 km / h
+        gsVelocity: 23.28 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 885.099
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '177'
+      - Bogdan Bialka
+    - place: '36'
+      total: 881.868
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 295.5
+        reach: 396.308
+        distance: 396.308
+        leading: 190.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:24.504207215326Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:37:58.309207673343Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.126057 h
+        gsElapsed: 3.132864 h
+        ssVelocity: 22.97 km / h
+        gsVelocity: 22.92 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 881.868
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '158'
+      - Antonio Ruta
+    - place: '37'
+      total: 877.274
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 315.1
+        reach: 396.308
+        distance: 396.308
+        leading: 165.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:25.758196220102Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:34:20.185431647292Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.065119 h
+        gsElapsed: 3.072274 h
+        ssVelocity: 23.42 km / h
+        gsVelocity: 23.37 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 877.274
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '135'
+      - Cristian Inverardi
+    - place: '38'
+      total: 867.636
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 290.3
+        reach: 396.308
+        distance: 396.308
+        leading: 181
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:26.901201037525Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:38:58.89456950168Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.142220 h
+        gsElapsed: 3.149693 h
+        ssVelocity: 22.85 km / h
+        gsVelocity: 22.79 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 867.636
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '174'
+      - Davide Zaltron
+    - place: '39'
+      total: 862.718
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 295.5
+        reach: 396.308
+        distance: 396.308
+        leading: 170.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:31.579729063278Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:37:57.457607794391Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.123855 h
+        gsElapsed: 3.132627 h
+        ssVelocity: 22.98 km / h
+        gsVelocity: 22.92 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 862.718
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '113'
+      - Tommaso Carlini
+    - place: '40'
+      total: 860.526
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 293.9
+        reach: 396.308
+        distance: 396.308
+        leading: 170.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:23.353387126533Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:38:16.387053395082Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.131398 h
+        gsElapsed: 3.137885 h
+        ssVelocity: 22.93 km / h
+        gsVelocity: 22.88 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 860.526
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '156'
+      - Massimo Rapari
+    - place: '41'
+      total: 857.149
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 305.3
+        reach: 396.308
+        distance: 396.308
+        leading: 155.5
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:34.193528036692Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:36:06.180224345981Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.092219 h
+        gsElapsed: 3.101717 h
+        ssVelocity: 23.22 km / h
+        gsVelocity: 23.15 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 857.149
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '164'
+      - Anca Tabara
+    - place: '42'
+      total: 799.115
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 245
+        reach: 396.308
+        distance: 396.308
+        leading: 157.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:22.028795434065Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T14:48:59.486601569132Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.310405 h
+        gsElapsed: 3.316524 h
+        ssVelocity: 21.69 km / h
+        gsVelocity: 21.65 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 799.115
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '120'
+      - Gabriele D'Arrigo
+    - place: '43'
+      total: 721.258
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 169.6
+        reach: 396.308
+        distance: 396.308
+        leading: 155.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:20.571882972155Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T15:09:15.568845840662Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.648610 h
+        gsElapsed: 3.654325 h
+        ssVelocity: 19.68 km / h
+        gsVelocity: 19.65 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 721.258
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '160'
+      - Giuseppe Simone
+    - place: '44'
+      total: 620.115
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 141.5
+        reach: 396.308
+        distance: 396.308
+        leading: 82.3
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:45.297789202126Z
+        gs: 2020-08-05T11:30:00Z
+        es: 2020-08-05T15:17:49.62372716526Z
+        ssDistance: 71.791 km
+        ssElapsed: 3.784535 h
+        gsElapsed: 3.797118 h
+        ssVelocity: 18.97 km / h
+        gsVelocity: 18.91 km / h
+      reach:
+        extra: 73.847 km
+        flown: 73.847 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 620.115
+      landedMade: 73.847 km
+      stoppedAlt: null
+  - - - '172'
+      - Alessio Voltan
+    - place: '45'
+      total: 555.784
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 383.852
+        distance: 383.852
+        leading: 171.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:33:03.335269657996Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 71.526 km
+        flown: 71.526 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 555.784
+      landedMade: 69.479 km
+      stoppedAlt: 305.000 m
+  - - - '165'
+      - Andrea Terenziani
+    - place: '46'
+      total: 541.056
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 392.696
+        distance: 392.696
+        leading: 148.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:32.211557124059Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 73.174 km
+        flown: 73.174 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 541.056
+      landedMade: 73.165 km
+      stoppedAlt: 525.000 m
+  - - - '133'
+      - Alessio Guidi
+    - place: '47'
+      total: 411.177
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 324.239
+        distance: 324.239
+        leading: 86.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:59.71469544097Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 60.418 km
+        flown: 60.418 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 411.177
+      landedMade: 60.143 km
+      stoppedAlt: 410.000 m
+  - - - '142'
+      - Luca Mammucari
+    - place: '48'
+      total: 403.972
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 314.193
+        distance: 314.193
+        leading: 89.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:57.645231704917Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 58.546 km
+        flown: 58.546 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 403.972
+      landedMade: 58.021 km
+      stoppedAlt: -4888.000 m
+  - - - '176'
+      - Francesco Fontanesi
+    - place: '49'
+      total: 396.55
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 321.771
+        distance: 321.771
+        leading: 74.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:44.635694691361Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 59.958 km
+        flown: 59.958 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 396.55
+      landedMade: 59.623 km
+      stoppedAlt: 241.000 m
+  - - - '140'
+      - Maurizio Maina
+    - place: '50'
+      total: 396.1
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 304.404
+        distance: 304.404
+        leading: 91.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:27.508042532086Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 56.722 km
+        flown: 56.722 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 396.1
+      landedMade: 56.629 km
+      stoppedAlt: 227.000 m
+  - - - '125'
+      - Grzegorz Fiema
+    - place: '51'
+      total: 393.451
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 324.513
+        distance: 324.513
+        leading: 68.9
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:41.656864600448Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 60.469 km
+        flown: 60.469 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 393.451
+      landedMade: 60.285 km
+      stoppedAlt: 263.000 m
+  - - - '149'
+      - Alessandro Palma
+    - place: '52'
+      total: 377.081
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 304.694
+        distance: 304.694
+        leading: 72.4
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:24.181014916884Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 56.776 km
+        flown: 56.776 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 377.081
+      landedMade: 56.310 km
+      stoppedAlt: 237.000 m
+  - - - '147'
+      - Francesco Orcese
+    - place: '53'
+      total: 353.189
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 315.062
+        distance: 315.062
+        leading: 38.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:22.453273929429Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 58.708 km
+        flown: 58.708 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 353.189
+      landedMade: 58.670 km
+      stoppedAlt: 254.000 m
+  - - - '122'
+      - Angelo Dell’Aira
+    - place: '54'
+      total: 339.559
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 279.374
+        distance: 279.374
+        leading: 60.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:24.387369268456Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 52.058 km
+        flown: 52.058 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 339.559
+      landedMade: 51.996 km
+      stoppedAlt: 0.000 m
+  - - - '139'
+      - Alessandro Madaluni
+    - place: '55'
+      total: 335.16
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 312.325
+        distance: 312.325
+        leading: 22.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.888820569164Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 58.198 km
+        flown: 58.198 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 335.16
+      landedMade: 58.202 km
+      stoppedAlt: 237.000 m
+  - - - '127'
+      - Richárd Gabrieli
+    - place: 56=
+      total: 319.887
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 319.887
+        distance: 319.887
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T12:03:02.709730956601Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 59.607 km
+        flown: 59.607 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 319.887
+      landedMade: 59.422 km
+      stoppedAlt: 344.000 m
+  - - - '102'
+      - Matteo Bacchiocchi
+    - place: 56=
+      total: 319.703
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 279.015
+        distance: 279.015
+        leading: 40.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:50.293394811462Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.991 km
+        flown: 51.991 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 319.703
+      landedMade: 51.164 km
+      stoppedAlt: 241.000 m
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - place: '58'
+      total: 317.622
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 287.408
+        distance: 287.408
+        leading: 30.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:59.141536942916Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 53.555 km
+        flown: 53.555 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 317.622
+      landedMade: 52.221 km
+      stoppedAlt: 252.000 m
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - place: '59'
+      total: 296.153
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 278.934
+        distance: 278.934
+        leading: 17.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:17.711876114514Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.976 km
+        flown: 51.976 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 296.153
+      landedMade: 50.971 km
+      stoppedAlt: 251.000 m
+  - - - '144'
+      - Riccardo Marchetto
+    - place: '60'
+      total: 288.927
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 288.927
+        distance: 288.927
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:50.801799621426Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 53.838 km
+        flown: 53.838 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 288.927
+      landedMade: 53.809 km
+      stoppedAlt: 642.000 m
+  - - - '167'
+      - Ionut Ulici
+    - place: '61'
+      total: 277.984
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 277.984
+        distance: 277.984
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:59.997302811711Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.799 km
+        flown: 51.799 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 277.984
+      landedMade: 50.187 km
+      stoppedAlt: 257.000 m
+  - - - '173'
+      - Paolo Zammarchi
+    - place: 62=
+      total: 267.383
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 251.36
+        distance: 251.36
+        leading: 16
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:05.381971048066Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 46.838 km
+        flown: 46.838 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 267.383
+      landedMade: 46.824 km
+      stoppedAlt: 238.000 m
+  - - - '111'
+      - Marco Busetta
+    - place: 62=
+      total: 267.177
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 251.527
+        distance: 251.527
+        leading: 15.7
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:27.579267214436Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 46.869 km
+        flown: 46.869 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 267.177
+      landedMade: 46.831 km
+      stoppedAlt: 236.000 m
+  - - - '123'
+      - Sergio Di Fazio
+    - place: 62=
+      total: 266.714
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 266.714
+        distance: 266.714
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:34:25.965178254249Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.699 km
+        flown: 49.699 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 266.714
+      landedMade: 49.270 km
+      stoppedAlt: 243.000 m
+  - - - '107'
+      - Gabriele Bonafini
+    - place: '65'
+      total: 263.28
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 263.28
+        distance: 263.28
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:52.771188614512Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.059 km
+        flown: 49.059 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 263.28
+      landedMade: 48.972 km
+      stoppedAlt: 237.000 m
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - place: '66'
+      total: 253.507
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 253.507
+        distance: 253.507
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:45:52.601726359551Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 47.238 km
+        flown: 47.238 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 253.507
+      landedMade: 47.044 km
+      stoppedAlt: 197.000 m
+  - - - '110'
+      - Klaudia Bulgakow
+    - place: '67'
+      total: 248.527
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 248.527
+        distance: 248.527
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:33:44.985829210675Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 46.310 km
+        flown: 46.310 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 248.527
+      landedMade: 46.141 km
+      stoppedAlt: 234.000 m
+  - - - '170'
+      - Paolo Veratti
+    - place: '68'
+      total: 247.799
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 245.645
+        distance: 245.645
+        leading: 2.2
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:39.203904979466Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 45.773 km
+        flown: 45.773 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 247.799
+      landedMade: 45.774 km
+      stoppedAlt: 267.000 m
+  - - - '143'
+      - Valerio Marchetti
+    - place: '69'
+      total: 246.16
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 246.16
+        distance: 246.16
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:49:01.355108180167Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 45.869 km
+        flown: 45.869 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 246.16
+      landedMade: 45.665 km
+      stoppedAlt: 259.000 m
+  - - - '131'
+      - Marco Gentilini
+    - place: '70'
+      total: 239.323
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 239.323
+        distance: 239.323
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:30:34.256932043027Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.595 km
+        flown: 44.595 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 239.323
+      landedMade: 44.444 km
+      stoppedAlt: 280.000 m
+  - - - '118'
+      - Igor D'Agostino
+    - place: '71'
+      total: 237.906
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 237.906
+        distance: 237.906
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:33:25.71676229967Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 44.331 km
+        flown: 44.331 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 237.906
+      landedMade: 44.162 km
+      stoppedAlt: 251.000 m
+  - - - '114'
+      - Mirco Casarini
+    - place: '72'
+      total: 144
+      jump: 95.422 s
+      penalties:
+        adds: []
+        muls: []
+        resets:
+        - penalty-reset: 144
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 224.726
+        distance: 224.726
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2020-08-05T11:28:24.577691272403Z
+        gs: 2020-08-05T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 41.875 km
+        flown: 41.875 km
+      demeritReset: 80.726
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets:
+        - penalty-reset: 144
+      penaltyReason: ''
+      subtotal: 224.726
+      landedMade: 41.196 km
+      stoppedAlt: 0.000 m
+  - - - '178'
+      - Marius Saigiu
+    - place: 73=
+      total: 26.833
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 26.833
+        distance: 26.833
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: 2020-08-05T11:08:17.205733439407Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 3.909 km
+        flown: 3.909 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 26.833
+      landedMade: 2.059 km
+      stoppedAlt: 393.000 m
+  - - - '175'
+      - Mariusz Wisniowski
+    - place: 73=
+      total: 26.833
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 26.833
+        distance: 26.833
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: 2020-08-05T11:08:16.21976134784Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 3.907 km
+        flown: 3.907 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 26.833
+      landedMade: 3.019 km
+      stoppedAlt: 383.000 m
+  - - - '128'
+      - Michele Gaiba
+    - place: 73=
+      total: 26.833
+      jump: null
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 26.833
+        distance: 26.833
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: null
+        gs: null
+        es: 2020-08-05T11:08:16.638220099122Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 3.907 km
+        flown: 3.907 km
+      demeritReset: 0
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
+      penaltyReason: ''
+      subtotal: 26.833
+      landedMade: 2.034 km
+      stoppedAlt: 394.000 m
 - - - - '111'
       - Marco Busetta
     - place: '1'

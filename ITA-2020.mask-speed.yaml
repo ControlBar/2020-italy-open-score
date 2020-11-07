@@ -1,28 +1,28 @@
 ssBestTime:
 - 2.141540 h
 - 2.542850 h
-- null
+- 2.907516 h
 - 4.532814 h
 - 4.010057 h
 - 2.165803 h
 gsBestTime:
 - 2.149181 h
 - 2.345431 h
-- null
+- 2.922927 h
 - 4.538416 h
 - 3.483688 h
 - 2.173867 h
 taskDistance:
 - 51.517078 km
 - 74.486014 km
-- null
+- 73.846626 km
 - 105.761993 km
 - 87.546415 km
 - 62.543034 km
 taskSpeedDistance:
 - 50.917078 km
 - 74.065201 km
-- null
+- 71.791355 km
 - 101.877086 km
 - 86.483476 km
 - 60.408156 km
@@ -375,7 +375,182 @@ ssSpeed:
       - Gbriel-Alexandru Ivan
     - time: 4.098398 h
       frac: 1.640713e-2
-- []
+- - - - '145'
+      - Federico Nevastro
+    - time: 2.907516 h
+      frac: 1
+  - - - '106'
+      - Christian Biasi
+    - time: 2.918853 h
+      frac: 0.96464198
+  - - - '171'
+      - Biagio Alberto Vitale
+    - time: 2.921860 h
+      frac: 0.9586386
+  - - - '146'
+      - Joachim Oberhauser
+    - time: 2.922389 h
+      frac: 0.95762696
+  - - - '138'
+      - Marco Littamè
+    - time: 2.922470 h
+      frac: 0.95747399
+  - - - '115'
+      - Alberto Castagna
+    - time: 2.960260 h
+      frac: 0.90146151
+  - - - '137'
+      - Slawomir Kaczynski
+    - time: 2.962413 h
+      frac: 0.8987972
+  - - - '180'
+      - Michal Gierlach
+    - time: 2.967863 h
+      frac: 0.89220604
+  - - - '108'
+      - Michele Boschi
+    - time: 2.968940 h
+      frac: 0.89092713
+  - - - '159'
+      - Krzysztof Schmidt
+    - time: 2.972307 h
+      frac: 0.88697651
+  - - - '124'
+      - Paolo Facchini
+    - time: 2.975277 h
+      frac: 0.88354812
+  - - - '168'
+      - Marco Valentini
+    - time: 2.976207 h
+      frac: 0.8824853
+  - - - '166'
+      - Tiziano Trambaioli
+    - time: 2.978172 h
+      frac: 0.88025504
+  - - - '109'
+      - Federico Brown Manzone
+    - time: 2.981069 h
+      frac: 0.87700375
+  - - - '161'
+      - Matteo Siragna
+    - time: 2.985840 h
+      frac: 0.87174126
+  - - - '157'
+      - Elio Rossi
+    - time: 2.986099 h
+      frac: 0.87145777
+  - - - '132'
+      - Jacek Górski
+    - time: 2.986357 h
+      frac: 0.87117727
+  - - - '104'
+      - Loris Berta
+    - time: 2.988752 h
+      frac: 0.86858102
+  - - - '155'
+      - Alfio Ragaglia
+    - time: 2.989076 h
+      frac: 0.86823233
+  - - - '153'
+      - Gianbasilio Profiti
+    - time: 2.991124 h
+      frac: 0.86603485
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - time: 3.013096 h
+      frac: 0.84348866
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - time: 3.013102 h
+      frac: 0.84348202
+  - - - '117'
+      - Gianfranco Crestani
+    - time: 3.016713 h
+      frac: 0.83993401
+  - - - '130'
+      - Andrea Garolla
+    - time: 3.018488 h
+      frac: 0.83820414
+  - - - '129'
+      - Luciano Gallo
+    - time: 3.020316 h
+      frac: 0.83643183
+  - - - '148'
+      - Luciano Pagnoni
+    - time: 3.021059 h
+      frac: 0.83571444
+  - - - '150'
+      - Luca Paoletti
+    - time: 3.022790 h
+      frac: 0.83404944
+  - - - '154'
+      - Stefano Pucci
+    - time: 3.024322 h
+      frac: 0.83258162
+  - - - '126'
+      - Alessandro Fuzzi
+    - time: 3.037124 h
+      frac: 0.82056279
+  - - - '169'
+      - Alessandro Vallero
+    - time: 3.044439 h
+      frac: 0.81387281
+  - - - '105'
+      - Daniele Bevilacqua
+    - time: 3.050518 h
+      frac: 0.80840355
+  - - - '151'
+      - Piergiorgio Pintossi
+    - time: 3.054858 h
+      frac: 0.80454689
+  - - - '158'
+      - Antonio Ruta
+    - time: 3.065119 h
+      frac: 0.79557461
+  - - - '116'
+      - Ivan Centa
+    - time: 3.073065 h
+      frac: 0.78875937
+  - - - '141'
+      - Albino Malli
+    - time: 3.086486 h
+      frac: 0.77749218
+  - - - '156'
+      - Massimo Rapari
+    - time: 3.092219 h
+      frac: 0.77276546
+  - - - '121'
+      - Giorgio Darra
+    - time: 3.115618 h
+      frac: 0.75395772
+  - - - '174'
+      - Davide Zaltron
+    - time: 3.123855 h
+      frac: 0.74750721
+  - - - '177'
+      - Bogdan Bialka
+    - time: 3.126057 h
+      frac: 0.74579679
+  - - - '113'
+      - Tommaso Carlini
+    - time: 3.131398 h
+      frac: 0.74167154
+  - - - '135'
+      - Cristian Inverardi
+    - time: 3.142220 h
+      frac: 0.73341239
+  - - - '164'
+      - Anca Tabara
+    - time: 3.310405 h
+      frac: 0.61780695
+  - - - '120'
+      - Gabriele D'Arrigo
+    - time: 3.648610 h
+      frac: 0.42622509
+  - - - '160'
+      - Giuseppe Simone
+    - time: 3.784535 h
+      frac: 0.35805387
 - - - - '111'
       - Marco Busetta
     - time: 4.532814 h
@@ -1197,7 +1372,182 @@ gsSpeed:
       - Gbriel-Alexandru Ivan
     - time: 4.117816 h
       frac: 0
-- []
+- - - - '145'
+      - Federico Nevastro
+    - time: 2.922927 h
+      frac: 1
+  - - - '106'
+      - Christian Biasi
+    - time: 2.923602 h
+      frac: 0.99461783
+  - - - '171'
+      - Biagio Alberto Vitale
+    - time: 2.923977 h
+      frac: 0.99277368
+  - - - '146'
+      - Joachim Oberhauser
+    - time: 2.926522 h
+      frac: 0.98358636
+  - - - '138'
+      - Marco Littamè
+    - time: 2.930598 h
+      frac: 0.97279451
+  - - - '180'
+      - Michal Gierlach
+    - time: 2.974326 h
+      frac: 0.90331278
+  - - - '108'
+      - Michele Boschi
+    - time: 2.974389 h
+      frac: 0.9032348
+  - - - '159'
+      - Krzysztof Schmidt
+    - time: 2.978874 h
+      frac: 0.89769068
+  - - - '137'
+      - Slawomir Kaczynski
+    - time: 2.979365 h
+      frac: 0.89709276
+  - - - '109'
+      - Federico Brown Manzone
+    - time: 2.982260 h
+      frac: 0.89360366
+  - - - '124'
+      - Paolo Facchini
+    - time: 2.983978 h
+      frac: 0.89155945
+  - - - '168'
+      - Marco Valentini
+    - time: 2.986265 h
+      frac: 0.88886836
+  - - - '166'
+      - Tiziano Trambaioli
+    - time: 2.987987 h
+      frac: 0.88686333
+  - - - '132'
+      - Jacek Górski
+    - time: 2.991458 h
+      frac: 0.88287384
+  - - - '115'
+      - Alberto Castagna
+    - time: 2.991802 h
+      frac: 0.88248172
+  - - - '161'
+      - Matteo Siragna
+    - time: 2.992259 h
+      frac: 0.881963
+  - - - '155'
+      - Alfio Ragaglia
+    - time: 2.993799 h
+      frac: 0.88022176
+  - - - '153'
+      - Gianbasilio Profiti
+    - time: 2.996593 h
+      frac: 0.87709344
+  - - - '104'
+      - Loris Berta
+    - time: 2.999275 h
+      frac: 0.87412801
+  - - - '157'
+      - Elio Rossi
+    - time: 3.000888 h
+      frac: 0.87236198
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - time: 3.026794 h
+      frac: 0.84545732
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - time: 3.026797 h
+      frac: 0.8454552
+  - - - '129'
+      - Luciano Gallo
+    - time: 3.027833 h
+      frac: 0.84442872
+  - - - '154'
+      - Stefano Pucci
+    - time: 3.029371 h
+      frac: 0.84291182
+  - - - '117'
+      - Gianfranco Crestani
+    - time: 3.030020 h
+      frac: 0.8422745
+  - - - '150'
+      - Luca Paoletti
+    - time: 3.031803 h
+      frac: 0.84052801
+  - - - '148'
+      - Luciano Pagnoni
+    - time: 3.032072 h
+      frac: 0.84026586
+  - - - '130'
+      - Andrea Garolla
+    - time: 3.039365 h
+      frac: 0.83322745
+  - - - '126'
+      - Alessandro Fuzzi
+    - time: 3.039889 h
+      frac: 0.83272691
+  - - - '169'
+      - Alessandro Vallero
+    - time: 3.048573 h
+      frac: 0.82454661
+  - - - '105'
+      - Daniele Bevilacqua
+    - time: 3.055947 h
+      frac: 0.81774762
+  - - - '151'
+      - Piergiorgio Pintossi
+    - time: 3.066163 h
+      frac: 0.80853208
+  - - - '158'
+      - Antonio Ruta
+    - time: 3.072274 h
+      frac: 0.8031243
+  - - - '116'
+      - Ivan Centa
+    - time: 3.084114 h
+      frac: 0.79285149
+  - - - '141'
+      - Albino Malli
+    - time: 3.095131 h
+      frac: 0.78351672
+  - - - '156'
+      - Massimo Rapari
+    - time: 3.101717 h
+      frac: 0.77803226
+  - - - '121'
+      - Giorgio Darra
+    - time: 3.123655 h
+      frac: 0.76022729
+  - - - '174'
+      - Davide Zaltron
+    - time: 3.132627 h
+      frac: 0.75313446
+  - - - '177'
+      - Bogdan Bialka
+    - time: 3.132864 h
+      frac: 0.75294884
+  - - - '113'
+      - Tommaso Carlini
+    - time: 3.137885 h
+      frac: 0.7490248
+  - - - '135'
+      - Cristian Inverardi
+    - time: 3.149693 h
+      frac: 0.73991627
+  - - - '164'
+      - Anca Tabara
+    - time: 3.316524 h
+      frac: 0.62436826
+  - - - '120'
+      - Gabriele D'Arrigo
+    - time: 3.654325 h
+      frac: 0.43224198
+  - - - '160'
+      - Giuseppe Simone
+    - time: 3.797118 h
+      frac: 0.36056219
 - - - - '111'
       - Marco Busetta
     - time: 4.538416 h
@@ -1854,7 +2204,99 @@ altStopped:
   - - - '113'
       - Tommaso Carlini
     - 439.000 m
-- []
+- - - - '139'
+      - Alessandro Madaluni
+    - 237.000 m
+  - - - '149'
+      - Alessandro Palma
+    - 237.000 m
+  - - - '133'
+      - Alessio Guidi
+    - 410.000 m
+  - - - '172'
+      - Alessio Voltan
+    - 305.000 m
+  - - - '165'
+      - Andrea Terenziani
+    - 525.000 m
+  - - - '122'
+      - Angelo Dell’Aira
+    - 0.000 m
+  - - - '162'
+      - Arkadiusz Slusarczyk
+    - 251.000 m
+  - - - '176'
+      - Francesco Fontanesi
+    - 241.000 m
+  - - - '147'
+      - Francesco Orcese
+    - 254.000 m
+  - - - '107'
+      - Gabriele Bonafini
+    - 237.000 m
+  - - - '136'
+      - Gbriel-Alexandru Ivan
+    - 252.000 m
+  - - - '125'
+      - Grzegorz Fiema
+    - 263.000 m
+  - - - '118'
+      - Igor D'Agostino
+    - 251.000 m
+  - - - '167'
+      - Ionut Ulici
+    - 257.000 m
+  - - - '110'
+      - Klaudia Bulgakow
+    - 234.000 m
+  - - - '142'
+      - Luca Mammucari
+    - -4888.000 m
+  - - - '111'
+      - Marco Busetta
+    - 236.000 m
+  - - - '131'
+      - Marco Gentilini
+    - 280.000 m
+  - - - '119'
+      - Maria Antonietta D'Angela
+    - 197.000 m
+  - - - '178'
+      - Marius Saigiu
+    - 393.000 m
+  - - - '175'
+      - Mariusz Wisniowski
+    - 383.000 m
+  - - - '102'
+      - Matteo Bacchiocchi
+    - 241.000 m
+  - - - '140'
+      - Maurizio Maina
+    - 227.000 m
+  - - - '128'
+      - Michele Gaiba
+    - 394.000 m
+  - - - '114'
+      - Mirco Casarini
+    - 0.000 m
+  - - - '170'
+      - Paolo Veratti
+    - 267.000 m
+  - - - '173'
+      - Paolo Zammarchi
+    - 238.000 m
+  - - - '144'
+      - Riccardo Marchetto
+    - 642.000 m
+  - - - '127'
+      - Richárd Gabrieli
+    - 344.000 m
+  - - - '123'
+      - Sergio Di Fazio
+    - 243.000 m
+  - - - '143'
+      - Valerio Marchetti
+    - 259.000 m
 - - - - '141'
       - Albino Malli
     - 297.000 m

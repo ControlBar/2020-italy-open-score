@@ -1,7 +1,7 @@
 pilotsAtEss:
 - 39
 - 48
-- 0
+- 44
 - 25
 - 33
 - 60
@@ -441,7 +441,226 @@ arrivalRank:
     - lag: 1.772385 h
       rank: '48'
       frac: 0
-- []
+- - - - '145'
+      - Federico Nevastro
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0
+  - - - '106'
+      - Christian Biasi
+    - lag: 0.000675 h
+      rank: '2'
+      frac: 0
+  - - - '171'
+      - Biagio Alberto Vitale
+    - lag: 0.001050 h
+      rank: '3'
+      frac: 0
+  - - - '146'
+      - Joachim Oberhauser
+    - lag: 0.003595 h
+      rank: '4'
+      frac: 0
+  - - - '138'
+      - Marco Littamè
+    - lag: 0.007672 h
+      rank: '5'
+      frac: 0
+  - - - '180'
+      - Michal Gierlach
+    - lag: 0.051400 h
+      rank: '6'
+      frac: 0
+  - - - '108'
+      - Michele Boschi
+    - lag: 0.051462 h
+      rank: '7'
+      frac: 0
+  - - - '159'
+      - Krzysztof Schmidt
+    - lag: 0.055948 h
+      rank: '8'
+      frac: 0
+  - - - '137'
+      - Slawomir Kaczynski
+    - lag: 0.056439 h
+      rank: '9'
+      frac: 0
+  - - - '109'
+      - Federico Brown Manzone
+    - lag: 0.059333 h
+      rank: '10'
+      frac: 0
+  - - - '124'
+      - Paolo Facchini
+    - lag: 0.061052 h
+      rank: '11'
+      frac: 0
+  - - - '168'
+      - Marco Valentini
+    - lag: 0.063338 h
+      rank: '12'
+      frac: 0
+  - - - '166'
+      - Tiziano Trambaioli
+    - lag: 0.065060 h
+      rank: '13'
+      frac: 0
+  - - - '132'
+      - Jacek Górski
+    - lag: 0.068531 h
+      rank: '14'
+      frac: 0
+  - - - '115'
+      - Alberto Castagna
+    - lag: 0.068876 h
+      rank: '15'
+      frac: 0
+  - - - '161'
+      - Matteo Siragna
+    - lag: 0.069332 h
+      rank: '16'
+      frac: 0
+  - - - '155'
+      - Alfio Ragaglia
+    - lag: 0.070872 h
+      rank: '17'
+      frac: 0
+  - - - '153'
+      - Gianbasilio Profiti
+    - lag: 0.073667 h
+      rank: '18'
+      frac: 0
+  - - - '104'
+      - Loris Berta
+    - lag: 0.076349 h
+      rank: '19'
+      frac: 0
+  - - - '157'
+      - Elio Rossi
+    - lag: 0.077961 h
+      rank: '20'
+      frac: 0
+  - - - '112'
+      - Silvia Buzzi Ferraris
+    - lag: 0.103868 h
+      rank: '21'
+      frac: 0
+  - - - '179'
+      - Charles Henrique Guimaraes Moura
+    - lag: 0.103870 h
+      rank: '22'
+      frac: 0
+  - - - '129'
+      - Luciano Gallo
+    - lag: 0.104907 h
+      rank: '23'
+      frac: 0
+  - - - '154'
+      - Stefano Pucci
+    - lag: 0.106445 h
+      rank: '24'
+      frac: 0
+  - - - '117'
+      - Gianfranco Crestani
+    - lag: 0.107093 h
+      rank: '25'
+      frac: 0
+  - - - '150'
+      - Luca Paoletti
+    - lag: 0.108877 h
+      rank: '26'
+      frac: 0
+  - - - '148'
+      - Luciano Pagnoni
+    - lag: 0.109145 h
+      rank: '27'
+      frac: 0
+  - - - '130'
+      - Andrea Garolla
+    - lag: 0.116438 h
+      rank: '28'
+      frac: 0
+  - - - '126'
+      - Alessandro Fuzzi
+    - lag: 0.116963 h
+      rank: '29'
+      frac: 0
+  - - - '169'
+      - Alessandro Vallero
+    - lag: 0.125647 h
+      rank: '30'
+      frac: 0
+  - - - '105'
+      - Daniele Bevilacqua
+    - lag: 0.133021 h
+      rank: '31'
+      frac: 0
+  - - - '151'
+      - Piergiorgio Pintossi
+    - lag: 0.143236 h
+      rank: '32'
+      frac: 0
+  - - - '158'
+      - Antonio Ruta
+    - lag: 0.149347 h
+      rank: '33'
+      frac: 0
+  - - - '116'
+      - Ivan Centa
+    - lag: 0.161188 h
+      rank: '34'
+      frac: 0
+  - - - '141'
+      - Albino Malli
+    - lag: 0.172205 h
+      rank: '35'
+      frac: 0
+  - - - '156'
+      - Massimo Rapari
+    - lag: 0.178790 h
+      rank: '36'
+      frac: 0
+  - - - '121'
+      - Giorgio Darra
+    - lag: 0.200728 h
+      rank: '37'
+      frac: 0
+  - - - '174'
+      - Davide Zaltron
+    - lag: 0.209701 h
+      rank: '38'
+      frac: 0
+  - - - '177'
+      - Bogdan Bialka
+    - lag: 0.209937 h
+      rank: '39'
+      frac: 0
+  - - - '113'
+      - Tommaso Carlini
+    - lag: 0.214959 h
+      rank: '40'
+      frac: 0
+  - - - '135'
+      - Cristian Inverardi
+    - lag: 0.226766 h
+      rank: '41'
+      frac: 0
+  - - - '164'
+      - Anca Tabara
+    - lag: 0.393598 h
+      rank: '42'
+      frac: 0
+  - - - '120'
+      - Gabriele D'Arrigo
+    - lag: 0.731398 h
+      rank: '43'
+      frac: 0
+  - - - '160'
+      - Giuseppe Simone
+    - lag: 0.874191 h
+      rank: '44'
+      frac: 0
 - - - - '111'
       - Marco Busetta
     - lag: 0.000000 h
